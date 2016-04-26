@@ -6,8 +6,14 @@
 
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
+
   <link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet-0.7.2/leaflet.css" />
+  <link rel="stylesheet" type="text/css" href="css/styles.css" />
   <link href="http://ajax.googleapis.com/ajax/libs/jqueryui/1.10.4/themes/smoothness/jquery-ui.min.css" rel="stylesheet" type="text/css"/>
+  
+
+
+
   <link href="Leaflet.timeline-master/dist/leaflet.timeline.min.css" rel="stylesheet">
   <style type="text/css">
 
@@ -81,7 +87,7 @@
   <script src="http://cdn.leafletjs.com/leaflet-0.7.2/leaflet.js"></script>
   <script src="Leaflet.timeline-master/dist/leaflet.timeline.min.js"></script>
 
-  <script src="accidents.js" type="text/javascript"></script>
+  <script src="accidentsMulti.js" type="text/javascript"></script>
   <script>
 
     $(document).ready(
@@ -114,6 +120,18 @@
       
         
       onLoadData(accidents);
+      /*
+      function updateList(timeline){
+        var displayed = timeline.getDisplayed();
+        var list = document.getElementById('displayed-list');
+        list.innerHTML = "";
+        displayed.forEach(function(quake){
+          var li = document.createElement('li');
+          li.innerHTML = quake.properties.title;
+          list.appendChild(li);
+        });
+      }*/
+
       function onLoadData(data){
         
         var timelineControl = L.timelineSliderControl({
@@ -133,10 +151,11 @@
         timelineControl.addTo(map);
         timelineControl.addTimelines(timeline);
         timeline.addTo(map);
-        timeline.on('change', function(e){
+        timeline.setTime("2010-02-24");
+        /*timeline.on('change', function(e){
           updateList(e.target);
         });
-        updateList(timeline);
+        //updateList(timeline); */
       }
 
     
