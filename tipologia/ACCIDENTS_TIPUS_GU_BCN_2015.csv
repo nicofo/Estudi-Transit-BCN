@@ -1,4 +1,4 @@
-Numero dexpedient;Codi districte;Nom districte;Codi barri;Nom barri;Codi carrer;Nom carrer;Num postal caption;Descripcio dia setmana;Dia setmana;Descripcio tipus dia;NK Any;Mes de any;Nom mes;Dia de mes;Hora de dia;Descripcio torn;Descripcio tipus accident;Coordenada UTM (Y);Coordenada UTM (X)
+Número d'expedient;Codi districte;Nom districte;Codi barri;Nom barri;Codi carrer;Nom carrer;Num postal caption;Descripció dia setmana;Dia setmana;Descripció tipus dia;NK Any;Mes de any;Nom mes;Dia de mes;Hora de dia;Descripció torn;Descripció tipus accident;Coordenada UTM (Y);Coordenada UTM (X)
 2015S000215;10;Sant Martí;64;el Camp de l'Arpa del Clot;283200;Ripollès;0065 0069;Diumenge;Dg;Laboral;2015;1;Gener;11;21;Tarda;Col.lisió fronto-lateral;4585294,89;432013,22
 2015S000787;10;Sant Martí;64;el Camp de l'Arpa del Clot;194406;Maragall;0005 0005;Diumenge;Dg;Laboral;2015;2;Febrer;1;04;Nit;Xoc contra element estàtic;4585194,82;431644,10
 2015S000390;10;Sant Martí;64;el Camp de l'Arpa del Clot;161407;Indústria;0253 0253;Dissabte;Ds;Laboral;2015;1;Gener;17;00;Nit;Xoc contra element estàtic;4585157,93;431472,27
