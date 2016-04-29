@@ -33,7 +33,7 @@
       .leaflet-control-layers{
           top: 10px;
           border-radius:0px;
-          width:60px;
+          width:70px;
           bottom:35px;     
       }
       
@@ -52,7 +52,7 @@
           width:376px;
           font-family: "sans-serif", "arial";
           font-size:12px;
-          padding:5px;
+          padding:6px;
       }
       #down a{
           text-decoration:none;
@@ -103,7 +103,9 @@
         "Satel·lit": Esri_WorldImagery
       };
       OpenStreetMap_BlackAndWhite.addTo(map);
+
       L.control.scale().addTo(map);
+      L.control.zoom().addTo(map);
 
 
       
@@ -129,33 +131,30 @@
           ];
         });
       }
-      var geoData = geoJson2heat(accidents, 5);
-      var heatMap = new L.heatLayer(geoData,{radius: 30,blur: 15, maxZoom: 17});
-      heatMap.addTo(map);
+      var intensity= 4;
+      var geoData0 = geoJson2heat(accidents0, intensity);
+      var heatMap0 = new L.heatLayer(geoData0,{radius: 30,blur: 15, maxZoom: 17});
+      var geoData1 = geoJson2heat(accidents1, intensity);
+      var heatMap1 = new L.heatLayer(geoData1,{radius: 30,blur: 15, maxZoom: 17});
+      var geoData2 = geoJson2heat(accidents2, intensity);
+      var heatMap2 = new L.heatLayer(geoData2,{radius: 30,blur: 15, maxZoom: 17});
+      var geoData3 = geoJson2heat(accidents3, intensity);
+      var heatMap3 = new L.heatLayer(geoData3,{radius: 30,blur: 15, maxZoom: 17});
+      var geoData4 = geoJson2heat(accidents4, intensity);
+      var heatMap4 = new L.heatLayer(geoData4,{radius: 30,blur: 15, maxZoom: 17});
+      var geoData5 = geoJson2heat(accidents5, intensity);
+      var heatMap5 = new L.heatLayer(geoData5,{radius: 30,blur: 15, maxZoom: 17});
+            
       
-      var bombLay = L.layerGroup();
-      var bombesPunts = L.geoJson(accidents, {
-
-        style: function (feature) {
-          return feature.properties && feature.properties.style;
-        },
-
-        onEachFeature: onEachFeature,
-
-        pointToLayer: function (feature, latlng) {
-          return L.circleMarker(latlng, {
-            radius: 5,
-            fillColor: "#00ff00",
-            color: "#000",
-            weight: 1,
-            opacity: 1,
-            fillOpacity: 0.8
-          });
-        }
-      }).addTo(bombLay);
+      
 
       var overlayMaps = {
-        "Bombes" : bombLay
+        "2010": heatMap0,
+        "2011": heatMap1,
+        "2012": heatMap2,
+        "2013": heatMap3,
+        "2014": heatMap4,
+        "2015": heatMap5
       };
       L.control.layers(baseMaps, overlayMaps).addTo(map);
 
@@ -173,7 +172,9 @@
 
 </head>
 <body>
-  <div  id="map"></div>
+  
+ 
+  <div  id="map" style="position: relative;"></div>
 </body>
     
 </html>
