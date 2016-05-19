@@ -16,27 +16,27 @@
        height: 100%;
         background:white;
     }
-      
+
       body{
-        margin:0px;   
+        margin:0px;
           height:100%;
           width:100%
       }
-      
+
       html{
-          margin:0px;   
+          margin:0px;
           height:100%;
           width:100%
-          
+
       }
 
       .leaflet-control-layers{
           top: 10px;
           border-radius:0px;
           width:70px;
-          bottom:35px;     
+          bottom:35px;
       }
-      
+
       .leaflet-control-zoom leaflet-bar leaflet-control{
           border-radius:0px;
       }
@@ -58,12 +58,12 @@
           text-decoration:none;
           color:black;
           display:block;
-          
+
       }
 
       .rc{
           width:13px;
-          margin-right:5px;    
+          margin-right:5px;
       }
       .ghbtns { position: relative; top: 4px; margin-left: 5px; }
       a { color: #0077ff; }
@@ -86,7 +86,7 @@
       window.map = L.map('map', {
           attributionControl:false,
           zoomControl: false
-        }).setView([41.386837, 2.169708], 12);//Per possar la orientacio inicial
+        }).setView([41.386837, 2.169708], 13);//Per possar la orientacio inicial
 
 
       var Esri_WorldImagery = L.tileLayer('http://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}', {
@@ -108,9 +108,8 @@
       L.control.zoom().addTo(map);
 
 
-      
 
-        
+
 
       function onEachFeature(feature, layer) {
         var popupContent = "<p>I started out as a GeoJSON " +
@@ -133,20 +132,39 @@
       }
       var intensity= 4;
       var geoData0 = geoJson2heat(accidents0, intensity);
-      var heatMap0 = new L.heatLayer(geoData0,{radius: 30,blur: 15, maxZoom: 17});
+      var heatMap0 = new L.heatLayer(geoData0,{radius: 30,blur: 15, maxZoom: 18});
       var geoData1 = geoJson2heat(accidents1, intensity);
-      var heatMap1 = new L.heatLayer(geoData1,{radius: 30,blur: 15, maxZoom: 17});
+      var heatMap1 = new L.heatLayer(geoData1,{radius: 30,blur: 15, maxZoom: 18});
       var geoData2 = geoJson2heat(accidents2, intensity);
-      var heatMap2 = new L.heatLayer(geoData2,{radius: 30,blur: 15, maxZoom: 17});
+      var heatMap2 = new L.heatLayer(geoData2,{radius: 30,blur: 15, maxZoom: 18});
       var geoData3 = geoJson2heat(accidents3, intensity);
-      var heatMap3 = new L.heatLayer(geoData3,{radius: 30,blur: 15, maxZoom: 17});
+      var heatMap3 = new L.heatLayer(geoData3,{radius: 30,blur: 15, maxZoom: 18});
       var geoData4 = geoJson2heat(accidents4, intensity);
-      var heatMap4 = new L.heatLayer(geoData4,{radius: 30,blur: 15, maxZoom: 17});
+      var heatMap4 = new L.heatLayer(geoData4,{radius: 30,blur: 15, maxZoom: 18});
       var geoData5 = geoJson2heat(accidents5, intensity);
-      var heatMap5 = new L.heatLayer(geoData5,{radius: 30,blur: 15, maxZoom: 17});
-            
-      
-      
+      var heatMap5 = new L.heatLayer(geoData5,{radius: 30,blur: 15, maxZoom: 18});
+      var meansLay = L.layerGroup();
+      var meansPunts = L.geoJson(accidents99, {
+
+          style: function (feature) {
+            return feature.properties && feature.properties.style;
+          },
+
+          //onEachFeature: onEachFeature,
+
+          pointToLayer: function (feature, latlng) {
+            return L.circleMarker(latlng, {
+              radius: 5,
+              fillColor: "#00ff00",
+              color: "#000",
+              weight: 1,
+              opacity: 1,
+              fillOpacity: 0.8
+            });
+          }
+      }).addTo(meansLay);
+
+
 
       var overlayMaps = {
         "2010": heatMap0,
@@ -154,28 +172,29 @@
         "2012": heatMap2,
         "2013": heatMap3,
         "2014": heatMap4,
-        "2015": heatMap5
+        "2015": heatMap5,
+        "means": meansLay
       };
       L.control.layers(baseMaps, overlayMaps).addTo(map);
 
-    
 
-      
+
+
+
 
 
 	});
 
 
-    
+
 
     </script>
 
 </head>
 <body>
-  
- 
+
+
   <div  id="map" style="position: relative;"></div>
 </body>
-    
-</html>
 
+</html>
