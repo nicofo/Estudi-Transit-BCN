@@ -77,6 +77,9 @@
   <script src="https://maps.googleapis.com/maps/api/js?v=3&sensor=false"></script>
   <script src="leaflet-search/leaflet-search.js" type="text/javascript"></script>
   <script src="accidentsMulti.js" type="text/javascript"></script>
+  <script src="meansMulti.js" type="text/javascript"></script>
+  <script src="dcscanMulti.js" type="text/javascript"></script>
+  <script src="affinityMulti.js" type="text/javascript"></script>
   <script src="Leaflet.heat-gh-pages/dist/leaflet-heat.js" type="text/javascript"></script>
   <script>
 
@@ -144,19 +147,19 @@
       var geoData5 = geoJson2heat(accidents5, intensity);
       var heatMap5 = new L.heatLayer(geoData5,{radius: 30,blur: 15, maxZoom: 18});
       var meansLay = L.layerGroup();
-      var meansPunts = L.geoJson(accidents99, {
+      var meansPunts = L.geoJson(means, {
 
           style: function (feature) {
             return feature.properties && feature.properties.style;
           },
 
-          //onEachFeature: onEachFeature,
+          onEachFeature: onEachFeatureCluster,
 
           pointToLayer: function (feature, latlng) {
             return L.circleMarker(latlng, {
-              radius: 5,
-              fillColor: "#00ff00",
-              color: "#000",
+              radius: 1,
+              fillColor: feature.properties.color,
+              color: feature.properties.color,
               weight: 1,
               opacity: 1,
               fillOpacity: 0.8
@@ -164,6 +167,56 @@
           }
       }).addTo(meansLay);
 
+
+      function onEachFeatureCluster(feature, layer) {
+        var popupContent = "<p>Num. Cluster: " +
+            feature.properties.num + "</p>";
+
+
+
+        layer.bindPopup(popupContent);
+      }
+
+      var clusterLay = L.layerGroup();
+      var clusterPunts = L.geoJson(dcscan, {
+
+          style: function (feature) {
+            return feature.properties && feature.properties.style;
+          },
+
+          onEachFeature: onEachFeatureCluster,
+
+          pointToLayer: function (feature, latlng) {
+            return L.circleMarker(latlng, {
+              radius: 1,
+              fillColor: feature.properties.color,
+              color: feature.properties.color,
+              weight: 1,
+              opacity: 1,
+              fillOpacity: 0.8
+            });
+          }
+      }).addTo(clusterLay);
+      var affinityLay = L.layerGroup();
+      var affinityPunts = L.geoJson(affinity, {
+
+          style: function (feature) {
+            return feature.properties && feature.properties.style;
+          },
+
+          onEachFeature: onEachFeatureCluster,
+
+          pointToLayer: function (feature, latlng) {
+            return L.circleMarker(latlng, {
+              radius: 1,
+              fillColor: feature.properties.color,
+              color: feature.properties.color,
+              weight: 1,
+              opacity: 1,
+              fillOpacity: 0.8
+            });
+          }
+      }).addTo(affinityLay);
 
 
       var overlayMaps = {
@@ -173,7 +226,9 @@
         "2013": heatMap3,
         "2014": heatMap4,
         "2015": heatMap5,
-        "means": meansLay
+        "means": meansLay,
+        "affinity": affinityLay,
+        "DBSCAN": clusterLay
       };
       L.control.layers(baseMaps, overlayMaps).addTo(map);
 
