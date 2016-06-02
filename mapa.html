@@ -197,6 +197,7 @@
             });
           }
       }).addTo(clusterLay);
+      /*
       var affinityLay = L.layerGroup();
       var affinityPunts = L.geoJson(affinity, {
 
@@ -217,7 +218,7 @@
             });
           }
       }).addTo(affinityLay);
-
+*/
 
       var overlayMaps = {
         "2010": heatMap0,
@@ -227,7 +228,7 @@
         "2014": heatMap4,
         "2015": heatMap5,
         "means": meansLay,
-        "affinity": affinityLay,
+        //"affinity": affinityLay,
         "DBSCAN": clusterLay
       };
       L.control.layers(baseMaps, overlayMaps).addTo(map);
