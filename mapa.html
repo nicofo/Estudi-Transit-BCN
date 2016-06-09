@@ -77,9 +77,9 @@
   <script src="https://maps.googleapis.com/maps/api/js?v=3&sensor=false"></script>
   <script src="leaflet-search/leaflet-search.js" type="text/javascript"></script>
   <script src="accidentsMulti.js" type="text/javascript"></script>
-  <script src="meansMulti.js" type="text/javascript"></script>
-  <script src="dcscanMulti.js" type="text/javascript"></script>
-  <script src="affinityMulti.js" type="text/javascript"></script>
+  <script src="cruillRefMulti.js" type="text/javascript"></script>
+
+  <script src="cruillNotMulti.js" type="text/javascript"></script>
   <script src="Leaflet.heat-gh-pages/dist/leaflet-heat.js" type="text/javascript"></script>
   <script>
 
@@ -146,7 +146,7 @@
       var heatMap4 = new L.heatLayer(geoData4,{radius: 30,blur: 15, maxZoom: 18});
       var geoData5 = geoJson2heat(accidents5, intensity);
       var heatMap5 = new L.heatLayer(geoData5,{radius: 30,blur: 15, maxZoom: 18});
-      var meansLay = L.layerGroup();
+    /*  var meansLay = L.layerGroup();
       var meansPunts = L.geoJson(means, {
 
           style: function (feature) {
@@ -166,7 +166,7 @@
             });
           }
       }).addTo(meansLay);
-
+*/
 
       function onEachFeatureCluster(feature, layer) {
         var popupContent = "<p>Num. Cluster: " +
@@ -177,8 +177,8 @@
         layer.bindPopup(popupContent);
       }
 
-      var clusterLay = L.layerGroup();
-      var clusterPunts = L.geoJson(dcscan, {
+      var cruillLay = L.layerGroup();
+      var cruillPunts = L.geoJson(cruillRef, {
 
           style: function (feature) {
             return feature.properties && feature.properties.style;
@@ -188,15 +188,15 @@
 
           pointToLayer: function (feature, latlng) {
             return L.circleMarker(latlng, {
-              radius: 1,
-              fillColor: feature.properties.color,
-              color: feature.properties.color,
+              radius: 5,
+              fillColor: '#f00',
+                      color: '#fff',
               weight: 1,
               opacity: 1,
               fillOpacity: 0.8
             });
           }
-      }).addTo(clusterLay);
+      }).addTo(cruillLay);
       /*
       var affinityLay = L.layerGroup();
       var affinityPunts = L.geoJson(affinity, {
@@ -227,9 +227,8 @@
         "2013": heatMap3,
         "2014": heatMap4,
         "2015": heatMap5,
-        "means": meansLay,
-        //"affinity": affinityLay,
-        "DBSCAN": clusterLay
+        //"means": meansLay,
+        "Cruïlles": cruillLay
       };
       L.control.layers(baseMaps, overlayMaps).addTo(map);
 
