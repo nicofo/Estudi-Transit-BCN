@@ -1,0 +1,107 @@
+﻿.arbre_equipaments
+{
+	display: block;
+}
+
+#marc-web .ArbreEquipaments li
+{
+	padding-left: 0 !important;
+	padding-top: 0 !important;
+	font-weight: bold;
+}
+#marc-web .ArbreEquipaments li ul
+{
+	padding-top: 5px !important;
+	margin: 4px 0 0 -8px !important;
+	padding-bottom: 3px !important;
+}
+#marc-web .ArbreEquipaments li ul li
+{
+	padding: 0 0 0 5px !important;
+	font-weight: normal;
+	margin: 0 !important;
+}
+
+
+#marc-web li.espai-public
+{
+	background: url(http://w20.bcn.cat/web_obres_map/img/item-menu/icones_obres.gif) no-repeat 0 0;
+}
+#marc-web li.serveis-urbans
+{
+	background: url(http://w20.bcn.cat/web_obres_map/img/item-menu/icones_obres.gif) no-repeat 0 -76px;
+}
+#marc-web li.equipaments-habitatges
+{
+	background: url(http://w20.bcn.cat/web_obres_map/img/item-menu/icones_obres.gif) no-repeat 0 -152px;
+}
+#marc-web li.plan-e
+{
+	background: url(http://w20.bcn.cat/web_obres_map/img/item-menu/icones_obres.gif) no-repeat 0 -228px;
+}
+#marc-web li.transport
+{
+	background: url(http://w20.bcn.cat/web_obres_map/img/item-menu/icones_obres.gif) no-repeat 0 -304px;
+}
+#marc-web li.altres
+{
+	background: url(http://w20.bcn.cat/web_obres_map/img/item-menu/icones_obres.gif) no-repeat 0 -380px;
+}
+
+label.espai-public-e
+{
+	background: url(http://w20.bcn.cat/web_obres_map/img/item-menu/icones_obres.gif) no-repeat 0 -923px;
+}
+label.espai-public-a
+{
+	background: url(http://w20.bcn.cat/web_obres_map/img/item-menu/icones_obres.gif) no-repeat 0 -455px;
+}
+
+label.serveis-urbans-e
+{
+	background: url(http://w20.bcn.cat/web_obres_map/img/item-menu/icones_obres.gif) no-repeat 0 -1001px;
+}
+label.serveis-urbans-a
+{
+	background: url(http://w20.bcn.cat/web_obres_map/img/item-menu/icones_obres.gif) no-repeat 0 -533px;
+}
+
+label.equipaments-habitatges-e
+{
+	background: url(http://w20.bcn.cat/web_obres_map/img/item-menu/icones_obres.gif) no-repeat 0 -1079px;
+}
+
+label.equipaments-habitatges-a
+{
+	background: url(http://w20.bcn.cat/web_obres_map/img/item-menu/icones_obres.gif) no-repeat 0 -611px;
+}
+
+label.plan-e-e
+{
+	background: url(http://w20.bcn.cat/web_obres_map/img/item-menu/icones_obres.gif) no-repeat 0 -1157px;
+}
+label.plan-e-a
+{
+	background: url(http://w20.bcn.cat/web_obres_map/img/item-menu/icones_obres.gif) no-repeat 0 -689px;
+}
+label.transport-e
+{
+	background: url(http://w20.bcn.cat/web_obres_map/img/item-menu/icones_obres.gif) no-repeat 0 -1236px;
+}
+label.transport-a
+{
+	background: url(http://w20.bcn.cat/web_obres_map/img/item-menu/icones_obres.gif) no-repeat 0 -767px;
+}
+label.altres-a
+{
+	background: url(http://w20.bcn.cat/web_obres_map/img/item-menu/icones_obres.gif) no-repeat 0 -845px;
+}
+label.altres-e
+{
+	background: url(http://w20.bcn.cat/web_obres_map/img/item-menu/icones_obres.gif) no-repeat 0 -1313px;
+}
+
+#palcerca
+{
+	cursor: text;
+}

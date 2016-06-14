@@ -1,0 +1,1611 @@
+@charset "UTF-8";
+@import url(https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,700);
+/* Tipografies corporatives
+ */
+@font-face {
+  font-family: "Open Sans";
+  font-style: normal;
+  font-weight: 700;
+  src: url(https://themes.googleusercontent.com/static/fonts/opensans/v6/k3k702ZOKiLJc3WVjuplzHZ2MAKAc2x4R1uOSeegc5U.eot);
+  src: local("Open Sans Bold"), local("OpenSans-Bold"), url(https://themes.googleusercontent.com/static/fonts/opensans/v6/k3k702ZOKiLJc3WVjuplzHZ2MAKAc2x4R1uOSeegc5U.eot) format("embedded-opentype"), url(https://themes.googleusercontent.com/static/fonts/opensans/v6/k3k702ZOKiLJc3WVjuplzHhCUOGz7vYGh680lGh-uXM.woff) format("woff"); }
+
+@font-face {
+  font-family: "Open Sans";
+  font-style: italic;
+  font-weight: 700;
+  src: url(https://themes.googleusercontent.com/static/fonts/opensans/v6/PRmiXeptR36kaC0GEAetxrFt29aCHKT7otDW9l62Aag.eot);
+  src: local("Open Sans Bold Italic"), local("OpenSans-BoldItalic"), url(https://themes.googleusercontent.com/static/fonts/opensans/v6/PRmiXeptR36kaC0GEAetxrFt29aCHKT7otDW9l62Aag.eot) format("embedded-opentype"), url(https://themes.googleusercontent.com/static/fonts/opensans/v6/PRmiXeptR36kaC0GEAetxjqR_3kx9_hJXbbyU8S6IN0.woff) format("woff"); }
+
+@font-face {
+  font-family: "Open Sans";
+  font-style: normal;
+  font-weight: 400;
+  src: url(https://themes.googleusercontent.com/static/fonts/opensans/v6/cJZKeOuBrn4kERxqtaUH3fY6323mHUZFJMgTvxaG2iE.eot);
+  src: local("Open Sans"), local("OpenSans"), url(https://themes.googleusercontent.com/static/fonts/opensans/v6/cJZKeOuBrn4kERxqtaUH3fY6323mHUZFJMgTvxaG2iE.eot) format("embedded-opentype"), url(https://themes.googleusercontent.com/static/fonts/opensans/v6/cJZKeOuBrn4kERxqtaUH3T8E0i7KZn-EPnyo3HZu7kw.woff) format("woff"); }
+
+@font-face {
+  font-family: "Open Sans";
+  font-style: italic;
+  font-weight: 400;
+  src: url(https://themes.googleusercontent.com/static/fonts/opensans/v6/xjAJXh38I15wypJXxuGMBmfQcKutQXcIrRfyR5jdjY8.eot);
+  src: local("Open Sans Italic"), local("OpenSans-Italic"), url(https://themes.googleusercontent.com/static/fonts/opensans/v6/xjAJXh38I15wypJXxuGMBmfQcKutQXcIrRfyR5jdjY8.eot) format("embedded-opentype"), url(https://themes.googleusercontent.com/static/fonts/opensans/v6/xjAJXh38I15wypJXxuGMBobN6UDyHWBl620a-IRfuBk.woff) format("woff"); }
+
+@font-face {
+  font-family: "Open Sans";
+  font-style: normal;
+  font-weight: 300;
+  src: url(https://themes.googleusercontent.com/static/fonts/opensans/v6/DXI1ORHCpsQm3Vp6mXoaTXZ2MAKAc2x4R1uOSeegc5U.eot);
+  src: local("Open Sans Light"), local("OpenSans-Light"), url(https://themes.googleusercontent.com/static/fonts/opensans/v6/DXI1ORHCpsQm3Vp6mXoaTXZ2MAKAc2x4R1uOSeegc5U.eot) format("embedded-opentype"), url(https://themes.googleusercontent.com/static/fonts/opensans/v6/DXI1ORHCpsQm3Vp6mXoaTXhCUOGz7vYGh680lGh-uXM.woff) format("woff"); }
+
+@font-face {
+  font-family: "Open Sans";
+  font-style: italic;
+  font-weight: 300;
+  src: url(https://themes.googleusercontent.com/static/fonts/opensans/v6/PRmiXeptR36kaC0GEAetxrXcjzEax2LfQAlK8DdMzhA.eot);
+  src: local("Open Sans Light Italic"), local("OpenSansLight-Italic"), url(https://themes.googleusercontent.com/static/fonts/opensans/v6/PRmiXeptR36kaC0GEAetxrXcjzEax2LfQAlK8DdMzhA.eot) format("embedded-opentype"), url(https://themes.googleusercontent.com/static/fonts/opensans/v6/PRmiXeptR36kaC0GEAetxh_xHqYgAV9Bl_ZQbYUxnQU.woff) format("woff"); }
+
+#brand.v2012 {
+  background: url(/assets/images/brand/banner/2012/ombra-secundaria.png) repeat-x left bottom;
+  border-bottom: 28px solid gray;
+  font-family: Arial, Helvetica, sans-serif;
+  height: 50px;
+  color: black;
+  position: relative;
+  z-index: 200;
+  line-height: 1.4; }
+#brand.v2012 .brand-wrapper {
+  background-color: #f6f6f6;
+  height: 47px; }
+#brand.v2012 .brand-wrapper ul {
+  list-style: none;
+  margin: 0;
+  padding: 0; }
+#brand.v2012 .brand-wrapper a {
+  color: black;
+  font-family: "Open Sans";
+  font-size: 11px;
+  font-weight: normal;
+  text-decoration: none;
+  border: 0; }
+#brand.v2012 .brand-wrapper a:hover {
+  text-decoration: underline; }
+#brand.v2012 .brand-wrapper img {
+  border: none; }
+#brand.v2012 .brand-wrapper .main {
+  background: url(/assets/images/brand/banner/2012/logo-ajment-url.png) no-repeat -268px 0;
+  height: 50px;
+  margin: 0 auto;
+  width: 925px; }
+#brand.v2012 .brand-wrapper .legacy {
+  width: 995px; }
+#brand.v2012 .brand-wrapper .fullscreen, #brand.v2012 .brand-wrapper .light {
+  width: auto; }
+#brand.v2012 .brand-wrapper .fullscreen {
+  min-width: 925px; }
+#brand.v2012 .brand-wrapper .logotype {
+  float: left;
+  padding-top: 2px; }
+#brand.v2012 .brand-wrapper .logotype a {
+  float: left; }
+#brand.v2012 .brand-wrapper .logotype img {
+  display: block; }
+#brand.v2012 .brand-wrapper .navigation {
+  float: right;
+  clear: none; }
+#brand.v2012 .brand-wrapper .navigation ul {
+  background: url(/assets/images/brand/banner/2012/separador-barra.png) repeat-y right top;
+  float: left; }
+#brand.v2012 .brand-wrapper .navigation ul.social {
+  padding: 13px 20px 10px 18px; }
+#brand.v2012 .brand-wrapper .navigation ul.social li {
+  line-height: 1.4;
+  background-image: none; }
+#brand.v2012 .brand-wrapper .navigation ul.social a {
+  float: left;
+  padding: 0 2px; }
+#brand.v2012 .brand-wrapper .navigation ul.social img {
+  display: block; }
+#brand.v2012 .brand-wrapper .navigation ul.languages {
+  background: none;
+  padding: 16px 0 10px 15px; }
+#brand.v2012 .brand-wrapper .navigation ul.languages.last {
+  padding-right: 0; }
+#brand.v2012 .brand-wrapper .navigation ul.languages .active span {
+  color: black;
+  background: url(/assets/images/brand/banner/2012/marcador-idioma.png) no-repeat center bottom;
+  display: block;
+  font-family: "Open Sans";
+  font-size: 12px;
+  font-weight: bold;
+  padding: 0 8px 4px 6px;
+  position: relative;
+  margin-bottom: -4px; }
+#brand.v2012 .brand-wrapper .navigation ul.languages a {
+  display: block;
+  padding: 0 8px 0 6px; }
+#brand.v2012 .brand-wrapper .navigation ul.languages a:hover {
+  text-decoration: none; }
+#brand.v2012 .brand-wrapper .navigation ul.options {
+  padding: 16px 22px 14px 20px; }
+#brand.v2012 .brand-wrapper .navigation ul.options .more {
+  position: relative; }
+#brand.v2012 .brand-wrapper .navigation ul.options .more a {
+  font-weight: bold;
+  background: url(/assets/images/brand/banner/2012/arrow-mes-on.png) no-repeat right center;
+  padding-right: 10px; }
+#brand.v2012 .brand-wrapper .navigation ul.options .more ul {
+  background-color: gray;
+  background-image: none;
+  position: absolute;
+  right: -10px;
+  top: 39px;
+  white-space: nowrap; }
+#brand.v2012 .brand-wrapper .navigation ul.options .more ul a {
+  font-weight: normal;
+  background: none;
+  color: white;
+  display: block;
+  padding: 0; }
+#brand.v2012 .brand-wrapper .navigation ul.options .more ul li {
+  font-size: 12px;
+  line-height: 1.4;
+  background: url(/assets/images/brand/banner/2012/separador-sub-barra.png) repeat-y right top;
+  display: inline-block;
+  float: none;
+  padding: 0 8px 0 2px;
+  vertical-align: top; }
+#brand.v2012 .brand-wrapper .navigation ul.options .more ul li.search {
+  background-image: none;
+  border: none;
+  padding-right: 0; }
+#brand.v2012 .brand-wrapper .navigation ul.social a, #brand.v2012 .brand-wrapper .navigation ul.languages a {
+  text-decoration: none; }
+#brand.v2012 .brand-wrapper .navigation ul.social li, #brand.v2012 .brand-wrapper .navigation ul.languages li {
+  font-size: 12px;
+  line-height: 1.4;
+  position: relative; }
+#brand.v2012 .brand-wrapper .navigation ul.social .title, #brand.v2012 .brand-wrapper .navigation ul.languages .title {
+  background: url(/assets/images/brand/banner/2012/bubble-left.png) no-repeat 0 3px;
+  font-family: Arial;
+  font-size: 10px;
+  min-width: 104px;
+  position: absolute;
+  text-align: center;
+  top: 24px;
+  white-space: nowrap; }
+#brand.v2012 .brand-wrapper .navigation ul.social .title span, #brand.v2012 .brand-wrapper .navigation ul.languages .title span {
+  background: url(/assets/images/brand/banner/2012/bubble-right.png) no-repeat right top;
+  display: block;
+  height: 18px;
+  margin: -5px 0 0 6px;
+  padding: 5px 10px 0 4px; }
+#brand.v2012 .brand-wrapper .navigation ul.social .title .arrow, #brand.v2012 .brand-wrapper .navigation ul.languages .title .arrow {
+  background: url(/assets/images/brand/banner/2012/bubble-top.png) no-repeat left top;
+  display: block;
+  height: 8px;
+  margin: 0 auto;
+  padding: 0;
+  position: relative;
+  width: 12px; }
+#brand.v2012 .brand-wrapper .navigation ul.languages .title {
+  top: 23px; }
+#brand.v2012 .brand-wrapper .navigation li {
+  font-size: 12px;
+  line-height: 1.4;
+  background: url(/assets/images/brand/banner/2012/separador-barra.png) repeat-y right top;
+  float: left;
+  margin: 0; }
+#brand.v2012 .brand-wrapper .navigation li.last {
+  background-image: none; }
+#brand.v2012 .brand-wrapper .navigation a, #brand.v2012 .brand-wrapper .navigation .more span {
+  display: block;
+  font-size: 12px;
+  padding: 0 8px 0 4px; }
+#brand.v2012 .brand-wrapper .search form {
+  margin: 0;
+  background: white url(/assets/images/brand/banner/2012/cercador-fons.png) no-repeat left top;
+  display: block;
+  position: relative; }
+#brand.v2012 .brand-wrapper .search form input {
+  margin: 0;
+  padding: 0; }
+#brand.v2012 .brand-wrapper .search label {
+  color: gray;
+  font-family: "Open Sans";
+  font-size: 12px;
+  font-weight: normal;
+  left: 6px;
+  position: absolute;
+  top: 0; }
+#brand.v2012 .brand-wrapper .search label:hover {
+  cursor: text; }
+#brand.v2012 .brand-wrapper .search #brand-search {
+  font-family: "Open Sans";
+  background: transparent;
+  font-size: 12px;
+  border: none;
+  color: gray;
+  display: block;
+  height: 16px;
+  padding: 0 20px 0 6px;
+  width: 93px; }
+#brand.v2012 .brand-wrapper .search .send {
+  position: absolute;
+  right: 6px;
+  top: 2px; }
+#brand.v2012 .brand-wrapper .search .active label {
+  display: none; }
+#brand.v2012 .brand-wrapper ul.languages .last a, #brand.v2012 .brand-wrapper ul.languages .last span {
+  padding-right: 0; }
+#brand.v2012 .brand-wrapper .fullscreen ul.languages .last a, #brand.v2012 .brand-wrapper .fullscreen ul.languages .last span {
+  padding-right: 8px; }
+
+#brand.v2012.collapsed {
+  background-image: url(/assets/images/brand/banner/2012/ombra-barra.png);
+  border-bottom-width: 0; }
+#brand.v2012.collapsed .brand-wrapper .navigation ul.options .more a {
+  background: url(/assets/images/brand/banner/2012/arrow-mes-off.png) no-repeat right center; }
+#brand.v2012.collapsed .brand-wrapper .navigation ul.options .more ul {
+  display: none; }
+
+#brand-mobile {
+  font-family: Arial, Helvetica, sans-serif;
+  height: 70px;
+  color: black;
+  position: relative;
+  z-index: 200;
+  line-height: 1.4; }
+#brand-mobile .brand-wrapper {
+  background-color: #f6f6f6;
+  height: 67px; }
+#brand-mobile .brand-wrapper ul {
+  list-style: none;
+  margin: 0;
+  padding: 0; }
+#brand-mobile .brand-wrapper a {
+  color: black;
+  font-family: "Open Sans";
+  font-size: 11px;
+  text-decoration: none;
+  border: 0; }
+#brand-mobile .brand-wrapper a:hover {
+  text-decoration: underline; }
+#brand-mobile .brand-wrapper img {
+  border: none; }
+#brand-mobile .brand-wrapper .main {
+  background: url(/assets/images/brand/banner/2012/logo-ajment-url.png) no-repeat -268px 0;
+  height: 70px;
+  margin: 0 auto; }
+#brand-mobile .brand-wrapper .logotype {
+  float: left;
+  padding-top: 2px; }
+#brand-mobile .brand-wrapper .logotype a {
+  float: left; }
+#brand-mobile .brand-wrapper .logotype img {
+  display: block; }
+#brand-mobile .brand-wrapper .navigation {
+  float: right;
+  clear: none; }
+#brand-mobile .languages {
+  float: right;
+  border: 0; }
+#brand-mobile .languages > ul {
+  position: relative;
+  width: 170px; }
+#brand-mobile .languages span {
+  background: url(/assets/images/brand/banner/2012/mobile/arrow_down.png) no-repeat right 4px transparent;
+  color: #191919;
+  padding: 0 20px 0 0; }
+#brand-mobile .languages span.active {
+  background: url(/assets/images/brand/banner/2012/mobile/arrow_up.png) no-repeat right 4px #f0f0f0;
+  color: #0071c8; }
+#brand-mobile .languages ul li {
+  padding: 22px 30px;
+  border: 0;
+  border-radius: 0;
+  -webkit-appearance: none;
+  font-family: "Open Sans";
+  text-decoration: none;
+  list-style-type: none; }
+#brand-mobile .languages ul li ul {
+  width: 170px;
+  display: none;
+  position: absolute;
+  top: 55px;
+  left: 0;
+  background-color: #f0f0f0;
+  padding-bottom: 10px; }
+#brand-mobile .languages ul.show {
+  background-color: #f0f0f0; }
+#brand-mobile .languages ul.show li ul {
+  display: block; }
+#brand-mobile .languages ul li ul li {
+  padding: 10px 40px; }
+#brand-mobile .languages ul li ul li a {
+  font-size: 18px;
+  color: #191919; }
+
+#brand.v2013 {
+  background: url(/assets/images/brand/banner/2013/shadow-secondary.png) repeat-x left bottom;
+  border-bottom: 28px solid gray;
+  font-family: Arial, Helvetica, sans-serif;
+  height: 50px;
+  color: black;
+  position: relative;
+  z-index: 200;
+  line-height: 1.4; }
+#brand.v2013 .brand-wrapper {
+  background-color: #f6f6f6;
+  height: 47px; }
+#brand.v2013 .brand-wrapper ul {
+  list-style: none;
+  margin: 0;
+  padding: 0; }
+#brand.v2013 .brand-wrapper a {
+  color: black;
+  font-family: "Open Sans";
+  font-size: 11px;
+  font-weight: normal;
+  text-decoration: none;
+  border: 0; }
+#brand.v2013 .brand-wrapper a:hover {
+  text-decoration: underline; }
+#brand.v2013 .brand-wrapper img {
+  border: none; }
+#brand.v2013 .brand-wrapper .main {
+  background: url(/assets/images/brand/banner/2013/llima-url.png) no-repeat -268px 0;
+  height: 50px;
+  margin: 0 auto; }
+#brand.v2013 .brand-wrapper .logotype {
+  float: left;
+  padding-top: 2px; }
+#brand.v2013 .brand-wrapper .logotype a {
+  float: left; }
+#brand.v2013 .brand-wrapper .logotype img {
+  width: 130px;
+  height: 43px;
+  display: block; }
+#brand.v2013 .brand-wrapper .navigation {
+  float: right;
+  clear: none; }
+#brand.v2013 .brand-wrapper .navigation ul.social {
+  background: url(/assets/images/brand/banner/2013/separator.png) repeat-y left top; }
+#brand.v2013 .brand-wrapper .navigation ul.language-selector {
+  background: url(/assets/images/brand/banner/2013/separator.png) repeat-y left top; }
+#brand.v2013 .brand-wrapper .navigation ul.languages {
+  background: url(/assets/images/brand/banner/2013/separator.png) repeat-y left top; }
+#brand.v2013 .brand-wrapper .navigation ul {
+  float: left; }
+#brand.v2013 .brand-wrapper .navigation ul.social {
+  padding: 13px 15px 10px 15px; }
+#brand.v2013 .brand-wrapper .navigation ul.social li {
+  line-height: 1.4;
+  background-image: none; }
+#brand.v2013 .brand-wrapper .navigation ul.social a {
+  float: left;
+  padding: 0 2px; }
+#brand.v2013 .brand-wrapper .navigation ul.social img {
+  width: 24px;
+  height: 24px;
+  display: block; }
+#brand.v2013 .brand-wrapper .navigation ul.languages {
+  padding: 16px 0 15px 10px; }
+#brand.v2013 .brand-wrapper .navigation ul.languages.last {
+  padding-right: 0; }
+#brand.v2013 .brand-wrapper .navigation ul.languages .active span {
+  color: black;
+  background: url(/assets/images/brand/banner/2013/language-active.png) no-repeat center bottom;
+  display: block;
+  font-family: "Open Sans";
+  font-size: 12px;
+  font-weight: bold;
+  padding: 0 8px 4px 6px;
+  position: relative;
+  margin-bottom: -4px; }
+#brand.v2013 .brand-wrapper .navigation ul.languages a {
+  display: block;
+  padding: 0 8px 0 6px; }
+#brand.v2013 .brand-wrapper .navigation ul.languages a:hover {
+  text-decoration: none; }
+#brand.v2013 .brand-wrapper .navigation ul.language-selector {
+  padding: 16px 0 11px 18px;
+  width: 50px;
+  text-align: center; }
+#brand.v2013 .brand-wrapper .navigation ul.language-selector li a {
+  padding: 0 8px 0 0; }
+#brand.v2013 .brand-wrapper .navigation ul.language-selector li {
+  display: none;
+  background: transparent;
+  padding: 5px 0; }
+#brand.v2013 .brand-wrapper .navigation ul.language-selector span {
+  font-weight: bold; }
+#brand.v2013 .brand-wrapper .navigation ul.language-selector .active {
+  display: inline-block;
+  background: url(/assets/images/brand/banner/2013/more-off.png) no-repeat right center;
+  padding: 0 10px 0 0;
+  margin-bottom: 4px; }
+#brand.v2013 .brand-wrapper .navigation ul.language-selector.active {
+  background-color: #f6f6f6;
+  box-shadow: 0 0 4px #cccccc; }
+#brand.v2013 .brand-wrapper .navigation ul.language-selector.active li {
+  display: list-item; }
+#brand.v2013 .brand-wrapper .navigation ul.language-selector.active .active {
+  font-weight: bold;
+  background: url(/assets/images/brand/banner/2013/more-on.png) no-repeat right center; }
+#brand.v2013 .brand-wrapper .navigation ul.options {
+  padding: 16px 17px 14px 20px; }
+#brand.v2013 .brand-wrapper .navigation ul.options .more {
+  position: relative; }
+#brand.v2013 .brand-wrapper .navigation ul.options .more a {
+  font-weight: bold;
+  background: url(/assets/images/brand/banner/2013/more-on.png) no-repeat right center;
+  padding-right: 10px; }
+#brand.v2013 .brand-wrapper .navigation ul.options .more ul {
+  background-color: gray;
+  background-image: none;
+  position: absolute;
+  right: -10px;
+  top: 39px;
+  white-space: nowrap; }
+#brand.v2013 .brand-wrapper .navigation ul.options .more ul a {
+  font-weight: normal;
+  font-size: 11px;
+  background: none;
+  color: white;
+  display: block;
+  padding: 0; }
+#brand.v2013 .brand-wrapper .navigation ul.options .more ul li {
+  line-height: 1.4;
+  background: url(/assets/images/brand/banner/2013/separator-secondary.png) repeat-y right top;
+  display: inline-block;
+  float: none;
+  padding: 0 8px 0 2px;
+  vertical-align: top; }
+#brand.v2013 .brand-wrapper .navigation ul.options .more ul li.search {
+  font-size: 11px;
+  background-image: none;
+  border: none;
+  padding-right: 0;
+  padding-left: 5px; }
+#brand.v2013 .brand-wrapper .navigation ul.options .more ul li.search .send {
+  width: 11px;
+  height: 12px; }
+#brand.v2013 .brand-wrapper .navigation ul.social a, #brand.v2013 .brand-wrapper .navigation ul.languages a {
+  text-decoration: none; }
+#brand.v2013 .brand-wrapper .navigation ul.social li, #brand.v2013 .brand-wrapper .navigation ul.languages li {
+  font-size: 12px;
+  line-height: 1.4;
+  position: relative; }
+#brand.v2013 .brand-wrapper .navigation ul.social .title, #brand.v2013 .brand-wrapper .navigation ul.languages .title {
+  background: url(/assets/images/brand/banner/2013/bubble-left.png) no-repeat 0 3px;
+  font-family: Arial;
+  font-size: 10px;
+  min-width: 104px;
+  position: absolute;
+  text-align: center;
+  top: 24px;
+  white-space: nowrap; }
+#brand.v2013 .brand-wrapper .navigation ul.social .title span, #brand.v2013 .brand-wrapper .navigation ul.languages .title span {
+  background: url(/assets/images/brand/banner/2013/bubble-right.png) no-repeat right top;
+  display: block;
+  height: 18px;
+  margin: -5px 0 0 6px;
+  padding: 5px 10px 0 4px; }
+#brand.v2013 .brand-wrapper .navigation ul.social .title .arrow, #brand.v2013 .brand-wrapper .navigation ul.languages .title .arrow {
+  background: url(/assets/images/brand/banner/2013/bubble-top.png) no-repeat left top;
+  display: block;
+  height: 8px;
+  margin: 0 auto;
+  padding: 0;
+  position: relative;
+  width: 12px; }
+#brand.v2013 .brand-wrapper .navigation ul.languages .title {
+  top: 23px; }
+#brand.v2013 .brand-wrapper .navigation li {
+  font-size: 12px;
+  line-height: 1.4;
+  background: url(/assets/images/brand/banner/2013/separator.png) repeat-y right top;
+  float: left;
+  margin: 0; }
+#brand.v2013 .brand-wrapper .navigation li.last {
+  background-image: none; }
+#brand.v2013 .brand-wrapper .navigation a, #brand.v2013 .brand-wrapper .navigation .more span {
+  display: block;
+  font-size: 12px;
+  padding: 0 8px 0 4px; }
+#brand.v2013 .brand-wrapper .search form {
+  margin: 0;
+  background: white;
+  border-radius: 10px;
+  display: block;
+  position: relative; }
+#brand.v2013 .brand-wrapper .search form input {
+  margin: 0;
+  padding: 0; }
+#brand.v2013 .brand-wrapper .search label {
+  color: gray;
+  font-family: "Open Sans";
+  font-size: 11px;
+  font-weight: normal;
+  left: 6px;
+  position: absolute;
+  top: 0; }
+#brand.v2013 .brand-wrapper .search label:hover {
+  cursor: text; }
+#brand.v2013 .brand-wrapper .search #brand-search {
+  font-family: "Open Sans";
+  background: transparent;
+  font-size: 11px;
+  border: none;
+  color: gray;
+  display: block;
+  height: 16px;
+  padding: 0 20px 0 6px;
+  width: 93px; }
+#brand.v2013 .brand-wrapper .search .send {
+  position: absolute;
+  right: 6px;
+  top: 2px; }
+#brand.v2013 .brand-wrapper .search .active label {
+  display: none; }
+#brand.v2013 .brand-wrapper ul.languages .last a, #brand.v2013 .brand-wrapper ul.languages .last span {
+  padding-right: 8px; }
+#brand.v2013 ul.languages-select {
+  float: right;
+  border: 0; }
+#brand.v2013 ul.languages-select > ul {
+  position: relative;
+  width: 170px; }
+#brand.v2013 ul.languages-select span {
+  background: url(/assets/images/brand/banner/2012/mobile/arrow_down.png) no-repeat right 4px transparent;
+  color: #191919;
+  padding: 0 20px 0 0; }
+#brand.v2013 ul.languages-select span.active {
+  background: url(/assets/images/brand/banner/2012/mobile/arrow_up.png) no-repeat right 4px #f0f0f0;
+  color: #0071c8; }
+#brand.v2013 ul.languages-select ul li {
+  padding: 22px 30px;
+  border: 0;
+  border-radius: 0;
+  -webkit-appearance: none;
+  font-family: "Open Sans";
+  text-decoration: none;
+  list-style-type: none; }
+#brand.v2013 ul.languages-select ul li ul {
+  width: 170px;
+  display: none;
+  position: absolute;
+  top: 55px;
+  left: 0;
+  background-color: #f0f0f0;
+  padding-bottom: 10px; }
+#brand.v2013 ul.languages-select ul.show {
+  background-color: #f0f0f0; }
+#brand.v2013 ul.languages-select ul.show li ul {
+  display: block; }
+#brand.v2013 ul.languages-select ul li ul li {
+  padding: 10px 40px; }
+#brand.v2013 ul.languages-select ul li ul li a {
+  font-size: 18px;
+  color: #191919; }
+
+#brand.v2013.collapsed {
+  background-image: url(/assets/images/brand/banner/2013/shadow.png);
+  border-bottom-width: 0; }
+#brand.v2013.collapsed .brand-wrapper .navigation ul.options .more a {
+  background: url(/assets/images/brand/banner/2013/more-off.png) no-repeat right center; }
+#brand.v2013.collapsed .brand-wrapper .navigation ul.options .more ul {
+  display: none; }
+
+@media (min-width: 641px) and (max-width: 960px) {
+  #brand.v2013 {
+    height: 40px;
+    border-bottom: 25px solid gray; }
+  #brand.v2013 .brand-wrapper {
+    height: auto; }
+  #brand.v2013 .brand-wrapper .main {
+    background: url(/assets/images/brand/banner/2013/b2/llima-url.png) no-repeat -268px 0;
+    height: 38px; }
+  #brand.v2013 .brand-wrapper .logotype img {
+    width: 103px;
+    height: 34px; }
+  #brand.v2013 .brand-wrapper .navigation ul.options {
+    padding: 12px 10px 11px; }
+  #brand.v2013 .brand-wrapper .navigation ul.options .more ul {
+    right: -9px;
+    top: 33px; }
+  #brand.v2013 .brand-wrapper .navigation ul.options .more ul a {
+    font-size: 10px; }
+  #brand.v2013 .brand-wrapper .navigation ul.options .more ul li {
+    padding: 0 4px 0 0px; }
+  #brand.v2013 .brand-wrapper .navigation ul.options .more ul li.search {
+    margin-top: 0;
+    padding-left: 0; }
+  #brand.v2013 .brand-wrapper .navigation ul.options .more ul li.search .send {
+    width: 9px;
+    height: 10px;
+    right: 6px;
+    top: 1px; }
+  #brand.v2013 .brand-wrapper .navigation ul.options .more ul li.search label {
+    font-size: 10px;
+    left: 6px;
+    top: 0; }
+  #brand.v2013 .brand-wrapper .navigation ul.options .more ul li.search #brand-search {
+    font-size: 10px;
+    height: 14px;
+    padding: 0 18px 0 6px;
+    width: 73px; }
+  #brand.v2013 .brand-wrapper .navigation ul.social {
+    padding: 9px 9px 8px 10px; }
+  #brand.v2013 .brand-wrapper .navigation ul.social a, #brand.v2013 .brand-wrapper .navigation ul.social li {
+    font-size: 11px; }
+  #brand.v2013 .brand-wrapper .navigation ul.social a img {
+    width: 21px;
+    height: 21px; }
+  #brand.v2013 .brand-wrapper .navigation ul.languages {
+    padding: 12px 0 10px 5px; }
+  #brand.v2013 .brand-wrapper .navigation ul.languages li, #brand.v2013 .brand-wrapper .navigation ul.languages a, #brand.v2013 .brand-wrapper .navigation ul.options li, #brand.v2013 .brand-wrapper .navigation ul.options a {
+    font-size: 11px; }
+  #brand.v2013 .brand-wrapper .navigation ul.languages .active span, #brand.v2013 .brand-wrapper .navigation ul.options .active span {
+    font-size: 11px; }
+  #brand.v2013 .brand-wrapper .navigation ul.languages .last a, #brand.v2013 .brand-wrapper .navigation ul.languages .last span, #brand.v2013 .brand-wrapper .navigation ul.options .last a, #brand.v2013 .brand-wrapper .navigation ul.options .last span {
+    padding-right: 10px; }
+  #brand.v2013 .brand-wrapper .navigation ul.language-selector {
+    padding: 12px 2px 10px 12px;
+    width: 40px; }
+  #brand.v2013 .brand-wrapper .navigation ul.language-selector span, #brand.v2013 .brand-wrapper .navigation ul.language-selector a {
+    font-size: 11px;
+    padding: 0; }
+  #brand.v2013 .brand-wrapper .navigation ul.language-selector li {
+    padding: 8px 0 0 0; }
+  #brand.v2013 .brand-wrapper .navigation ul.language-selector .active {
+    margin-bottom: 0;
+    padding: 0 10px 0 0; } }
+@media (min-width: 481px) and (max-width: 640px) {
+  #brand.v2013 {
+    border-bottom-width: 0;
+    background-image: url(/assets/images/brand/banner/2013/shadow.png);
+    height: 57px; }
+  #brand.v2013 .brand-wrapper {
+    height: auto; }
+  #brand.v2013 .brand-wrapper .main {
+    background: transparent;
+    height: 54px; }
+  #brand.v2013 .brand-wrapper .logotype {
+    width: 30%;
+    padding: 3px 0; }
+  #brand.v2013 .brand-wrapper .logotype img {
+    height: 48px; }
+  #brand.v2013 .brand-wrapper .navigation ul.social, #brand.v2013 .brand-wrapper .navigation ul.options {
+    display: none; }
+  #brand.v2013 .brand-wrapper .navigation ul.languages {
+    background-image: none;
+    padding: 16px 0; }
+  #brand.v2013 .brand-wrapper .navigation ul.languages li a {
+    line-height: 1.7;
+    padding: 0 12px;
+    margin: 0;
+    font-size: 13px; }
+  #brand.v2013 .brand-wrapper .navigation ul.languages li a span {
+    display: none; }
+  #brand.v2013 .brand-wrapper .navigation ul.languages .active span {
+    line-height: 1.7;
+    font-size: 13px;
+    background: url(/assets/images/brand/banner/2013/b3/language_active.png) no-repeat center bottom;
+    padding: 0 12px 2px;
+    position: relative;
+    margin: 0; }
+  #brand.v2013 .brand-wrapper .navigation ul.languages .last a, #brand.v2013 .brand-wrapper .navigation ul.languages .last span {
+    padding-right: 14px; }
+  #brand.v2013 .brand-wrapper .navigation ul.language-selector {
+    background: none;
+    padding: 18px 0 0;
+    width: 95px; }
+  #brand.v2013 .brand-wrapper .navigation ul.language-selector span, #brand.v2013 .brand-wrapper .navigation ul.language-selector a {
+    font-size: 13px;
+    padding: 0; }
+  #brand.v2013 .brand-wrapper .navigation ul.language-selector li {
+    padding: 0 0 27px 24px; }
+  #brand.v2013 .brand-wrapper .navigation ul.language-selector li a {
+    text-decoration: none;
+    padding: 0 10px 0 0; }
+  #brand.v2013 .brand-wrapper .navigation ul.language-selector li.active {
+    font-weight: bold; }
+  #brand.v2013 .brand-wrapper .navigation ul.language-selector .active {
+    background: url(/assets/images/brand/banner/2013/b3/more-off.png) no-repeat right center;
+    padding: 0 20px 0 24px;
+    margin-bottom: 16px; }
+  #brand.v2013 .brand-wrapper .navigation ul.language-selector.active {
+    background-color: #f0f0f0; }
+  #brand.v2013 .brand-wrapper .navigation ul.language-selector.active .active {
+    background: url(/assets/images/brand/banner/2013/b3/more-on.png) no-repeat right center; } }
+@media (min-width: 321px) and (max-width: 480px) {
+  #brand.v2013 {
+    border-bottom-width: 0;
+    background-image: url(/assets/images/brand/banner/2013/shadow.png);
+    height: 57px; }
+  #brand.v2013 .brand-wrapper {
+    height: auto; }
+  #brand.v2013 .brand-wrapper .main {
+    background: transparent;
+    height: 54px; }
+  #brand.v2013 .brand-wrapper .logotype {
+    width: 30%;
+    padding: 3px 0; }
+  #brand.v2013 .brand-wrapper .logotype img {
+    width: 100%;
+    height: 48px; }
+  #brand.v2013 .brand-wrapper .navigation ul.social, #brand.v2013 .brand-wrapper .navigation ul.options {
+    display: none; }
+  #brand.v2013 .brand-wrapper .navigation ul.languages {
+    background-image: none;
+    padding: 14px 0 14px 10px; }
+  #brand.v2013 .brand-wrapper .navigation ul.languages li a {
+    line-height: 1.8;
+    padding: 0 10px;
+    margin: 0;
+    font-size: 13px; }
+  #brand.v2013 .brand-wrapper .navigation ul.languages li a span {
+    display: none; }
+  #brand.v2013 .brand-wrapper .navigation ul.languages .active span {
+    line-height: 1.8;
+    font-size: 13px;
+    background: url(/assets/images/brand/banner/2013/b4/language_active.png) no-repeat center bottom;
+    padding: 0 10px 2px;
+    position: relative;
+    margin: 0; }
+  #brand.v2013 .brand-wrapper .navigation ul.languages .last a, #brand.v2013 .brand-wrapper .navigation ul.languages .last span {
+    padding-right: 14px; }
+  #brand.v2013 .brand-wrapper .navigation ul.language-selector {
+    background: none;
+    padding: 18px 0 0;
+    width: 95px; }
+  #brand.v2013 .brand-wrapper .navigation ul.language-selector span, #brand.v2013 .brand-wrapper .navigation ul.language-selector a {
+    font-size: 13px;
+    padding: 0; }
+  #brand.v2013 .brand-wrapper .navigation ul.language-selector li {
+    padding: 0 0 27px 24px; }
+  #brand.v2013 .brand-wrapper .navigation ul.language-selector li a {
+    text-decoration: none;
+    padding: 0 8px 0 0; }
+  #brand.v2013 .brand-wrapper .navigation ul.language-selector li.active {
+    font-weight: bold; }
+  #brand.v2013 .brand-wrapper .navigation ul.language-selector .active {
+    background: url(/assets/images/brand/banner/2013/b4/more-off.png) no-repeat right center;
+    padding: 0 20px 0 24px;
+    margin-bottom: 16px; }
+  #brand.v2013 .brand-wrapper .navigation ul.language-selector.active {
+    background-color: #f0f0f0; }
+  #brand.v2013 .brand-wrapper .navigation ul.language-selector.active .active {
+    background: url(/assets/images/brand/banner/2013/b4/more-on.png) no-repeat right center; } }
+@media (min-width: 241px) and (max-width: 320px) {
+  #brand.v2013 {
+    border-bottom-width: 0;
+    background-image: url(/assets/images/brand/banner/2013/shadow.png);
+    height: 57px; }
+  #brand.v2013 .brand-wrapper {
+    height: auto; }
+  #brand.v2013 .brand-wrapper .main {
+    background: transparent;
+    height: 54px; }
+  #brand.v2013 .brand-wrapper .logotype {
+    width: 45%;
+    padding: 3px 0; }
+  #brand.v2013 .brand-wrapper .logotype img {
+    width: 100%;
+    height: 48px; }
+  #brand.v2013 .brand-wrapper .navigation ul.social, #brand.v2013 .brand-wrapper .navigation ul.options {
+    display: none; }
+  #brand.v2013 .brand-wrapper .navigation ul.languages {
+    background-image: none;
+    padding-top: 20px; }
+  #brand.v2013 .brand-wrapper .navigation ul.languages li a {
+    line-height: 1.8;
+    padding: 0 16px 4px 14px;
+    margin: 0;
+    font-size: 13px; }
+  #brand.v2013 .brand-wrapper .navigation ul.languages .active span {
+    line-height: 1.8;
+    font-size: 13px;
+    background: url(/assets/images/brand/banner/2013/b5/language_active.png) no-repeat center bottom;
+    padding: 0 16px 4px 14px;
+    position: relative;
+    margin: 0; }
+  #brand.v2013 .brand-wrapper .navigation ul.languages .last a, #brand.v2013 .brand-wrapper .navigation ul.languages .last span {
+    padding-right: 14px; }
+  #brand.v2013 .brand-wrapper .navigation ul.language-selector {
+    background: none;
+    padding: 18px 0 0;
+    width: 95px; }
+  #brand.v2013 .brand-wrapper .navigation ul.language-selector span, #brand.v2013 .brand-wrapper .navigation ul.language-selector a {
+    font-size: 13px;
+    padding: 0; }
+  #brand.v2013 .brand-wrapper .navigation ul.language-selector li {
+    padding: 0 27px 24px; }
+  #brand.v2013 .brand-wrapper .navigation ul.language-selector li a {
+    text-decoration: none;
+    padding: 0 8px 0 0; }
+  #brand.v2013 .brand-wrapper .navigation ul.language-selector li.active {
+    font-weight: bold; }
+  #brand.v2013 .brand-wrapper .navigation ul.language-selector .active {
+    background: url(/assets/images/brand/banner/2013/b5/more-off.png) no-repeat right center;
+    padding: 0 20px 0 24px;
+    margin-bottom: 16px; }
+  #brand.v2013 .brand-wrapper .navigation ul.language-selector.active {
+    background-color: #f0f0f0; }
+  #brand.v2013 .brand-wrapper .navigation ul.language-selector.active .active {
+    background: url(/assets/images/brand/banner/2013/b5/more-on.png) no-repeat right center; } }
+@media (max-width: 240px) {
+  #brand.v2013 {
+    border-bottom-width: 0;
+    background-image: url(/assets/images/brand/banner/2013/shadow.png);
+    height: 43px; }
+  #brand.v2013 .brand-wrapper {
+    height: auto; }
+  #brand.v2013 .brand-wrapper .main {
+    background: transparent;
+    height: 40px; }
+  #brand.v2013 .brand-wrapper .logotype {
+    width: 45%;
+    padding: 2px 0; }
+  #brand.v2013 .brand-wrapper .logotype img {
+    width: 100%;
+    height: 36px; }
+  #brand.v2013 .brand-wrapper .navigation ul.social, #brand.v2013 .brand-wrapper .navigation ul.options {
+    display: none; }
+  #brand.v2013 .brand-wrapper .navigation ul.languages {
+    background-image: none;
+    padding-top: 16px; }
+  #brand.v2013 .brand-wrapper .navigation ul.languages li a {
+    line-height: 1.8;
+    padding: 0 16px 4px 14px;
+    margin: 0;
+    font-size: 13px; }
+  #brand.v2013 .brand-wrapper .navigation ul.languages .active span {
+    line-height: 1.8;
+    font-size: 13px;
+    background: url(/assets/images/brand/banner/2013/b5/language_active.png) no-repeat center bottom;
+    padding: 0 16px 4px 14px;
+    position: relative;
+    margin: 0; }
+  #brand.v2013 .brand-wrapper .navigation ul.languages .last a, #brand.v2013 .brand-wrapper .navigation ul.languages .last span {
+    padding-right: 14px; }
+  #brand.v2013 .brand-wrapper .navigation ul.language-selector {
+    background: none;
+    padding: 14px 0 0;
+    width: 85px; }
+  #brand.v2013 .brand-wrapper .navigation ul.language-selector span, #brand.v2013 .brand-wrapper .navigation ul.language-selector a {
+    font-size: 13px;
+    padding: 0; }
+  #brand.v2013 .brand-wrapper .navigation ul.language-selector li {
+    padding: 0 24px 22px; }
+  #brand.v2013 .brand-wrapper .navigation ul.language-selector li a {
+    text-decoration: none;
+    padding: 0 8px 0 0; }
+  #brand.v2013 .brand-wrapper .navigation ul.language-selector li.active {
+    font-weight: bold; }
+  #brand.v2013 .brand-wrapper .navigation ul.language-selector .active {
+    background: url(/assets/images/brand/banner/2013/b5/more-off.png) no-repeat right center;
+    padding: 0 18px 0 24px;
+    margin-bottom: 14px; }
+  #brand.v2013 .brand-wrapper .navigation ul.language-selector.active {
+    background-color: #f0f0f0; }
+  #brand.v2013 .brand-wrapper .navigation ul.language-selector.active .active {
+    background: url(/assets/images/brand/banner/2013/b5/more-on.png) no-repeat right center;
+    margin-bottom: 18px; } }
+#brand.vInspira {
+  font-family: Arial, Helvetica, sans-serif;
+  min-height: 59px;
+  color: black;
+  position: relative;
+  z-index: 200;
+  line-height: 1.4;
+  padding-top: 11px;
+  background-color: gainsboro;
+  border-bottom: 1px solid #f6f6f6; }
+#brand.vInspira .brand-bottom-1 {
+  border-bottom: 1px solid #ededed; }
+#brand.vInspira .brand-bottom-1 .brand-bottom-2 {
+  border-bottom: 1px solid #e1e1e1; }
+#brand.vInspira .brand-wrapper {
+  background-color: white;
+  height: 46px;
+  position: absolute;
+  left: 0;
+  right: 0; }
+#brand.vInspira .brand-wrapper ul {
+  list-style: none;
+  margin: 0;
+  padding: 0; }
+#brand.vInspira .brand-wrapper a {
+  color: black;
+  font-family: "Open Sans";
+  font-size: 11px;
+  font-weight: normal;
+  text-decoration: none;
+  border: 0; }
+#brand.vInspira .brand-wrapper a:hover {
+  text-decoration: none; }
+#brand.vInspira .brand-wrapper img {
+  border: none; }
+#brand.vInspira .brand-wrapper .logotype {
+  background-color: gainsboro;
+  float: left; }
+#brand.vInspira .brand-wrapper .logotype a {
+  float: left; }
+#brand.vInspira .brand-wrapper .logotype img {
+  height: 46px;
+  display: block; }
+#brand.vInspira .brand-wrapper .shield {
+  overflow: hidden;
+  margin-top: 2px;
+  background: url(/assets/images/brand/banner/inspira/llima-shield-b1.png) no-repeat 1px 0px;
+  margin-left: 12px;
+  float: right;
+  height: 42px; }
+#brand.vInspira .brand-wrapper .shield img {
+  height: 42px;
+  display: block;
+  width: 44px; }
+#brand.vInspira .brand-wrapper .shield a {
+  padding: 0; }
+#brand.vInspira .brand-wrapper .navigation {
+  float: right;
+  clear: none; }
+#brand.vInspira .brand-wrapper .navigation li {
+  font-size: 12px;
+  line-height: 1.4;
+  background: url(/assets/images/brand/banner/2013/separator.png) repeat-y right top;
+  float: left;
+  margin: 0; }
+#brand.vInspira .brand-wrapper .navigation li.last {
+  background-image: none; }
+#brand.vInspira .brand-wrapper .navigation a, #brand.vInspira .brand-wrapper .navigation .more span {
+  display: block;
+  font-size: 12px;
+  padding: 0 8px 0 4px; }
+#brand.vInspira .brand-wrapper .navigation ul {
+  float: left; }
+#brand.vInspira .brand-wrapper .navigation ul.languages {
+  padding: 15px 0 15px 14px; }
+#brand.vInspira .brand-wrapper .navigation ul.languages.last {
+  padding-right: 0; }
+#brand.vInspira .brand-wrapper .navigation ul.languages .active span {
+  color: black;
+  background: url(/assets/images/brand/banner/2013/language-active.png) no-repeat center bottom;
+  display: block;
+  font-family: "Open Sans";
+  font-size: 12px;
+  font-weight: bold;
+  padding: 0 8px 4px 6px;
+  position: relative;
+  margin-bottom: -4px; }
+#brand.vInspira .brand-wrapper .navigation ul.languages a {
+  display: block;
+  padding: 0 8px 0 6px; }
+#brand.vInspira .brand-wrapper .navigation ul.languages a:hover {
+  text-decoration: none; }
+#brand.vInspira .brand-wrapper .navigation ul.language-selector {
+  padding: 16px 0 11px 18px;
+  width: 50px;
+  text-align: center; }
+#brand.vInspira .brand-wrapper .navigation ul.language-selector li a {
+  padding: 0 8px 0 0; }
+#brand.vInspira .brand-wrapper .navigation ul.language-selector li {
+  display: none;
+  background: transparent;
+  padding: 5px 0; }
+#brand.vInspira .brand-wrapper .navigation ul.language-selector span {
+  font-weight: bold; }
+#brand.vInspira .brand-wrapper .navigation ul.language-selector .active {
+  display: inline-block;
+  background: url(/assets/images/brand/banner/2013/more-off.png) no-repeat right center;
+  padding: 0 10px 0 0;
+  margin-bottom: 4px; }
+#brand.vInspira .brand-wrapper .navigation ul.language-selector.active {
+  background-color: #f6f6f6; }
+#brand.vInspira .brand-wrapper .navigation ul.language-selector.active li {
+  display: list-item; }
+#brand.vInspira .brand-wrapper .navigation ul.language-selector.active .active {
+  font-weight: bold;
+  background: url(/assets/images/brand/banner/2013/more-on.png) no-repeat right center; }
+
+@media (min-width: 641px) and (max-width: 960px) {
+  #brand.vInspira {
+    min-height: 41px;
+    padding-top: 8px; }
+  #brand.vInspira .brand-wrapper {
+    height: auto; }
+  #brand.vInspira .brand-wrapper .main {
+    height: 41px; }
+  #brand.vInspira .brand-wrapper .logotype img {
+    height: 37px; }
+  #brand.vInspira .brand-wrapper .shield {
+    height: 40px;
+    margin-top: 2px;
+    background: url(/assets/images/brand/banner/inspira/llima-shield-b2.png) no-repeat 1px 0px;
+    margin-left: 12px; }
+  #brand.vInspira .brand-wrapper .shield img {
+    height: 37px;
+    width: 40px;
+    display: block; }
+  #brand.vInspira .brand-wrapper .navigation ul.languages {
+    padding: 12px 0 10px 5px; }
+  #brand.vInspira .brand-wrapper .navigation ul.languages li, #brand.vInspira .brand-wrapper .navigation ul.languages a, #brand.vInspira .brand-wrapper .navigation ul.options li, #brand.vInspira .brand-wrapper .navigation ul.options a {
+    font-size: 11px; }
+  #brand.vInspira .brand-wrapper .navigation ul.languages .active span, #brand.vInspira .brand-wrapper .navigation ul.options .active span {
+    font-size: 11px; }
+  #brand.vInspira .brand-wrapper .navigation ul.languages .last a, #brand.vInspira .brand-wrapper .navigation ul.languages .last span, #brand.vInspira .brand-wrapper .navigation ul.options .last a, #brand.vInspira .brand-wrapper .navigation ul.options .last span {
+    padding-right: 10px; }
+  #brand.vInspira .brand-wrapper .navigation ul.language-selector {
+    padding: 12px 2px 10px 12px;
+    width: 40px; }
+  #brand.vInspira .brand-wrapper .navigation ul.language-selector span, #brand.vInspira .brand-wrapper .navigation ul.language-selector a {
+    font-size: 11px;
+    padding: 0; }
+  #brand.vInspira .brand-wrapper .navigation ul.language-selector li {
+    padding: 8px 0 0 0; }
+  #brand.vInspira .brand-wrapper .navigation ul.language-selector .active {
+    margin-bottom: 0;
+    padding: 0 10px 0 0; } }
+@media (min-width: 481px) and (max-width: 640px) {
+  #brand.vInspira {
+    border-top: 10px solid gainsboro;
+    padding-top: 0;
+    background-color: white;
+    min-height: 63px; }
+  #brand.vInspira .brand-wrapper {
+    height: auto; }
+  #brand.vInspira .brand-wrapper .main {
+    width: 100%;
+    background: transparent;
+    height: auto;
+    overflow: hidden; }
+  #brand.vInspira .brand-wrapper .logotype {
+    background: white;
+    width: 46%; }
+  #brand.vInspira .brand-wrapper .logotype img {
+    background: gainsboro; }
+  #brand.vInspira .brand-wrapper .shield {
+    float: right;
+    width: 10%;
+    height: auto;
+    margin: 5px 0 5px 12px;
+    background: none; }
+  #brand.vInspira .brand-wrapper .navigation {
+    position: absolute;
+    right: 10%;
+    width: 100%; }
+  #brand.vInspira .brand-wrapper .navigation ul.language-selector {
+    float: right;
+    background: none;
+    padding: 4% 0 0;
+    width: 60px; }
+  #brand.vInspira .brand-wrapper .navigation ul.language-selector span, #brand.vInspira .brand-wrapper .navigation ul.language-selector a {
+    font-size: 14px;
+    padding: 0; }
+  #brand.vInspira .brand-wrapper .navigation ul.language-selector li {
+    padding: 0 0 26px 15px; }
+  #brand.vInspira .brand-wrapper .navigation ul.language-selector li a {
+    text-decoration: none;
+    padding: 0 10px 0 0; }
+  #brand.vInspira .brand-wrapper .navigation ul.language-selector li.active {
+    font-weight: bold; }
+  #brand.vInspira .brand-wrapper .navigation ul.language-selector .active {
+    padding: 0 11px;
+    background: url(/assets/images/brand/banner/2013/b3/more-off.png) no-repeat right 7px;
+    background-size: 7px 4px; }
+  #brand.vInspira .brand-wrapper .navigation ul.language-selector.active {
+    background-color: #f0f0f0; }
+  #brand.vInspira .brand-wrapper .navigation ul.language-selector.active .active {
+    background: url(/assets/images/brand/banner/2013/b3/more-on.png) no-repeat right 7px;
+    background-size: 7px 4px;
+    margin-bottom: 25px; } }
+@media (min-width: 321px) and (max-width: 480px) {
+  #brand.vInspira {
+    border-top: 8px solid gainsboro;
+    padding-top: 0;
+    background-color: white;
+    min-height: 0; }
+  #brand.vInspira .brand-wrapper {
+    height: auto; }
+  #brand.vInspira .brand-wrapper .main {
+    width: 100%;
+    background: transparent;
+    height: auto;
+    overflow: hidden; }
+  #brand.vInspira .brand-wrapper .logotype {
+    max-width: 45%; }
+  #brand.vInspira .brand-wrapper .logotype img {
+    width: 100%;
+    height: auto; }
+  #brand.vInspira .brand-wrapper .shield {
+    float: right;
+    width: 10%;
+    height: auto;
+    margin-top: 4px;
+    background: none;
+    margin-left: 5px; }
+  #brand.vInspira .brand-wrapper .shield img {
+    width: 100%;
+    height: auto; }
+  #brand.vInspira .brand-wrapper .navigation {
+    position: absolute;
+    right: 10%;
+    float: none;
+    width: 100%; }
+  #brand.vInspira .brand-wrapper .navigation ul.language-selector {
+    float: right;
+    background: none;
+    padding: 4.5% 0 0;
+    width: 54px; }
+  #brand.vInspira .brand-wrapper .navigation ul.language-selector span, #brand.vInspira .brand-wrapper .navigation ul.language-selector a {
+    font-size: 11px;
+    padding: 0; }
+  #brand.vInspira .brand-wrapper .navigation ul.language-selector li {
+    padding: 0 0 20px 14px; }
+  #brand.vInspira .brand-wrapper .navigation ul.language-selector li a {
+    text-decoration: none;
+    padding: 0 8px 0 0; }
+  #brand.vInspira .brand-wrapper .navigation ul.language-selector li.active {
+    font-weight: bold; }
+  #brand.vInspira .brand-wrapper .navigation ul.language-selector .active {
+    background: url(/assets/images/brand/banner/2013/b4/more-off.png) no-repeat right 7px;
+    background-size: 7px 4px;
+    padding: 0 12px;
+    margin: 0; }
+  #brand.vInspira .brand-wrapper .navigation ul.language-selector.active {
+    background-color: #f0f0f0; }
+  #brand.vInspira .brand-wrapper .navigation ul.language-selector.active .active {
+    background: url(/assets/images/brand/banner/2013/b4/more-on.png) no-repeat right center;
+    background-size: 7px 4px;
+    margin-bottom: 16px; } }
+@media (min-width: 241px) and (max-width: 320px) {
+  #brand.vInspira {
+    border-top: 6px solid gainsboro;
+    padding-top: 0;
+    background-color: white;
+    min-height: 0; }
+  #brand.vInspira .brand-wrapper {
+    height: auto; }
+  #brand.vInspira .brand-wrapper .main {
+    width: 100%;
+    background: transparent;
+    height: auto;
+    overflow: hidden; }
+  #brand.vInspira .brand-wrapper .logotype {
+    flaot: left;
+    width: 60%; }
+  #brand.vInspira .brand-wrapper .logotype img {
+    width: 100%;
+    height: auto; }
+  #brand.vInspira .brand-wrapper .shield {
+    float: right;
+    width: 13%;
+    height: auto;
+    margin: 4px 0;
+    background: none;
+    margin-left: 0px; }
+  #brand.vInspira .brand-wrapper .shield img {
+    width: 100%;
+    height: auto; }
+  #brand.vInspira .brand-wrapper .navigation {
+    position: absolute;
+    right: 13%;
+    width: 100%; }
+  #brand.vInspira .brand-wrapper .navigation ul.language-selector {
+    float: right;
+    background: none;
+    padding: 5% 0 0;
+    width: 50px; }
+  #brand.vInspira .brand-wrapper .navigation ul.language-selector span, #brand.vInspira .brand-wrapper .navigation ul.language-selector a {
+    font-size: 11px;
+    padding: 0; }
+  #brand.vInspira .brand-wrapper .navigation ul.language-selector li {
+    padding: 0 10px 18px; }
+  #brand.vInspira .brand-wrapper .navigation ul.language-selector li a {
+    text-decoration: none;
+    padding: 0 8px 0 0; }
+  #brand.vInspira .brand-wrapper .navigation ul.language-selector li.active {
+    font-weight: bold; }
+  #brand.vInspira .brand-wrapper .navigation ul.language-selector .active {
+    background: url(/assets/images/brand/banner/2013/b5/more-off.png) no-repeat right center;
+    background-size: 7px 4px;
+    padding: 0 10px; }
+  #brand.vInspira .brand-wrapper .navigation ul.language-selector.active {
+    background-color: #f0f0f0; }
+  #brand.vInspira .brand-wrapper .navigation ul.language-selector.active .active {
+    background: url(/assets/images/brand/banner/2013/b5/more-on.png) no-repeat right center;
+    background-size: 7px 4px;
+    margin-bottom: 16px; } }
+@media (max-width: 240px) {
+  #brand.vInspira {
+    border-top: 6px solid gainsboro;
+    padding-top: 0;
+    background-color: white;
+    min-height: 0; }
+  #brand.vInspira .brand-wrapper {
+    height: auto; }
+  #brand.vInspira .brand-wrapper .main {
+    width: 100%;
+    background: transparent;
+    height: auto;
+    overflow: hidden; }
+  #brand.vInspira .brand-wrapper .logotype {
+    float: left;
+    width: 55%; }
+  #brand.vInspira .brand-wrapper .logotype img {
+    width: 100%;
+    height: auto; }
+  #brand.vInspira .brand-wrapper .shield {
+    float: right;
+    width: 12%;
+    height: auto;
+    margin: 3px 0;
+    background: none;
+    margin-left: 0; }
+  #brand.vInspira .brand-wrapper .shield img {
+    width: 100%;
+    height: auto; }
+  #brand.vInspira .brand-wrapper .navigation {
+    position: absolute;
+    right: 12%;
+    width: 100%; }
+  #brand.vInspira .brand-wrapper .navigation ul.social, #brand.vInspira .brand-wrapper .navigation ul.options {
+    display: none; }
+  #brand.vInspira .brand-wrapper .navigation ul.language-selector {
+    float: right;
+    background: none;
+    padding: 3% 0 0;
+    width: 44px; }
+  #brand.vInspira .brand-wrapper .navigation ul.language-selector span, #brand.vInspira .brand-wrapper .navigation ul.language-selector a {
+    font-size: 13px;
+    padding: 0; }
+  #brand.vInspira .brand-wrapper .navigation ul.language-selector li {
+    padding: 0 7px 18px; }
+  #brand.vInspira .brand-wrapper .navigation ul.language-selector li a {
+    text-decoration: none;
+    padding: 0 8px 0 0; }
+  #brand.vInspira .brand-wrapper .navigation ul.language-selector li.active {
+    font-weight: bold; }
+  #brand.vInspira .brand-wrapper .navigation ul.language-selector .active {
+    background: url(/assets/images/brand/banner/2013/b5/more-off.png) no-repeat right 7px;
+    background-size: 7px 4px;
+    padding: 0 7px 0; }
+  #brand.vInspira .brand-wrapper .navigation ul.language-selector.active {
+    background-color: #f0f0f0; }
+  #brand.vInspira .brand-wrapper .navigation ul.language-selector.active .active {
+    background: url(/assets/images/brand/banner/2013/b5/more-on.png) no-repeat right 7px;
+    background-size: 7px 4px;
+    margin-bottom: 18px; } }
+#brand-cultura.v2012 {
+  width: 925px;
+  margin: -3px auto 0;
+  -webkit-border-radius: 0 0 16px 16px;
+  border-radius: 0 0 16px 16px; }
+#brand-cultura.v2012 a {
+  display: block;
+  width: 107px;
+  text-decoration: none;
+  padding: 8px 0 9px;
+  margin: 0 auto; }
+#brand-cultura.v2012 a img {
+  border: 0;
+  display: block; }
+#brand-cultura.v2012.home-red a {
+  width: 174px;
+  padding: 19px 0 20px; }
+#brand-cultura.v2012.legacy {
+  width: 995px; }
+#brand-cultura.v2012.fullscreen {
+  width: auto; }
+#brand-cultura.v2012.ie {
+  position: relative;
+  height: 29px; }
+#brand-cultura.v2012 #brand-cultura-wrapper {
+  margin: 0 17px; }
+#brand-cultura.v2012 #brand-cultura-wrapper .brand-border-left {
+  position: absolute;
+  bottom: -13px;
+  left: 0; }
+#brand-cultura.v2012 #brand-cultura-wrapper .brand-border-right {
+  position: absolute;
+  bottom: -13px;
+  right: 0; }
+#brand-cultura.v2012.red {
+  background-color: #c60c30; }
+#brand-cultura.v2012.red #brand-cultura-wrapper {
+  background-color: #c60c30; }
+#brand-cultura.v2012.white {
+  background-color: white; }
+#brand-cultura.v2012.white #brand-cultura-wrapper {
+  background-color: white; }
+#brand-cultura.v2012.black {
+  background-color: black; }
+#brand-cultura.v2012.black #brand-cultura-wrapper {
+  background-color: black; }
+#brand-cultura.v2012.home-red {
+  background-color: #c60c30; }
+#brand-cultura.v2012.home-red #brand-cultura-wrapper {
+  background-color: #c60c30; }
+#brand-cultura.v2012.home-red #brand-cultura-wrapper .brand-border-left {
+  bottom: -51px; }
+#brand-cultura.v2012.home-red #brand-cultura-wrapper .brand-border-right {
+  bottom: -51px; }
+
+#brand-cultura.v2013 {
+  margin: -3px auto 0;
+  -webkit-border-radius: 0 0 16px 16px;
+  border-radius: 0 0 16px 16px; }
+#brand-cultura.v2013 a {
+  display: block;
+  width: 107px;
+  text-decoration: none;
+  padding: 8px 0 9px;
+  margin: 0 auto; }
+#brand-cultura.v2013 a img {
+  border: 0;
+  display: block; }
+#brand-cultura.v2013.home-red a {
+  width: 174px;
+  padding: 19px 0 20px; }
+#brand-cultura.v2013.ie {
+  position: relative;
+  height: 29px; }
+#brand-cultura.v2013 #brand-cultura-wrapper {
+  margin: 0 17px; }
+#brand-cultura.v2013 #brand-cultura-wrapper .brand-border-left {
+  position: absolute;
+  bottom: -13px;
+  left: 0; }
+#brand-cultura.v2013 #brand-cultura-wrapper .brand-border-right {
+  position: absolute;
+  bottom: -13px;
+  right: 0; }
+#brand-cultura.v2013.red {
+  background-color: #c60c30; }
+#brand-cultura.v2013.red #brand-cultura-wrapper {
+  background-color: #c60c30; }
+#brand-cultura.v2013.white {
+  background-color: white; }
+#brand-cultura.v2013.white #brand-cultura-wrapper {
+  background-color: white; }
+#brand-cultura.v2013.black {
+  background-color: black; }
+#brand-cultura.v2013.black #brand-cultura-wrapper {
+  background-color: black; }
+#brand-cultura.v2013.home-red {
+  background-color: #c60c30; }
+#brand-cultura.v2013.home-red #brand-cultura-wrapper {
+  background-color: #c60c30; }
+#brand-cultura.v2013.home-red #brand-cultura-wrapper .brand-border-left {
+  bottom: -51px; }
+#brand-cultura.v2013.home-red #brand-cultura-wrapper .brand-border-right {
+  bottom: -51px; }
+
+.black-bg {
+  display: block;
+  background-color: black;
+  filter: alpha(opacity=60);
+  -moz-opacity: 0.6;
+  opacity: 0.6;
+  z-index: 300;
+  position: fixed;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0; }
+
+#bcn-apps {
+  display: block;
+  overflow: hidden;
+  width: 320px;
+  margin: auto;
+  opacity: 0;
+  font-family: "Open Sans";
+  position: fixed;
+  top: 15%;
+  z-index: 400; }
+#bcn-apps ul {
+  clear: both;
+  margin: 0;
+  padding: 0;
+  margin-top: 1px; }
+#bcn-apps ul li {
+  background: none;
+  list-style-type: none;
+  background-color: #cccccc;
+  display: block;
+  overflow: hidden;
+  margin-bottom: 1px;
+  font-size: 12px; }
+#bcn-apps ul li > div {
+  float: left; }
+#bcn-apps .bcn-apps-title {
+  background-color: #c60c30;
+  color: white;
+  padding: 5px 10px;
+  font-size: 16px;
+  border-radius: 5px 5px 0 0;
+  font-weight: bold; }
+#bcn-apps .bcn-apps-title span {
+  float: right;
+  margin-top: -2px;
+  margin-right: -6px;
+  cursor: pointer;
+  color: white;
+  border: 1px solid #aeaeae;
+  border-radius: 30px;
+  background: #605f61;
+  font-size: 31px;
+  font-weight: bold;
+  display: inline-block;
+  line-height: 0px;
+  padding: 11px 3px; }
+#bcn-apps .bcn-apps-title span:before {
+  content: "×"; }
+#bcn-apps .bcn-app-icon {
+  position: relative;
+  padding: 20px; }
+#bcn-apps .bcn-app-container {
+  position: relative;
+  height: 60px;
+  width: 180px;
+  padding: 20px 0; }
+#bcn-apps .bcn-app-container .bcn-p a {
+  text-decoration: none;
+  color: black; }
+#bcn-apps .bcn-mes-info {
+  position: absolute;
+  bottom: 0px;
+  right: 0px;
+  background-color: white;
+  padding: 4px;
+  -moz-box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.3);
+  -webkit-box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.3);
+  box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.3); }
+#bcn-apps .bcn-mes-info a {
+  text-decoration: none;
+  color: black; }
+#bcn-apps .bcn-app-icon img {
+  width: 80px;
+  -webkit-border-radius: 12px;
+  -moz-border-radius: 12px;
+  -ms-border-radius: 12px;
+  -o-border-radius: 12px;
+  border-radius: 12px; }
+#bcn-apps .bcn-title {
+  font-size: 16px;
+  font-weight: bold; }
+
+#bcn-ccwr.v2014.desktop {
+  background-color: white;
+  overflow: hidden; }
+#bcn-ccwr.v2014.desktop .bcn-cc-content {
+  background-color: white;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  font-family: "Source Sans Pro", sans-serif;
+  max-width: 925px;
+  margin: 0 auto; }
+#bcn-ccwr.v2014.desktop .bcn-cc-content .bcn-cc-info {
+  width: 80%;
+  float: left;
+  margin: 8px 0; }
+#bcn-ccwr.v2014.desktop .bcn-cc-content .bcn-cc-info p {
+  font-family: "Source Sans Pro", sans-serif;
+  color: #c60c30;
+  font-size: 13px;
+  line-height: 17px;
+  padding: 0;
+  letter-spacing: 0px;
+  margin: 0;
+  font-weight: 400; }
+#bcn-ccwr.v2014.desktop .bcn-cc-content .bcn-cc-info p.bolded {
+  font-weight: 700; }
+#bcn-ccwr.v2014.desktop .bcn-cc-content .bcn-cc-info p.bolded i {
+  font-style: oblique; }
+#bcn-ccwr.v2014.desktop .bcn-cc-content .bcn-cc-info p.bolded i a {
+  color: #c60c30;
+  border: none; }
+#bcn-ccwr.v2014.desktop .bcn-cc-content .bcn-cc-info p.bolded i:hover {
+  text-decoration: underline; }
+#bcn-ccwr.v2014.desktop .bcn-cc-content .bcn-cc-buttons {
+  float: left;
+  text-align: right;
+  min-height: 40px;
+  width: 20%;
+  padding: 8px 0; }
+#bcn-ccwr.v2014.desktop .bcn-cc-content .bcn-cc-buttons .bcn-cc-agree {
+  font-family: Arial, Helvetica;
+  margin: 8px 0 0 0;
+  background-color: #c60c30;
+  -webkit-border-radius: 4px;
+  -moz-border-radius: 4px;
+  border-radius: 4px;
+  text-indent: 0px;
+  display: block;
+  color: white;
+  font-size: 13px;
+  height: 20px;
+  line-height: 19px;
+  width: 70px;
+  text-decoration: none;
+  text-align: center;
+  cursor: pointer;
+  border: 0;
+  float: right; }
+#bcn-ccwr.v2014.desktop .bcn-cc-content .bcn-cc-buttons a.bcn-cc-more-info {
+  color: black;
+  font-size: 12px;
+  text-decoration: underline;
+  font-family: "Source Sans Pro", sans-serif;
+  font-weight: 400;
+  border: 0;
+  float: right;
+  padding: 0;
+  text-align: right;
+  margin: 10px 0 0 12px;
+  display: block; }
+
+#bcn-ccwr.v2014.mobile {
+  background-color: white;
+  overflow: hidden; }
+#bcn-ccwr.v2014.mobile .bcn-cc-content {
+  background-color: white;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  max-width: 925px;
+  margin: 0 auto;
+  width: 95%; }
+#bcn-ccwr.v2014.mobile .bcn-cc-content .bcn-cc-info {
+  margin: 16px 0 0; }
+#bcn-ccwr.v2014.mobile .bcn-cc-content .bcn-cc-info p {
+  font-family: "Source Sans Pro", sans-serif;
+  color: #c60c30;
+  font-size: 10px;
+  line-height: 1.1em;
+  padding: 0;
+  margin: 0;
+  letter-spacing: 0px;
+  text-align: center;
+  font-weight: 400; }
+#bcn-ccwr.v2014.mobile .bcn-cc-content .bcn-cc-info p.bolded {
+  font-weight: 700; }
+#bcn-ccwr.v2014.mobile .bcn-cc-content .bcn-cc-buttons {
+  text-align: center;
+  min-height: 40px;
+  width: 100%;
+  padding: 10px 0 15px; }
+#bcn-ccwr.v2014.mobile .bcn-cc-content .bcn-cc-buttons .bcn-cc-agree {
+  font-family: Arial, Helvetica;
+  margin: 0;
+  background-color: #c60c30;
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  border-radius: 5px;
+  text-indent: 0px;
+  display: inline-block;
+  color: white;
+  font-size: 10px;
+  height: 25px;
+  line-height: 1em;
+  width: 62px;
+  text-decoration: none;
+  text-align: center;
+  cursor: pointer;
+  border: 0; }
+#bcn-ccwr.v2014.mobile .bcn-cc-content .bcn-cc-buttons a.bcn-cc-more-info {
+  display: block;
+  width: 160px;
+  color: black;
+  font-size: 10px;
+  text-decoration: underline;
+  font-family: "Source Sans Pro", sans-serif;
+  font-weight: 400;
+  border: 0;
+  padding: 0;
+  margin: 10px auto 0;
+  line-height: 1em; }

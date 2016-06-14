@@ -1,0 +1,76 @@
+div#General
+{
+	position: relative;
+	background: url(http://w20.bcn.cat/web_obres_map/img/bg-gris.jpg) #FFF no-repeat left top;
+	padding: 10px;
+	display: block;
+	min-width: 800px;
+	min-height: 500px;
+}
+
+div#ControlMapa
+{
+	display: none;
+}
+
+div#Direccion
+{
+	display: none;
+}
+
+div#Capas
+{
+	display: none;
+}
+
+div#Opciones
+{
+	display: none;
+}
+
+div#Otros
+{
+	display: none;
+}
+
+div#Graficos
+{
+	background: white;
+	position: relative;
+	float: left;
+	display: block;
+	left: 0px;
+	top: 0px;
+}
+
+div#Navegacion
+{
+	display: none;
+}
+
+div#Desplazamiento
+{
+	display: none;
+}
+
+div#Slider
+{
+	display: none;
+}
+
+div#ContenedorMapa
+{
+	position: relative;
+	border: 1px solid;
+	display: block;
+}
+
+img#HideToolBarBtn
+{
+	display: none;
+}
+
+div#ImageMap
+{
+	display: none;
+}
