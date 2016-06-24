@@ -4,7 +4,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#3d6bf1",
+        "color": "#81ebd9",
         "num": "Agricultura"
       },
       "geometry": { 
@@ -15,7 +15,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#80413d",
+        "color": "#0c29cf",
         "num": "Agudells"
       },
       "geometry": { 
@@ -26,7 +26,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#53cdc4",
+        "color": "#7f1d07",
         "num": "Aiguablava"
       },
       "geometry": { 
@@ -37,7 +37,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#6d01a6",
+        "color": "#c3b796",
         "num": "Aigues"
       },
       "geometry": { 
@@ -48,7 +48,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#07c73c",
+        "color": "#d6c84d",
         "num": "Albert Bastardas"
       },
       "geometry": { 
@@ -59,7 +59,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#63079f",
+        "color": "#47b7bd",
         "num": "Albert Llanas"
       },
       "geometry": { 
@@ -70,7 +70,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#09d17e",
+        "color": "#bd523d",
         "num": "Alcudia"
       },
       "geometry": { 
@@ -81,7 +81,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#6a69bd",
+        "color": "#97f5b8",
         "num": "Alfons XII"
       },
       "geometry": { 
@@ -92,7 +92,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#721165",
+        "color": "#e241bd",
         "num": "Alfons el Savi"
       },
       "geometry": { 
@@ -103,7 +103,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#8ccc4e",
+        "color": "#228571",
         "num": "Alfonso Comin"
       },
       "geometry": { 
@@ -114,7 +114,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#5fab55",
+        "color": "#4dcf77",
         "num": "Ali Bei"
       },
       "geometry": { 
@@ -125,7 +125,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#a1c444",
+        "color": "#7726f1",
         "num": "Almansa"
       },
       "geometry": { 
@@ -136,7 +136,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#dee66b",
+        "color": "#29797b",
         "num": "Almirall Cervera"
       },
       "geometry": { 
@@ -147,7 +147,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#0ace13",
+        "color": "#b12df9",
         "num": "Almogavers"
       },
       "geometry": { 
@@ -158,7 +158,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#b53311",
+        "color": "#cd5815",
         "num": "Alt de Gironella"
       },
       "geometry": { 
@@ -169,7 +169,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#9bbdf2",
+        "color": "#b302f0",
         "num": "Alta de les Roquetes"
       },
       "geometry": { 
@@ -180,7 +180,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#ef0e9c",
+        "color": "#890b87",
         "num": "Alts Forns"
       },
       "geometry": { 
@@ -191,7 +191,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#90cfa0",
+        "color": "#c6e9bc",
         "num": "Amigo"
       },
       "geometry": { 
@@ -202,7 +202,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#7f9798",
+        "color": "#901738",
         "num": "Amilcar"
       },
       "geometry": { 
@@ -213,7 +213,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#2b6e1d",
+        "color": "#a1e34f",
         "num": "Andrade"
       },
       "geometry": { 
@@ -224,7 +224,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#4506df",
+        "color": "#1fb353",
         "num": "Andreu Nin"
       },
       "geometry": { 
@@ -235,7 +235,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#acffe8",
+        "color": "#4cc269",
         "num": "Angli"
       },
       "geometry": { 
@@ -246,7 +246,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#be2583",
+        "color": "#8a9f76",
         "num": "Antoni Maura"
       },
       "geometry": { 
@@ -257,7 +257,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#dfcc67",
+        "color": "#24900b",
         "num": "Antonio Lopez"
       },
       "geometry": { 
@@ -268,7 +268,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#e4a826",
+        "color": "#eb2cd1",
         "num": "Arago"
       },
       "geometry": { 
@@ -279,7 +279,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#bc51cd",
+        "color": "#84e1b4",
         "num": "Arenys"
       },
       "geometry": { 
@@ -290,7 +290,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#20e8a6",
+        "color": "#b21dfd",
         "num": "Argullos"
       },
       "geometry": { 
@@ -301,7 +301,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#320fb5",
+        "color": "#9c9026",
         "num": "Aribau"
       },
       "geometry": { 
@@ -312,7 +312,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#ff9764",
+        "color": "#a3b02a",
         "num": "Aristides Maillol"
       },
       "geometry": { 
@@ -323,7 +323,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#5be2e9",
+        "color": "#ba13d3",
         "num": "Arnau d'Oms"
       },
       "geometry": { 
@@ -334,7 +334,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#dd6756",
+        "color": "#6548b0",
         "num": "Artesania"
       },
       "geometry": { 
@@ -345,7 +345,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#486d80",
+        "color": "#afc328",
         "num": "Augusta"
       },
       "geometry": { 
@@ -356,7 +356,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#b6143a",
+        "color": "#8da177",
         "num": "Ausias Marc"
       },
       "geometry": { 
@@ -367,7 +367,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#dc440b",
+        "color": "#50fa27",
         "num": "Av Zona Franca"
       },
       "geometry": { 
@@ -378,7 +378,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#f0ce61",
+        "color": "#862a54",
         "num": "B-10 (Llobregat)"
       },
       "geometry": { 
@@ -389,7 +389,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#52307e",
+        "color": "#513e08",
         "num": "Bac de Roda"
       },
       "geometry": { 
@@ -400,7 +400,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#f1fdb5",
+        "color": "#893316",
         "num": "Badajoz"
       },
       "geometry": { 
@@ -411,7 +411,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#11c8fd",
+        "color": "#e52b0a",
         "num": "Bailen"
       },
       "geometry": { 
@@ -422,7 +422,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#6561b5",
+        "color": "#e09bd7",
         "num": "Ballester"
       },
       "geometry": { 
@@ -433,7 +433,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#b97585",
+        "color": "#89d3ab",
         "num": "Balmes"
       },
       "geometry": { 
@@ -444,7 +444,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#53c601",
+        "color": "#a961ea",
         "num": "Barcino"
       },
       "geometry": { 
@@ -455,7 +455,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#72af80",
+        "color": "#378a35",
         "num": "Bartrina"
       },
       "geometry": { 
@@ -466,7 +466,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#79cabb",
+        "color": "#2172e7",
         "num": "Bassegoda"
       },
       "geometry": { 
@@ -477,7 +477,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#b1eef3",
+        "color": "#795598",
         "num": "Berenguer de Palou"
       },
       "geometry": { 
@@ -488,7 +488,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#82d1ca",
+        "color": "#4f5efe",
         "num": "Bilbao"
       },
       "geometry": { 
@@ -499,7 +499,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#6316e5",
+        "color": "#fefa6f",
         "num": "Bisbe Catala"
       },
       "geometry": { 
@@ -510,7 +510,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#4b9cc2",
+        "color": "#9c8d0b",
         "num": "Biscaia"
       },
       "geometry": { 
@@ -521,7 +521,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#ca9459",
+        "color": "#72b6ed",
         "num": "Blanca"
       },
       "geometry": { 
@@ -532,7 +532,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#1448f8",
+        "color": "#46dfdd",
         "num": "Bolivia"
       },
       "geometry": { 
@@ -543,7 +543,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#8e2cbc",
+        "color": "#b0ad10",
         "num": "Bonanova"
       },
       "geometry": { 
@@ -554,7 +554,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#0317c8",
+        "color": "#2ed7fe",
         "num": "Borbo"
       },
       "geometry": { 
@@ -565,7 +565,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#fd29b6",
+        "color": "#6a7888",
         "num": "Bordeta"
       },
       "geometry": { 
@@ -576,7 +576,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#0117f7",
+        "color": "#2e192f",
         "num": "Bori i Fontesta"
       },
       "geometry": { 
@@ -587,7 +587,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#78b03e",
+        "color": "#7d3901",
         "num": "Botticelli"
       },
       "geometry": { 
@@ -598,7 +598,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#a1ea33",
+        "color": "#fc2ae9",
         "num": "Brasil"
       },
       "geometry": { 
@@ -609,7 +609,18 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#45b835",
+        "color": "#463266",
+        "num": "Bruc"
+      },
+      "geometry": { 
+        "type":"MultiPoint",
+        "coordinates":[[2.167480, 41.395850], [2.174530, 41.390540], [2.094340, 41.430230], [2.094023, 41.430649], [2.094000, 41.429460], [2.169760, 41.394150], [2.172310, 41.392250], [2.162900, 41.399240], [2.164660, 41.398000], [2.170910, 41.393300], [2.094920, 41.431020], [2.166370, 41.396720], [2.165230, 41.397570], [2.164120, 41.398430], [2.094850, 41.430940], [2.176280, 41.389200]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "color": "#95f3fb",
         "num": "Buenos Aires"
       },
       "geometry": { 
@@ -620,7 +631,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#1bcd18",
+        "color": "#e6ac52",
         "num": "Buigas"
       },
       "geometry": { 
@@ -631,7 +642,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#b48433",
+        "color": "#ec5656",
         "num": "C-17 (Barcelona)"
       },
       "geometry": { 
@@ -642,7 +653,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#899716",
+        "color": "#00defc",
         "num": "C-31"
       },
       "geometry": { 
@@ -653,7 +664,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#e13bac",
+        "color": "#48329e",
         "num": "Ca l'Alegre de Dalt"
       },
       "geometry": { 
@@ -664,7 +675,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#aebf37",
+        "color": "#b4e2ae",
         "num": "Calabria"
       },
       "geometry": { 
@@ -675,7 +686,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#6082be",
+        "color": "#6ab924",
         "num": "Calatrava"
       },
       "geometry": { 
@@ -686,7 +697,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#d4175f",
+        "color": "#a9be51",
         "num": "Calderon de la Barca"
       },
       "geometry": { 
@@ -697,7 +708,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#ef8c2c",
+        "color": "#fa9cd8",
         "num": "Calvell"
       },
       "geometry": { 
@@ -708,7 +719,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#b74698",
+        "color": "#bc3994",
         "num": "Camelies"
       },
       "geometry": { 
@@ -719,7 +730,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#ff0d57",
+        "color": "#cb0a58",
         "num": "Campoamor"
       },
       "geometry": { 
@@ -730,7 +741,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#c43bdd",
+        "color": "#9c84d3",
         "num": "Can Caralleu"
       },
       "geometry": { 
@@ -741,7 +752,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#510f6b",
+        "color": "#d1c10a",
         "num": "Can Marcet"
       },
       "geometry": { 
@@ -752,7 +763,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#46c39f",
+        "color": "#3deee0",
         "num": "Canalejas"
       },
       "geometry": { 
@@ -763,7 +774,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#a09d4b",
+        "color": "#11b09b",
         "num": "Capita Arenas"
       },
       "geometry": { 
@@ -774,7 +785,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#e6862c",
+        "color": "#9b4dd8",
         "num": "Caracas"
       },
       "geometry": { 
@@ -785,7 +796,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#756931",
+        "color": "#8cdb65",
         "num": "Cardenal Reig"
       },
       "geometry": { 
@@ -796,7 +807,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#72b03d",
+        "color": "#1f1bec",
         "num": "Carles III"
       },
       "geometry": { 
@@ -807,7 +818,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#8076a6",
+        "color": "#4fd9a7",
         "num": "Carrasco i Formiguera"
       },
       "geometry": { 
@@ -818,7 +829,18 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#cfd143",
+        "color": "#d82b2e",
+        "num": "Carrer de la Marina"
+      },
+      "geometry": { 
+        "type":"MultiPoint",
+        "coordinates":[[2.176730, 41.402780], [2.184550, 41.396350], [2.183470, 41.397200], [2.178870, 41.400930], [2.181370, 41.399030], [2.172180, 41.406230], [2.178470, 41.401150], [2.180000, 41.400090], [2.192650, 41.390550], [2.174370, 41.404580], [2.169240, 41.408500], [2.171080, 41.407050], [2.196640, 41.387650], [2.190240, 41.392290], [2.175610, 41.403640], [2.198110, 41.386230], [2.187030, 41.394610], [2.147370, 41.351780], [2.122150, 41.338810], [2.197450, 41.387000], [2.187960, 41.393990], [2.189540, 41.392810], [2.174470, 41.404500], [2.189130, 41.393110], [2.191510, 41.391350], [2.173320, 41.405320], [2.207930, 41.409720]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "color": "#17d1ba",
         "num": "Carreras i Candi"
       },
       "geometry": { 
@@ -829,7 +851,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#4145ec",
+        "color": "#f74f5e",
         "num": "Cartagena"
       },
       "geometry": { 
@@ -840,7 +862,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#631b92",
+        "color": "#5cc13c",
         "num": "Cartella"
       },
       "geometry": { 
@@ -851,7 +873,18 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#fdfb42",
+        "color": "#dabb10",
+        "num": "Casp"
+      },
+      "geometry": { 
+        "type":"MultiPoint",
+        "coordinates":[[2.175670, 41.393110], [2.169620, 41.388550], [2.183700, 41.399110], [2.171180, 41.389700], [2.177950, 41.394810], [2.172280, 41.390550], [2.181350, 41.397350], [2.180210, 41.396510]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "color": "#8a7dec",
         "num": "Castillejos"
       },
       "geometry": { 
@@ -862,7 +895,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#04f9f1",
+        "color": "#63960a",
         "num": "Catalunya"
       },
       "geometry": { 
@@ -873,7 +906,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#8bfe21",
+        "color": "#b29b60",
         "num": "Cavallers"
       },
       "geometry": { 
@@ -884,7 +917,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#b3751e",
+        "color": "#f6e444",
         "num": "Ciencies"
       },
       "geometry": { 
@@ -895,7 +928,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#4355c4",
+        "color": "#c0f15b",
         "num": "Ciutat d'Asuncion"
       },
       "geometry": { 
@@ -906,7 +939,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#c2270a",
+        "color": "#7dd84f",
         "num": "Ciutat de Balaguer"
       },
       "geometry": { 
@@ -917,7 +950,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#e2e787",
+        "color": "#fe2e31",
         "num": "Ciutat de Granada"
       },
       "geometry": { 
@@ -928,7 +961,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#d760a6",
+        "color": "#0272c9",
         "num": "Colom"
       },
       "geometry": { 
@@ -939,7 +972,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#9f841a",
+        "color": "#3fc4c2",
         "num": "Comerc"
       },
       "geometry": { 
@@ -950,7 +983,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#6e7daf",
+        "color": "#fed3dc",
         "num": "Comte Borrell"
       },
       "geometry": { 
@@ -961,7 +994,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#e869b8",
+        "color": "#64f396",
         "num": "Comte d'Urgell"
       },
       "geometry": { 
@@ -972,7 +1005,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#b806a2",
+        "color": "#5eefdf",
         "num": "Comtes de Bell-lloc"
       },
       "geometry": { 
@@ -983,7 +1016,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#4dea2c",
+        "color": "#2f16c8",
         "num": "Conca de Tremp"
       },
       "geometry": { 
@@ -994,7 +1027,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#f8f59e",
+        "color": "#d42178",
         "num": "Concepcion Arenal"
       },
       "geometry": { 
@@ -1005,7 +1038,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#b3e111",
+        "color": "#1e4d33",
         "num": "Concili de Trento"
       },
       "geometry": { 
@@ -1016,7 +1049,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#a62409",
+        "color": "#de21f6",
         "num": "Consell de Cent"
       },
       "geometry": { 
@@ -1027,7 +1060,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#f3ef7e",
+        "color": "#01b56a",
         "num": "Constitucio"
       },
       "geometry": { 
@@ -1038,7 +1071,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#35fd48",
+        "color": "#13f833",
         "num": "Copernic"
       },
       "geometry": { 
@@ -1049,7 +1082,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#99c56c",
+        "color": "#e9de42",
         "num": "Corsega"
       },
       "geometry": { 
@@ -1060,7 +1093,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#87939a",
+        "color": "#03d92e",
         "num": "Corts Catalanes"
       },
       "geometry": { 
@@ -1071,7 +1104,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#f1eb6a",
+        "color": "#1f6daa",
         "num": "Creu Coberta"
       },
       "geometry": { 
@@ -1082,7 +1115,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#ea8976",
+        "color": "#af6f34",
         "num": "Cristobal de Moura"
       },
       "geometry": { 
@@ -1093,7 +1126,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#0436ea",
+        "color": "#bfa456",
         "num": "Dalt"
       },
       "geometry": { 
@@ -1104,7 +1137,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#334732",
+        "color": "#7ed1c7",
         "num": "Dalt (Besos)"
       },
       "geometry": { 
@@ -1115,7 +1148,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#d5cb0d",
+        "color": "#1c158c",
         "num": "Dalt (Llobregat)"
       },
       "geometry": { 
@@ -1126,7 +1159,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#9de6e1",
+        "color": "#64e5eb",
         "num": "Dante Alighieri"
       },
       "geometry": { 
@@ -1137,7 +1170,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#616af5",
+        "color": "#580e42",
         "num": "Deu i Mata"
       },
       "geometry": { 
@@ -1148,7 +1181,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#a056c3",
+        "color": "#930dcd",
         "num": "Diagonal"
       },
       "geometry": { 
@@ -1159,7 +1192,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#6e78f2",
+        "color": "#10fcd7",
         "num": "Diputacio"
       },
       "geometry": { 
@@ -1170,7 +1203,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#33db55",
+        "color": "#db6235",
         "num": "Doctor Aiguader"
       },
       "geometry": { 
@@ -1181,7 +1214,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#e2d5d4",
+        "color": "#03fd22",
         "num": "Doctor Bove"
       },
       "geometry": { 
@@ -1192,7 +1225,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#37f2b6",
+        "color": "#9c0086",
         "num": "Doctor Ferran"
       },
       "geometry": { 
@@ -1203,7 +1236,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#7a2fae",
+        "color": "#2fefdf",
         "num": "Doctor Fleming"
       },
       "geometry": { 
@@ -1214,7 +1247,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#eb5e21",
+        "color": "#f8954c",
         "num": "Doctor Letamendi"
       },
       "geometry": { 
@@ -1225,7 +1258,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#e15f3f",
+        "color": "#6dd5f1",
         "num": "Doctor Maranon"
       },
       "geometry": { 
@@ -1236,7 +1269,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#e18f82",
+        "color": "#ea5356",
         "num": "Doctor Pi i Molist"
       },
       "geometry": { 
@@ -1247,7 +1280,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#610a67",
+        "color": "#0782dd",
         "num": "Doctor Rizal"
       },
       "geometry": { 
@@ -1258,7 +1291,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#992d06",
+        "color": "#42fcfc",
         "num": "Doctor Trueta"
       },
       "geometry": { 
@@ -1269,7 +1302,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#69a883",
+        "color": "#d58361",
         "num": "Dos de Maig"
       },
       "geometry": { 
@@ -1280,7 +1313,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#8d7a4e",
+        "color": "#8ecfd0",
         "num": "Drassanes"
       },
       "geometry": { 
@@ -1291,7 +1324,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#d15070",
+        "color": "#86c610",
         "num": "Elisi"
       },
       "geometry": { 
@@ -1302,7 +1335,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#f1b23d",
+        "color": "#248f23",
         "num": "Encarnacio"
       },
       "geometry": { 
@@ -1313,7 +1346,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#deaf3b",
+        "color": "#1c7851",
         "num": "Enric Granados"
       },
       "geometry": { 
@@ -1324,7 +1357,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#96104d",
+        "color": "#f4f043",
         "num": "Entenca"
       },
       "geometry": { 
@@ -1335,7 +1368,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#798a74",
+        "color": "#a85db0",
         "num": "Equador"
       },
       "geometry": { 
@@ -1346,7 +1379,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#6d9db7",
+        "color": "#f36077",
         "num": "Escoles Pies"
       },
       "geometry": { 
@@ -1357,7 +1390,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#35ed37",
+        "color": "#e58545",
         "num": "Escorial"
       },
       "geometry": { 
@@ -1368,7 +1401,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#41967c",
+        "color": "#965eb9",
         "num": "Escultor Ordonez"
       },
       "geometry": { 
@@ -1379,7 +1412,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#a2efd7",
+        "color": "#1ddc4c",
         "num": "Esglesia"
       },
       "geometry": { 
@@ -1390,7 +1423,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#7e0b00",
+        "color": "#8d9d92",
         "num": "Espanya"
       },
       "geometry": { 
@@ -1401,7 +1434,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#fa17ec",
+        "color": "#1d0484",
         "num": "Esplugues"
       },
       "geometry": { 
@@ -1412,7 +1445,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#438a31",
+        "color": "#de46a2",
         "num": "Espronceda"
       },
       "geometry": { 
@@ -1423,7 +1456,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#8d768a",
+        "color": "#26e9e0",
         "num": "Estacio del Morrot"
       },
       "geometry": { 
@@ -1434,7 +1467,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#ca1271",
+        "color": "#24385f",
         "num": "Estadi"
       },
       "geometry": { 
@@ -1445,7 +1478,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#e2ec3a",
+        "color": "#518414",
         "num": "Estatut de Catalunya"
       },
       "geometry": { 
@@ -1456,7 +1489,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#fe6617",
+        "color": "#63073f",
         "num": "Esteve Terradas"
       },
       "geometry": { 
@@ -1467,7 +1500,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#4d3086",
+        "color": "#07d0a7",
         "num": "Europa"
       },
       "geometry": { 
@@ -1478,7 +1511,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#7bd5d1",
+        "color": "#8f9199",
         "num": "Exposicio"
       },
       "geometry": { 
@@ -1489,7 +1522,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#cceffc",
+        "color": "#1fedf7",
         "num": "Fabra i Puig"
       },
       "geometry": { 
@@ -1500,7 +1533,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#74fc08",
+        "color": "#249806",
         "num": "Fastenrath"
       },
       "geometry": { 
@@ -1511,7 +1544,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#4efc4c",
+        "color": "#e0c739",
         "num": "Favencia"
       },
       "geometry": { 
@@ -1522,7 +1555,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#7d3720",
+        "color": "#3ce3a2",
         "num": "Felip II"
       },
       "geometry": { 
@@ -1533,7 +1566,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#483208",
+        "color": "#9e4037",
         "num": "Ferran Junoy"
       },
       "geometry": { 
@@ -1544,7 +1577,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#1ba449",
+        "color": "#f417fb",
         "num": "Ferrocarrils Catalans"
       },
       "geometry": { 
@@ -1555,7 +1588,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#a62039",
+        "color": "#a0bfa8",
         "num": "Figols"
       },
       "geometry": { 
@@ -1566,7 +1599,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#7d5a91",
+        "color": "#e468fb",
         "num": "Floridablanca"
       },
       "geometry": { 
@@ -1577,7 +1610,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#56caa5",
+        "color": "#8d88b4",
         "num": "Fluvia"
       },
       "geometry": { 
@@ -1588,7 +1621,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#4fe601",
+        "color": "#c082a0",
         "num": "Foc"
       },
       "geometry": { 
@@ -1599,7 +1632,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#50229b",
+        "color": "#d772dc",
         "num": "Foneria"
       },
       "geometry": { 
@@ -1610,7 +1643,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#049ede",
+        "color": "#1d34fe",
         "num": "Font d'en Fargas"
       },
       "geometry": { 
@@ -1621,7 +1654,18 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#386e1c",
+        "color": "#965f97",
+        "num": "Fosca"
+      },
+      "geometry": { 
+        "type":"MultiPoint",
+        "coordinates":[[2.182160, 41.448310], [2.184590, 41.447710], [2.184740, 41.447810], [2.183840, 41.448090], [2.183090, 41.448490]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "color": "#b3d5d2",
         "num": "Fra Juniper Serra"
       },
       "geometry": { 
@@ -1632,7 +1676,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#82b889",
+        "color": "#8215ba",
         "num": "Francesc Ferrer i Guardia"
       },
       "geometry": { 
@@ -1643,7 +1687,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#5a8712",
+        "color": "#e4d474",
         "num": "Francesc Macia"
       },
       "geometry": { 
@@ -1654,7 +1698,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#7f3d76",
+        "color": "#6cd465",
         "num": "Freser"
       },
       "geometry": { 
@@ -1665,7 +1709,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#4e7224",
+        "color": "#806a1e",
         "num": "Galileu"
       },
       "geometry": { 
@@ -1676,7 +1720,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#e04fd3",
+        "color": "#eec744",
         "num": "Gal·la Placidia"
       },
       "geometry": { 
@@ -1687,7 +1731,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#41351c",
+        "color": "#a99f13",
         "num": "Ganduxer"
       },
       "geometry": { 
@@ -1698,7 +1742,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#536aa4",
+        "color": "#613760",
         "num": "Garcia Faria"
       },
       "geometry": { 
@@ -1709,7 +1753,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#e4a4f7",
+        "color": "#fae0b7",
         "num": "Garcilaso"
       },
       "geometry": { 
@@ -1720,7 +1764,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#2041b2",
+        "color": "#35bfb3",
         "num": "Gaudi"
       },
       "geometry": { 
@@ -1731,7 +1775,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#8c7f98",
+        "color": "#48dcc7",
         "num": "General Mitre"
       },
       "geometry": { 
@@ -1742,7 +1786,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#7efc76",
+        "color": "#3e430a",
         "num": "General Vives"
       },
       "geometry": { 
@@ -1753,7 +1797,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#118f89",
+        "color": "#61dc6d",
         "num": "Ginebra"
       },
       "geometry": { 
@@ -1764,7 +1808,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#b972a6",
+        "color": "#48b341",
         "num": "Girona"
       },
       "geometry": { 
@@ -1775,7 +1819,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#55bd1a",
+        "color": "#82868b",
         "num": "Glories Catalanes"
       },
       "geometry": { 
@@ -1786,7 +1830,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#3ff1cb",
+        "color": "#854b8f",
         "num": "Gonzalez Tablas"
       },
       "geometry": { 
@@ -1797,7 +1841,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#0b056a",
+        "color": "#d67307",
         "num": "Gracia"
       },
       "geometry": { 
@@ -1808,7 +1852,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#5a7036",
+        "color": "#ff2f60",
         "num": "Gran de Gracia"
       },
       "geometry": { 
@@ -1819,7 +1863,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#60884f",
+        "color": "#e16cb6",
         "num": "Gran de Sant Andreu"
       },
       "geometry": { 
@@ -1830,7 +1874,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#2329f5",
+        "color": "#7da7b3",
         "num": "Gran de la Sagrera"
       },
       "geometry": { 
@@ -1841,7 +1885,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#7ff302",
+        "color": "#5b58be",
         "num": "Granja Vella"
       },
       "geometry": { 
@@ -1852,7 +1896,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#7f582d",
+        "color": "#610964",
         "num": "Grassot"
       },
       "geometry": { 
@@ -1863,7 +1907,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#09d810",
+        "color": "#94fd97",
         "num": "Guayaquil"
       },
       "geometry": { 
@@ -1874,7 +1918,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#c6a610",
+        "color": "#0c4358",
         "num": "Guillem Tell"
       },
       "geometry": { 
@@ -1885,7 +1929,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#4bb246",
+        "color": "#d69386",
         "num": "Guinardo"
       },
       "geometry": { 
@@ -1896,7 +1940,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#d485e6",
+        "color": "#6112e2",
         "num": "Guineueta Vella"
       },
       "geometry": { 
@@ -1907,7 +1951,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#5f12af",
+        "color": "#d26dcd",
         "num": "Guipuscoa"
       },
       "geometry": { 
@@ -1918,7 +1962,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#664516",
+        "color": "#df7bfe",
         "num": "Horta a Cerdanyola"
       },
       "geometry": { 
@@ -1929,7 +1973,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#ef7a49",
+        "color": "#9a62f2",
         "num": "Huelva"
       },
       "geometry": { 
@@ -1940,7 +1984,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#8055b6",
+        "color": "#131f5a",
         "num": "Independencia"
       },
       "geometry": { 
@@ -1951,7 +1995,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#15e2d6",
+        "color": "#43e3f9",
         "num": "Industria"
       },
       "geometry": { 
@@ -1962,7 +2006,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#0c1145",
+        "color": "#bfe400",
         "num": "Isaac Newton"
       },
       "geometry": { 
@@ -1973,7 +2017,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#b23c4b",
+        "color": "#adb320",
         "num": "Isabel II"
       },
       "geometry": { 
@@ -1984,7 +2028,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#5feb5b",
+        "color": "#ac605c",
         "num": "Jaume Vicens i Vives"
       },
       "geometry": { 
@@ -1995,7 +2039,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#2b4b45",
+        "color": "#094d37",
         "num": "Joan Borbo Comte Barcelona"
       },
       "geometry": { 
@@ -2006,7 +2050,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#822c5f",
+        "color": "#f2ceaa",
         "num": "Joan Carles I"
       },
       "geometry": { 
@@ -2017,7 +2061,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#bab403",
+        "color": "#4de35e",
         "num": "Joan Guell"
       },
       "geometry": { 
@@ -2028,7 +2072,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#7770e5",
+        "color": "#25f322",
         "num": "Joan Miro"
       },
       "geometry": { 
@@ -2039,7 +2083,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#bd5624",
+        "color": "#59252f",
         "num": "Joan XXIII"
       },
       "geometry": { 
@@ -2050,7 +2094,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#6052fc",
+        "color": "#5292d7",
         "num": "Joan d'Austria"
       },
       "geometry": { 
@@ -2061,7 +2105,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#56a750",
+        "color": "#0ce8d4",
         "num": "Johann Sebastian Bach"
       },
       "geometry": { 
@@ -2072,7 +2116,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#87e0ca",
+        "color": "#af4c39",
         "num": "Jonqueres"
       },
       "geometry": { 
@@ -2083,7 +2127,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#0b01b6",
+        "color": "#31db0b",
         "num": "Josep Carner"
       },
       "geometry": { 
@@ -2094,7 +2138,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#158e28",
+        "color": "#031aed",
         "num": "Josep Pla"
       },
       "geometry": { 
@@ -2105,7 +2149,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#c279d9",
+        "color": "#598f46",
         "num": "Josep Tarradellas"
       },
       "geometry": { 
@@ -2116,7 +2160,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#3507a1",
+        "color": "#a9bf2c",
         "num": "Judea"
       },
       "geometry": { 
@@ -2127,7 +2171,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#6bd299",
+        "color": "#55d473",
         "num": "Julia"
       },
       "geometry": { 
@@ -2138,7 +2182,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#d3f97f",
+        "color": "#29ebe2",
         "num": "Karl Marx"
       },
       "geometry": { 
@@ -2149,7 +2193,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#961885",
+        "color": "#03dd12",
         "num": "Laforja"
       },
       "geometry": { 
@@ -2160,7 +2204,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#82af0a",
+        "color": "#4b7830",
         "num": "Laietana"
       },
       "geometry": { 
@@ -2171,7 +2215,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#4d49c2",
+        "color": "#a57b3a",
         "num": "Las Navas de Tolosa"
       },
       "geometry": { 
@@ -2182,7 +2226,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#c84f09",
+        "color": "#7c5dac",
         "num": "Lepant"
       },
       "geometry": { 
@@ -2193,7 +2237,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#dcdc0d",
+        "color": "#22a3ea",
         "num": "Lesseps"
       },
       "geometry": { 
@@ -2204,7 +2248,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#180214",
+        "color": "#293580",
         "num": "Lincoln"
       },
       "geometry": { 
@@ -2215,7 +2259,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#ae6a7a",
+        "color": "#545287",
         "num": "Litoral"
       },
       "geometry": { 
@@ -2226,7 +2270,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#bb0536",
+        "color": "#07794a",
         "num": "Litoral (Besos)"
       },
       "geometry": { 
@@ -2237,7 +2281,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#045a6b",
+        "color": "#3814ec",
         "num": "Litoral (Llobregat)"
       },
       "geometry": { 
@@ -2248,7 +2292,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#f4ff28",
+        "color": "#5dee65",
         "num": "Llacuna"
       },
       "geometry": { 
@@ -2259,7 +2303,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#a3ed13",
+        "color": "#47d3f0",
         "num": "Lleida"
       },
       "geometry": { 
@@ -2270,7 +2314,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#fa8105",
+        "color": "#f3fd73",
         "num": "Llenguadoc"
       },
       "geometry": { 
@@ -2281,7 +2325,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#84799e",
+        "color": "#21d785",
         "num": "Llobregos"
       },
       "geometry": { 
@@ -2292,7 +2336,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#c5ff53",
+        "color": "#dd05b8",
         "num": "Llorens i Artigas"
       },
       "geometry": { 
@@ -2303,7 +2347,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#7238fd",
+        "color": "#b05adf",
         "num": "Llucmajor"
       },
       "geometry": { 
@@ -2314,7 +2358,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#6e0c04",
+        "color": "#0d1e75",
         "num": "Lluis Companys"
       },
       "geometry": { 
@@ -2325,7 +2369,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#e6ed2b",
+        "color": "#759543",
         "num": "Lluis Sagnier"
       },
       "geometry": { 
@@ -2336,7 +2380,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#0c189c",
+        "color": "#306238",
         "num": "Llull"
       },
       "geometry": { 
@@ -2347,7 +2391,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#adb925",
+        "color": "#521b09",
         "num": "Londres"
       },
       "geometry": { 
@@ -2358,7 +2402,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#ef61ca",
+        "color": "#ded968",
         "num": "Lope de Vega"
       },
       "geometry": { 
@@ -2369,7 +2413,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#8d6a21",
+        "color": "#b9ba82",
         "num": "Los Castillejos"
       },
       "geometry": { 
@@ -2380,7 +2424,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#df4421",
+        "color": "#79eb97",
         "num": "Madrazo"
       },
       "geometry": { 
@@ -2391,7 +2435,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#488167",
+        "color": "#fada1f",
         "num": "Major de Mercabarna"
       },
       "geometry": { 
@@ -2402,7 +2446,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#9abb4e",
+        "color": "#79af95",
         "num": "Mallorca"
       },
       "geometry": { 
@@ -2413,7 +2457,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#73176e",
+        "color": "#987ded",
         "num": "Mandri"
       },
       "geometry": { 
@@ -2424,7 +2468,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#a7dab5",
+        "color": "#ffbb94",
         "num": "Manuel Girona"
       },
       "geometry": { 
@@ -2435,7 +2479,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#15c5d1",
+        "color": "#45f936",
         "num": "Maragall"
       },
       "geometry": { 
@@ -2446,7 +2490,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#1ebb21",
+        "color": "#353420",
         "num": "Mare de Deu de Montserrat"
       },
       "geometry": { 
@@ -2457,7 +2501,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#bd295f",
+        "color": "#5b5b9e",
         "num": "Mare de Deu de Port"
       },
       "geometry": { 
@@ -2468,7 +2512,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#d747e7",
+        "color": "#9375f0",
         "num": "Mare de Deu de la Salut"
       },
       "geometry": { 
@@ -2479,7 +2523,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#6bcfde",
+        "color": "#4e30b7",
         "num": "Mare de Deu del Coll"
       },
       "geometry": { 
@@ -2490,7 +2534,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#ab46b0",
+        "color": "#9b9709",
         "num": "Maresme"
       },
       "geometry": { 
@@ -2501,7 +2545,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#8b41fd",
+        "color": "#0c4b58",
         "num": "Maria Cubi"
       },
       "geometry": { 
@@ -2512,7 +2556,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#0b9c40",
+        "color": "#63f219",
         "num": "Maritim de la Barceloneta"
       },
       "geometry": { 
@@ -2523,7 +2567,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#680882",
+        "color": "#80dc2f",
         "num": "Marques de Sentmenat"
       },
       "geometry": { 
@@ -2534,7 +2578,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#ca9469",
+        "color": "#1f78a5",
         "num": "Marques de l'Argentera"
       },
       "geometry": { 
@@ -2545,7 +2589,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#302273",
+        "color": "#b782a2",
         "num": "Marroc"
       },
       "geometry": { 
@@ -2556,7 +2600,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#1bdfef",
+        "color": "#aeb4d0",
         "num": "Mas Casanovas"
       },
       "geometry": { 
@@ -2567,7 +2611,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#a22a67",
+        "color": "#e6e502",
         "num": "Mejia Lequerica"
       },
       "geometry": { 
@@ -2578,7 +2622,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#4233cb",
+        "color": "#0fd726",
         "num": "Meridiana"
       },
       "geometry": { 
@@ -2589,7 +2633,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#6a7dc1",
+        "color": "#7a68b3",
         "num": "Mestre Nicolau"
       },
       "geometry": { 
@@ -2600,7 +2644,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#da5c53",
+        "color": "#3afcd0",
         "num": "Mexic"
       },
       "geometry": { 
@@ -2611,7 +2655,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#00d29f",
+        "color": "#e1c998",
         "num": "Miramar"
       },
       "geometry": { 
@@ -2622,7 +2666,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#b0f3ac",
+        "color": "#563bdc",
         "num": "Modolell"
       },
       "geometry": { 
@@ -2633,7 +2677,18 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#79fda9",
+        "color": "#4992d2",
+        "num": "Moia"
+      },
+      "geometry": { 
+        "type":"MultiPoint",
+        "coordinates":[[2.152150, 41.395460], [2.152060, 41.395480], [2.151780, 41.395240], [2.151220, 41.394830]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "color": "#1a5ac1",
         "num": "Moianes"
       },
       "geometry": { 
@@ -2644,7 +2699,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#257eb8",
+        "color": "#30fe94",
         "num": "Montjuic"
       },
       "geometry": { 
@@ -2655,7 +2710,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#2137f7",
+        "color": "#edd8f7",
         "num": "Montserrat de Casanovas"
       },
       "geometry": { 
@@ -2666,7 +2721,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#51dc5c",
+        "color": "#1ba9e8",
         "num": "Mossen Jacint Verdaguer"
       },
       "geometry": { 
@@ -2677,7 +2732,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#b318d3",
+        "color": "#e2ae63",
         "num": "Muntaner"
       },
       "geometry": { 
@@ -2688,7 +2743,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#3f792b",
+        "color": "#f9f2ce",
         "num": "Nacio"
       },
       "geometry": { 
@@ -2699,7 +2754,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#c8dfb1",
+        "color": "#696fee",
         "num": "Napols"
       },
       "geometry": { 
@@ -2710,7 +2765,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#79445f",
+        "color": "#6c519b",
         "num": "Nicaragua"
       },
       "geometry": { 
@@ -2721,7 +2776,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#631fd7",
+        "color": "#39898b",
         "num": "Nou de la Rambla"
       },
       "geometry": { 
@@ -2732,7 +2787,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#0146d7",
+        "color": "#ab5a84",
         "num": "Numancia"
       },
       "geometry": { 
@@ -2743,7 +2798,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#79b629",
+        "color": "#239ac9",
         "num": "Olimpic"
       },
       "geometry": { 
@@ -2754,7 +2809,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#3dc343",
+        "color": "#0c569c",
         "num": "Pablo Iglesias"
       },
       "geometry": { 
@@ -2765,7 +2820,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#7ee0de",
+        "color": "#458d54",
         "num": "Pacific"
       },
       "geometry": { 
@@ -2776,7 +2831,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#bf2ffc",
+        "color": "#4e6f15",
         "num": "Padilla"
       },
       "geometry": { 
@@ -2787,7 +2842,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#2ea216",
+        "color": "#2038b8",
         "num": "Pallars"
       },
       "geometry": { 
@@ -2798,7 +2853,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#9c9507",
+        "color": "#255341",
         "num": "Pamplona"
       },
       "geometry": { 
@@ -2809,7 +2864,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#7ccd31",
+        "color": "#e05b17",
         "num": "Paraguai"
       },
       "geometry": { 
@@ -2820,7 +2875,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#e3fc6b",
+        "color": "#bfe02e",
         "num": "Paral.lel"
       },
       "geometry": { 
@@ -2831,7 +2886,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#e1db84",
+        "color": "#bbc63c",
         "num": "Pare Manyanet"
       },
       "geometry": { 
@@ -2842,7 +2897,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#63114b",
+        "color": "#1d7f91",
         "num": "Pare Mariana"
       },
       "geometry": { 
@@ -2853,7 +2908,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#88346a",
+        "color": "#39af73",
         "num": "Paris"
       },
       "geometry": { 
@@ -2864,7 +2919,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#46ae22",
+        "color": "#bcad1a",
         "num": "Parlament"
       },
       "geometry": { 
@@ -2875,7 +2930,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#75c710",
+        "color": "#cfac00",
         "num": "Pascual i Vila"
       },
       "geometry": { 
@@ -2886,7 +2941,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#568cdc",
+        "color": "#f0dfe3",
         "num": "Pau Casals"
       },
       "geometry": { 
@@ -2897,7 +2952,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#a309c4",
+        "color": "#ed9973",
         "num": "Pau Claris"
       },
       "geometry": { 
@@ -2908,7 +2963,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#af7496",
+        "color": "#06ba84",
         "num": "Pau Vila"
       },
       "geometry": { 
@@ -2919,7 +2974,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#d49bfc",
+        "color": "#449bd7",
         "num": "Pearson"
       },
       "geometry": { 
@@ -2930,7 +2985,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#59cf1e",
+        "color": "#38a532",
         "num": "Pedralbes"
       },
       "geometry": { 
@@ -2941,7 +2996,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#6f1753",
+        "color": "#c31d60",
         "num": "Pedrell"
       },
       "geometry": { 
@@ -2952,7 +3007,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#f74ade",
+        "color": "#c2b8f8",
         "num": "Pelai"
       },
       "geometry": { 
@@ -2963,7 +3018,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#a16935",
+        "color": "#661427",
         "num": "Pere IV"
       },
       "geometry": { 
@@ -2974,7 +3029,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#fe5b68",
+        "color": "#2a32c3",
         "num": "Pi i Margall"
       },
       "geometry": { 
@@ -2985,7 +3040,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#421305",
+        "color": "#fa16be",
         "num": "Picasso"
       },
       "geometry": { 
@@ -2996,7 +3051,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#2e6c6d",
+        "color": "#6d516e",
         "num": "Piferrer"
       },
       "geometry": { 
@@ -3007,7 +3062,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#9da0d2",
+        "color": "#87a08e",
         "num": "Pinar del Rio"
       },
       "geometry": { 
@@ -3018,7 +3073,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#65238f",
+        "color": "#32ae9e",
         "num": "Pintor Alsamora"
       },
       "geometry": { 
@@ -3029,7 +3084,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#a14bcd",
+        "color": "#0a7088",
         "num": "Pius XII"
       },
       "geometry": { 
@@ -3040,7 +3095,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#ccb1d0",
+        "color": "#3d0a58",
         "num": "Poblenou"
       },
       "geometry": { 
@@ -3051,7 +3106,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#85f322",
+        "color": "#21d380",
         "num": "Pont del Treball Digne"
       },
       "geometry": { 
@@ -3062,7 +3117,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#66463c",
+        "color": "#bad87b",
         "num": "Portal de la Pau"
       },
       "geometry": { 
@@ -3073,7 +3128,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#3351da",
+        "color": "#ebd470",
         "num": "Princep d'Asturies"
       },
       "geometry": { 
@@ -3084,7 +3139,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#923021",
+        "color": "#a29b46",
         "num": "Princesa"
       },
       "geometry": { 
@@ -3095,7 +3150,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#274865",
+        "color": "#1c3db8",
         "num": "Provenca"
       },
       "geometry": { 
@@ -3106,7 +3161,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#f2a0ed",
+        "color": "#97da4e",
         "num": "Puigcerda"
       },
       "geometry": { 
@@ -3117,7 +3172,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#8ca1ba",
+        "color": "#f8e2be",
         "num": "Pujades"
       },
       "geometry": { 
@@ -3128,7 +3183,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#51fa39",
+        "color": "#e82283",
         "num": "Rambla"
       },
       "geometry": { 
@@ -3139,7 +3194,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#ee68e4",
+        "color": "#e86704",
         "num": "Ramon Rocafull"
       },
       "geometry": { 
@@ -3150,7 +3205,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#01c16f",
+        "color": "#915bb3",
         "num": "Ramon Turro"
       },
       "geometry": { 
@@ -3161,7 +3216,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#191aec",
+        "color": "#38d075",
         "num": "Rasos de Peguera"
       },
       "geometry": { 
@@ -3172,7 +3227,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#9a2d6d",
+        "color": "#31ec25",
         "num": "Rector Triado"
       },
       "geometry": { 
@@ -3183,7 +3238,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#66979a",
+        "color": "#4bea0f",
         "num": "Reina Maria Cristina"
       },
       "geometry": { 
@@ -3194,7 +3249,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#1f7f2a",
+        "color": "#7c420f",
         "num": "Reina Victoria"
       },
       "geometry": { 
@@ -3205,7 +3260,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#dbf5c4",
+        "color": "#2d37a2",
         "num": "Republica Argentina"
       },
       "geometry": { 
@@ -3216,7 +3271,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#28da75",
+        "color": "#25ac33",
         "num": "Ribes"
       },
       "geometry": { 
@@ -3227,7 +3282,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#fcac9d",
+        "color": "#eb3e1f",
         "num": "Rio de Janeiro"
       },
       "geometry": { 
@@ -3238,7 +3293,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#630e0b",
+        "color": "#d8d4e8",
         "num": "Rius i Taulet"
       },
       "geometry": { 
@@ -3249,7 +3304,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#b459ec",
+        "color": "#631d86",
         "num": "Roc Boronat"
       },
       "geometry": { 
@@ -3260,7 +3315,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#b59119",
+        "color": "#2c7b31",
         "num": "Rocafort"
       },
       "geometry": { 
@@ -3271,7 +3326,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#5aab56",
+        "color": "#42064c",
         "num": "Rogent"
       },
       "geometry": { 
@@ -3282,7 +3337,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#743ed4",
+        "color": "#6c719c",
         "num": "Roger de Flor"
       },
       "geometry": { 
@@ -3293,7 +3348,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#67ff7c",
+        "color": "#992c20",
         "num": "Roger de Lluria"
       },
       "geometry": { 
@@ -3304,7 +3359,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#4a5142",
+        "color": "#ce6f42",
         "num": "Rossello"
       },
       "geometry": { 
@@ -3315,7 +3370,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#be5fce",
+        "color": "#2c93d9",
         "num": "S'Agaro"
       },
       "geometry": { 
@@ -3326,7 +3381,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#30e048",
+        "color": "#e2d259",
         "num": "Sabino Arana"
       },
       "geometry": { 
@@ -3337,7 +3392,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#744c82",
+        "color": "#2483f3",
         "num": "Sagrada Familia"
       },
       "geometry": { 
@@ -3348,7 +3403,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#4a450a",
+        "color": "#86c159",
         "num": "Salvador Espriu"
       },
       "geometry": { 
@@ -3359,7 +3414,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#682e40",
+        "color": "#d4b3dd",
         "num": "Sancho de Avila"
       },
       "geometry": { 
@@ -3370,7 +3425,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#696fe4",
+        "color": "#a4ab59",
         "num": "Sant Adria"
       },
       "geometry": { 
@@ -3381,7 +3436,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#e9e924",
+        "color": "#51a9b8",
         "num": "Sant Antoni"
       },
       "geometry": { 
@@ -3392,7 +3447,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#2732ca",
+        "color": "#ea4e18",
         "num": "Sant Antoni Maria Claret"
       },
       "geometry": { 
@@ -3403,7 +3458,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#897b0a",
+        "color": "#5e4934",
         "num": "Sant Cugat"
       },
       "geometry": { 
@@ -3414,7 +3469,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#dab074",
+        "color": "#fc63de",
         "num": "Sant Gervasi"
       },
       "geometry": { 
@@ -3425,7 +3480,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#8be516",
+        "color": "#51dcdb",
         "num": "Sant Gervasi de Cassoles"
       },
       "geometry": { 
@@ -3436,7 +3491,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#a80afa",
+        "color": "#aa1368",
         "num": "Sant Joan"
       },
       "geometry": { 
@@ -3447,7 +3502,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#53f01a",
+        "color": "#6eda18",
         "num": "Sant Joan Bosco"
       },
       "geometry": { 
@@ -3458,7 +3513,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#17fce6",
+        "color": "#018fb7",
         "num": "Sant Lluis"
       },
       "geometry": { 
@@ -3469,7 +3524,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#1f9113",
+        "color": "#ace257",
         "num": "Sant Pere"
       },
       "geometry": { 
@@ -3480,7 +3535,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#57c24f",
+        "color": "#5a2399",
         "num": "Sant Salvador"
       },
       "geometry": { 
@@ -3491,7 +3546,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#61923d",
+        "color": "#4f2e38",
         "num": "Santa Coloma"
       },
       "geometry": { 
@@ -3502,7 +3557,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#e13d92",
+        "color": "#a0f799",
         "num": "Santalo"
       },
       "geometry": { 
@@ -3513,7 +3568,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#e3b0bb",
+        "color": "#a421a5",
         "num": "Sarria"
       },
       "geometry": { 
@@ -3524,7 +3579,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#bdab84",
+        "color": "#ce3602",
         "num": "Sarria a Vallvidrera"
       },
       "geometry": { 
@@ -3535,7 +3590,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#c53a07",
+        "color": "#d7be1c",
         "num": "Secretari Coloma"
       },
       "geometry": { 
@@ -3546,7 +3601,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#61782a",
+        "color": "#a069e6",
         "num": "Selva de Mar"
       },
       "geometry": { 
@@ -3557,7 +3612,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#4352df",
+        "color": "#3b041a",
         "num": "Sepulveda"
       },
       "geometry": { 
@@ -3568,7 +3623,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#1197cd",
+        "color": "#b01b23",
         "num": "Tamarit"
       },
       "geometry": { 
@@ -3579,7 +3634,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#4342e4",
+        "color": "#41204b",
         "num": "Tanger"
       },
       "geometry": { 
@@ -3590,7 +3645,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#f60197",
+        "color": "#d60514",
         "num": "Tibidabo"
       },
       "geometry": { 
@@ -3601,7 +3656,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#b8784e",
+        "color": "#4a58ee",
         "num": "Torrent de les Flors"
       },
       "geometry": { 
@@ -3612,7 +3667,18 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#fefc38",
+        "color": "#fe95d4",
+        "num": "Trafalgar"
+      },
+      "geometry": { 
+        "type":"MultiPoint",
+        "coordinates":[[2.173800, 41.388990]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "color": "#a718fb",
         "num": "Urrutia"
       },
       "geometry": { 
@@ -3623,7 +3689,18 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#35d16c",
+        "color": "#201236",
+        "num": "Valencia"
+      },
+      "geometry": { 
+        "type":"MultiPoint",
+        "coordinates":[[2.158380, 41.389050], [2.204580, 41.407140], [2.169790, 41.397580], [2.160760, 41.390750], [2.200940, 41.404750], [2.191260, 41.413670], [2.150550, 41.383080], [2.181140, 41.406020], [2.152830, 41.384810], [2.153920, 41.385640], [2.173170, 41.400130], [2.182300, 41.406880], [2.159640, 41.389960], [2.148290, 41.381340], [2.203170, 41.406450], [2.163660, 41.392960], [2.192420, 41.414560], [2.190170, 41.412830], [2.177780, 41.403550], [2.201930, 41.405710], [2.186800, 41.410270], [2.157310, 41.388260], [2.178920, 41.404390], [2.165220, 41.394170], [2.199140, 41.402780], [2.185200, 41.409060], [2.172040, 41.399270], [2.166370, 41.395020], [2.170870, 41.398380], [2.175470, 41.401850], [2.174300, 41.400970], [2.151710, 41.383940], [2.155080, 41.386520]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "color": "#0156be",
         "num": "Vall d'Hebron"
       },
       "geometry": { 
@@ -3634,7 +3711,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#ae3207",
+        "color": "#e4c899",
         "num": "Vallvidrera"
       },
       "geometry": { 
@@ -3645,7 +3722,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#8640c7",
+        "color": "#fffcce",
         "num": "Viriat"
       },
       "geometry": { 
@@ -3656,7 +3733,7 @@ var cruillRef = {
     {
       "type": "Feature",
       "properties": {
-        "color": "#dc2680",
+        "color": "#cd74f1",
         "num": "Volart"
       },
       "geometry": { 
