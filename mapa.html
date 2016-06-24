@@ -78,8 +78,8 @@
   <script src="leaflet-search/leaflet-search.js" type="text/javascript"></script>
   <script src="accidentsMulti.js" type="text/javascript"></script>
   <script src="cruillRefMulti.js" type="text/javascript"></script>
-
-  <script src="cruillNotMulti.js" type="text/javascript"></script>
+  <script src="cruillesRadiMulti.js" type="text/javascript"></script>
+  <script src="cruillesRadiNoNegreMulti.js" type="text/javascript"></script>
   <script src="Leaflet.heat-gh-pages/dist/leaflet-heat.js" type="text/javascript"></script>
   <script>
 
@@ -197,9 +197,9 @@
             });
           }
       }).addTo(cruillLay);
-      /*
-      var affinityLay = L.layerGroup();
-      var affinityPunts = L.geoJson(affinity, {
+      
+      var cruillesRadiLay = L.layerGroup();
+      var cruillesRadi = L.geoJson(cruillesRadiNoNegre, {
 
           style: function (feature) {
             return feature.properties && feature.properties.style;
@@ -217,8 +217,8 @@
               fillOpacity: 0.8
             });
           }
-      }).addTo(affinityLay);
-*/
+      }).addTo(cruillesRadiLay);
+
 
       var overlayMaps = {
         "2010": heatMap0,
@@ -227,7 +227,7 @@
         "2013": heatMap3,
         "2014": heatMap4,
         "2015": heatMap5,
-        //"means": meansLay,
+        "cruillesRadiLay": cruillesRadiLay,
         "Cruïlles": cruillLay
       };
       L.control.layers(baseMaps, overlayMaps).addTo(map);
