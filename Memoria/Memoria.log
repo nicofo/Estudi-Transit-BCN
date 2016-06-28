@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2016.4.5)  13 JUN 2016 13:50
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2016.4.5)  26 JUN 2016 18:28
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -347,11 +347,82 @@ Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
 \Gin@req@height=\dimen112
 \Gin@req@width=\dimen113
 )
+(/usr/share/texlive/texmf-dist/tex/latex/subfig/subfig.sty
+Package: subfig 2005/06/28 ver: 1.3 subfig package
+
+(/usr/share/texlive/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2013/05/02 v3.3-89 Customizing captions (AR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2013/05/02 v1.6-88 caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 57.
+\captionmargin=\dimen114
+\captionmargin@=\dimen115
+\captionwidth=\dimen116
+\caption@tempdima=\dimen117
+\caption@indent=\dimen118
+\caption@parindent=\dimen119
+\caption@hangindent=\dimen120
+)
+\c@ContinuedFloat=\count101
+Package caption Info: float package is loaded.
+)
+\c@KVtest=\count102
+\sf@farskip=\skip45
+\sf@captopadj=\dimen121
+\sf@capskip=\skip46
+\sf@nearskip=\skip47
+\c@subfigure=\count103
+\c@subfigure@save=\count104
+\c@lofdepth=\count105
+\c@subtable=\count106
+\c@subtable@save=\count107
+\c@lotdepth=\count108
+\sf@top=\skip48
+\sf@bottom=\skip49
+)
+(/usr/share/texlive/texmf-dist/tex/latex/stackengine/stackengine.sty
+Package: stackengine 2014/01/06 v3.24\ Stacking text and objects in convenient 
+ways
+
+(/usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2011/01/03 v2.1 e-TeX tools for LaTeX
+
+(/usr/share/texlive/texmf-dist/tex/latex/etex-pkg/etex.sty
+Package: etex 1998/03/26 v2.0 eTeX basic definition package (PEB)
+\et@xins=\count109
+)
+\etb@tempcnta=\count110
+)
+(/usr/share/texlive/texmf-dist/tex/latex/tools/calc.sty
+Package: calc 2007/08/22 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count111
+\calc@Bcount=\count112
+\calc@Adimen=\dimen122
+\calc@Bdimen=\dimen123
+\calc@Askip=\skip50
+\calc@Bskip=\skip51
+LaTeX Info: Redefining \setlength on input line 76.
+LaTeX Info: Redefining \addtolength on input line 77.
+\calc@Ccount=\count113
+\calc@Cskip=\skip52
+)
+\c@@stackindex=\count114
+\@boxshift=\skip53
+\stack@tmplength=\skip54
+\temp@stkl=\skip55
+\@stackedboxwidth=\skip56
+\@addedbox=\box54
+\@anchorbox=\box55
+\stackedbox=\box56
+\@centerbox=\box57
+\c@ROWcellindex@=\count115
+)
 (/usr/share/texlive/texmf-dist/tex/latex/wrapfig/wrapfig.sty
-\wrapoverhang=\dimen114
-\WF@size=\dimen115
-\c@WF@wrappedlines=\count101
-\WF@box=\box54
+\wrapoverhang=\dimen124
+\WF@size=\dimen125
+\c@WF@wrappedlines=\count116
+\WF@box=\box58
 \WF@everypar=\toks20
 Package: wrapfig 2003/01/31  v 3.6
 )
@@ -364,10 +435,10 @@ Package: rotating 2009/03/28 v2.16a rotated objects in LaTeX
 (/usr/share/texlive/texmf-dist/tex/latex/base/ifthen.sty
 Package: ifthen 2001/05/26 v1.1c Standard LaTeX ifthen package (DPC)
 )
-\c@r@tfl@t=\count102
-\rotFPtop=\skip45
-\rotFPbot=\skip46
-\rot@float@box=\box55
+\c@r@tfl@t=\count117
+\rotFPtop=\skip57
+\rotFPbot=\skip58
+\rot@float@box=\box59
 \rot@mess@toks=\toks21
 )
 (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/epstopdf.sty
@@ -428,43 +499,49 @@ LaTeX Info: Redefining \% on input line 6.
 )
 \openout1 = `Memoria.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 45.
-LaTeX Font Info:    ... okay on input line 45.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 45.
-LaTeX Font Info:    ... okay on input line 45.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 45.
-LaTeX Font Info:    ... okay on input line 45.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 45.
-LaTeX Font Info:    ... okay on input line 45.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 45.
-LaTeX Font Info:    ... okay on input line 45.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 45.
-LaTeX Font Info:    ... okay on input line 45.
-LaTeX Info: Redefining \. on input line 45.
-LaTeX Info: Redefining \% on input line 45.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 47.
+LaTeX Font Info:    ... okay on input line 47.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 47.
+LaTeX Font Info:    ... okay on input line 47.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 47.
+LaTeX Font Info:    ... okay on input line 47.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 47.
+LaTeX Font Info:    ... okay on input line 47.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 47.
+LaTeX Font Info:    ... okay on input line 47.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 47.
+LaTeX Font Info:    ... okay on input line 47.
+LaTeX Info: Redefining \. on input line 47.
+LaTeX Info: Redefining \% on input line 47.
  (/usr/share/texlive/texmf-dist/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count103
-\scratchdimen=\dimen116
-\scratchbox=\box56
-\nofMPsegments=\count104
-\nofMParguments=\count105
+\scratchcounter=\count118
+\scratchdimen=\dimen126
+\scratchbox=\box60
+\nofMPsegments=\count119
+\nofMParguments=\count120
 \everyMPshowfont=\toks22
-\MPscratchCnt=\count106
-\MPscratchDim=\dimen117
-\MPnumerator=\count107
-\makeMPintoPDFobject=\count108
+\MPscratchCnt=\count121
+\MPscratchDim=\dimen127
+\MPnumerator=\count122
+\makeMPintoPDFobject=\count123
 \everyMPtoPDFconversion=\toks23
-) <logo-universitat.jpg, id=1, 325.215pt x 158.994pt>
+)
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: subfig package v1.3 is loaded.
+Package caption Info: rotating package is loaded.
+Package caption Info: wrapfig package is loaded.
+Package caption Info: End \AtBeginDocument code.
+ <logo-universitat.jpg, id=1, 325.215pt x 158.994pt>
 File: logo-universitat.jpg Graphic file (type jpg)
 
 <use logo-universitat.jpg>
-Package pdftex.def Info: logo-universitat.jpg used on input line 58.
+Package pdftex.def Info: logo-universitat.jpg used on input line 60.
 (pdftex.def)             Requested size: 227.64894pt x 111.29503pt.
  [1
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./logo-universitat.jpg>] (
-./Memoria.toc
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./logo-universitat.jpg>] [
+1] (./Memoria.toc
 LaTeX Info: Redefining \. on input line 1.
 LaTeX Info: Redefining \% on input line 1.
 LaTeX Font Info:    External font `cmex10' loaded for size
@@ -477,27 +554,1121 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 \tf@toc=\write3
 \openout3 = `Memoria.toc'.
 
- [1] [2] [3] [4] [5] [6] [7]
-(./Memoria.aux
+ [2] [1
+
+] [2]
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 181.
+
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/omscmr.fd
+File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 181.
+ [3] [4]
+Package epstopdf Info: Source file: <figuras/TotalAccidentsPerAny.eps>
+(epstopdf)                    date: 2016-06-26 14:24:08
+(epstopdf)                    size: 103126 bytes
+(epstopdf)             Output file: <figuras/TotalAccidentsPerAny-eps-converted
+-to.pdf>
+(epstopdf)                    date: 2016-06-26 14:27:10
+(epstopdf)                    size: 6137 bytes
+(epstopdf)             Command: <repstopdf --outfile=figuras/TotalAccidentsPerA
+ny-eps-converted-to.pdf figuras/TotalAccidentsPerAny.eps>
+(epstopdf)             \includegraphics on input line 221.
+Package epstopdf Info: Output file is already uptodate.
+
+<figuras/TotalAccidentsPerAny-eps-converted-to.pdf, id=31, 433.62pt x 289.08pt>
+File: figuras/TotalAccidentsPerAny-eps-converted-to.pdf Graphic file (type pdf)
+
+<use figuras/TotalAccidentsPerAny-eps-converted-to.pdf>
+Package pdftex.def Info: figuras/TotalAccidentsPerAny-eps-converted-to.pdf used
+ on input line 221.
+(pdftex.def)             Requested size: 303.53192pt x 202.35461pt.
+ [5] [6 <./figuras/TotalAccidentsPerAny-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <figuras/NomDistricteTotalsBar.eps>
+(epstopdf)                    date: 2016-06-26 14:24:28
+(epstopdf)                    size: 111036 bytes
+(epstopdf)             Output file: <figuras/NomDistricteTotalsBar-eps-converte
+d-to.pdf>
+(epstopdf)                    date: 2016-06-26 14:27:11
+(epstopdf)                    size: 9108 bytes
+(epstopdf)             Command: <repstopdf --outfile=figuras/NomDistricteTotals
+Bar-eps-converted-to.pdf figuras/NomDistricteTotalsBar.eps>
+(epstopdf)             \includegraphics on input line 241.
+Package epstopdf Info: Output file is already uptodate.
+
+<figuras/NomDistricteTotalsBar-eps-converted-to.pdf, id=48, 433.62pt x 289.08pt
+>
+File: figuras/NomDistricteTotalsBar-eps-converted-to.pdf Graphic file (type pdf
+)
+ <use figuras/NomDistricteTotalsBar-eps-converted-to.pdf>
+Package pdftex.def Info: figuras/NomDistricteTotalsBar-eps-converted-to.pdf use
+d on input line 241.
+(pdftex.def)             Requested size: 216.81pt x 144.53964pt.
+Package epstopdf Info: Source file: <figuras/NomDistricteTotalsBar.eps>
+(epstopdf)                    date: 2016-06-26 14:24:28
+(epstopdf)                    size: 111036 bytes
+(epstopdf)             Output file: <figuras/NomDistricteTotalsBar-eps-converte
+d-to.pdf>
+(epstopdf)                    date: 2016-06-26 14:27:11
+(epstopdf)                    size: 9108 bytes
+(epstopdf)             Command: <repstopdf --outfile=figuras/NomDistricteTotals
+Bar-eps-converted-to.pdf figuras/NomDistricteTotalsBar.eps>
+(epstopdf)             \includegraphics on input line 241.
+Package epstopdf Info: Output file is already uptodate.
+File: figuras/NomDistricteTotalsBar-eps-converted-to.pdf Graphic file (type pdf
+)
+
+<use figuras/NomDistricteTotalsBar-eps-converted-to.pdf>
+Package pdftex.def Info: figuras/NomDistricteTotalsBar-eps-converted-to.pdf use
+d on input line 241.
+(pdftex.def)             Requested size: 216.81pt x 144.53964pt.
+Package epstopdf Info: Source file: <figuras/NomDistricteMeanPie.eps>
+(epstopdf)                    date: 2016-06-26 14:24:30
+(epstopdf)                    size: 105540 bytes
+(epstopdf)             Output file: <figuras/NomDistricteMeanPie-eps-converted-
+to.pdf>
+(epstopdf)                    date: 2016-06-26 14:27:12
+(epstopdf)                    size: 7611 bytes
+(epstopdf)             Command: <repstopdf --outfile=figuras/NomDistricteMeanPi
+e-eps-converted-to.pdf figuras/NomDistricteMeanPie.eps>
+(epstopdf)             \includegraphics on input line 243.
+Package epstopdf Info: Output file is already uptodate.
+
+<figuras/NomDistricteMeanPie-eps-converted-to.pdf, id=49, 433.62pt x 289.08pt>
+File: figuras/NomDistricteMeanPie-eps-converted-to.pdf Graphic file (type pdf)
+
+<use figuras/NomDistricteMeanPie-eps-converted-to.pdf>
+Package pdftex.def Info: figuras/NomDistricteMeanPie-eps-converted-to.pdf used 
+on input line 243.
+(pdftex.def)             Requested size: 216.81pt x 144.53964pt.
+Package epstopdf Info: Source file: <figuras/NomDistricteMeanPie.eps>
+(epstopdf)                    date: 2016-06-26 14:24:30
+(epstopdf)                    size: 105540 bytes
+(epstopdf)             Output file: <figuras/NomDistricteMeanPie-eps-converted-
+to.pdf>
+(epstopdf)                    date: 2016-06-26 14:27:12
+(epstopdf)                    size: 7611 bytes
+(epstopdf)             Command: <repstopdf --outfile=figuras/NomDistricteMeanPi
+e-eps-converted-to.pdf figuras/NomDistricteMeanPie.eps>
+(epstopdf)             \includegraphics on input line 243.
+Package epstopdf Info: Output file is already uptodate.
+File: figuras/NomDistricteMeanPie-eps-converted-to.pdf Graphic file (type pdf)
+
+<use figuras/NomDistricteMeanPie-eps-converted-to.pdf>
+Package pdftex.def Info: figuras/NomDistricteMeanPie-eps-converted-to.pdf used 
+on input line 243.
+(pdftex.def)             Requested size: 216.81pt x 144.53964pt.
+
+Overfull \hbox (43.62003pt too wide) in paragraph at lines 241--244
+ [][][] 
+ []
+
+Package epstopdf Info: Source file: <figuras/NomBarriTopTotalsBar.eps>
+(epstopdf)                    date: 2016-06-26 14:24:46
+(epstopdf)                    size: 111606 bytes
+(epstopdf)             Output file: <figuras/NomBarriTopTotalsBar-eps-converted
+-to.pdf>
+(epstopdf)                    date: 2016-06-26 14:27:13
+(epstopdf)                    size: 9421 bytes
+(epstopdf)             Command: <repstopdf --outfile=figuras/NomBarriTopTotalsB
+ar-eps-converted-to.pdf figuras/NomBarriTopTotalsBar.eps>
+(epstopdf)             \includegraphics on input line 253.
+Package epstopdf Info: Output file is already uptodate.
+
+<figuras/NomBarriTopTotalsBar-eps-converted-to.pdf, id=50, 433.62pt x 289.08pt>
+File: figuras/NomBarriTopTotalsBar-eps-converted-to.pdf Graphic file (type pdf)
+
+<use figuras/NomBarriTopTotalsBar-eps-converted-to.pdf>
+Package pdftex.def Info: figuras/NomBarriTopTotalsBar-eps-converted-to.pdf used
+ on input line 253.
+(pdftex.def)             Requested size: 216.81pt x 144.53964pt.
+Package epstopdf Info: Source file: <figuras/NomBarriTopTotalsBar.eps>
+(epstopdf)                    date: 2016-06-26 14:24:46
+(epstopdf)                    size: 111606 bytes
+(epstopdf)             Output file: <figuras/NomBarriTopTotalsBar-eps-converted
+-to.pdf>
+(epstopdf)                    date: 2016-06-26 14:27:13
+(epstopdf)                    size: 9421 bytes
+(epstopdf)             Command: <repstopdf --outfile=figuras/NomBarriTopTotalsB
+ar-eps-converted-to.pdf figuras/NomBarriTopTotalsBar.eps>
+(epstopdf)             \includegraphics on input line 253.
+Package epstopdf Info: Output file is already uptodate.
+File: figuras/NomBarriTopTotalsBar-eps-converted-to.pdf Graphic file (type pdf)
+
+
+<use figuras/NomBarriTopTotalsBar-eps-converted-to.pdf>
+Package pdftex.def Info: figuras/NomBarriTopTotalsBar-eps-converted-to.pdf used
+ on input line 253.
+(pdftex.def)             Requested size: 216.81pt x 144.53964pt.
+Package epstopdf Info: Source file: <figuras/NomBarriTopMeanPie.eps>
+(epstopdf)                    date: 2016-06-26 14:24:47
+(epstopdf)                    size: 105622 bytes
+(epstopdf)             Output file: <figuras/NomBarriTopMeanPie-eps-converted-t
+o.pdf>
+(epstopdf)                    date: 2016-06-26 14:27:15
+(epstopdf)                    size: 7698 bytes
+(epstopdf)             Command: <repstopdf --outfile=figuras/NomBarriTopMeanPie
+-eps-converted-to.pdf figuras/NomBarriTopMeanPie.eps>
+(epstopdf)             \includegraphics on input line 255.
+Package epstopdf Info: Output file is already uptodate.
+
+<figuras/NomBarriTopMeanPie-eps-converted-to.pdf, id=51, 433.62pt x 289.08pt>
+File: figuras/NomBarriTopMeanPie-eps-converted-to.pdf Graphic file (type pdf)
+
+<use figuras/NomBarriTopMeanPie-eps-converted-to.pdf>
+Package pdftex.def Info: figuras/NomBarriTopMeanPie-eps-converted-to.pdf used o
+n input line 255.
+(pdftex.def)             Requested size: 216.81pt x 144.53964pt.
+Package epstopdf Info: Source file: <figuras/NomBarriTopMeanPie.eps>
+(epstopdf)                    date: 2016-06-26 14:24:47
+(epstopdf)                    size: 105622 bytes
+(epstopdf)             Output file: <figuras/NomBarriTopMeanPie-eps-converted-t
+o.pdf>
+(epstopdf)                    date: 2016-06-26 14:27:15
+(epstopdf)                    size: 7698 bytes
+(epstopdf)             Command: <repstopdf --outfile=figuras/NomBarriTopMeanPie
+-eps-converted-to.pdf figuras/NomBarriTopMeanPie.eps>
+(epstopdf)             \includegraphics on input line 255.
+Package epstopdf Info: Output file is already uptodate.
+File: figuras/NomBarriTopMeanPie-eps-converted-to.pdf Graphic file (type pdf)
+
+<use figuras/NomBarriTopMeanPie-eps-converted-to.pdf>
+Package pdftex.def Info: figuras/NomBarriTopMeanPie-eps-converted-to.pdf used o
+n input line 255.
+(pdftex.def)             Requested size: 216.81pt x 144.53964pt.
+
+Overfull \hbox (43.62003pt too wide) in paragraph at lines 253--256
+ [][][] 
+ []
+
+[7 <./figuras/NomDistricteTotalsBar-eps-converted-to.pdf> <./figuras/NomDistric
+teMeanPie-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <figuras/NomCarrerTopTotalsBar.eps>
+(epstopdf)                    date: 2016-06-26 14:25:00
+(epstopdf)                    size: 108506 bytes
+(epstopdf)             Output file: <figuras/NomCarrerTopTotalsBar-eps-converte
+d-to.pdf>
+(epstopdf)                    date: 2016-06-26 14:27:16
+(epstopdf)                    size: 8295 bytes
+(epstopdf)             Command: <repstopdf --outfile=figuras/NomCarrerTopTotals
+Bar-eps-converted-to.pdf figuras/NomCarrerTopTotalsBar.eps>
+(epstopdf)             \includegraphics on input line 267.
+Package epstopdf Info: Output file is already uptodate.
+
+<figuras/NomCarrerTopTotalsBar-eps-converted-to.pdf, id=66, 433.62pt x 289.08pt
+>
+File: figuras/NomCarrerTopTotalsBar-eps-converted-to.pdf Graphic file (type pdf
+)
+ <use figuras/NomCarrerTopTotalsBar-eps-converted-to.pdf>
+Package pdftex.def Info: figuras/NomCarrerTopTotalsBar-eps-converted-to.pdf use
+d on input line 267.
+(pdftex.def)             Requested size: 216.81pt x 144.53964pt.
+Package epstopdf Info: Source file: <figuras/NomCarrerTopTotalsBar.eps>
+(epstopdf)                    date: 2016-06-26 14:25:00
+(epstopdf)                    size: 108506 bytes
+(epstopdf)             Output file: <figuras/NomCarrerTopTotalsBar-eps-converte
+d-to.pdf>
+(epstopdf)                    date: 2016-06-26 14:27:16
+(epstopdf)                    size: 8295 bytes
+(epstopdf)             Command: <repstopdf --outfile=figuras/NomCarrerTopTotals
+Bar-eps-converted-to.pdf figuras/NomCarrerTopTotalsBar.eps>
+(epstopdf)             \includegraphics on input line 267.
+Package epstopdf Info: Output file is already uptodate.
+File: figuras/NomCarrerTopTotalsBar-eps-converted-to.pdf Graphic file (type pdf
+)
+
+<use figuras/NomCarrerTopTotalsBar-eps-converted-to.pdf>
+Package pdftex.def Info: figuras/NomCarrerTopTotalsBar-eps-converted-to.pdf use
+d on input line 267.
+(pdftex.def)             Requested size: 216.81pt x 144.53964pt.
+Package epstopdf Info: Source file: <figuras/NomCarrerTopMeanPie.eps>
+(epstopdf)                    date: 2016-06-26 14:25:02
+(epstopdf)                    size: 103331 bytes
+(epstopdf)             Output file: <figuras/NomCarrerTopMeanPie-eps-converted-
+to.pdf>
+(epstopdf)                    date: 2016-06-26 14:27:17
+(epstopdf)                    size: 6847 bytes
+(epstopdf)             Command: <repstopdf --outfile=figuras/NomCarrerTopMeanPi
+e-eps-converted-to.pdf figuras/NomCarrerTopMeanPie.eps>
+(epstopdf)             \includegraphics on input line 269.
+Package epstopdf Info: Output file is already uptodate.
+
+<figuras/NomCarrerTopMeanPie-eps-converted-to.pdf, id=67, 433.62pt x 289.08pt>
+File: figuras/NomCarrerTopMeanPie-eps-converted-to.pdf Graphic file (type pdf)
+
+<use figuras/NomCarrerTopMeanPie-eps-converted-to.pdf>
+Package pdftex.def Info: figuras/NomCarrerTopMeanPie-eps-converted-to.pdf used 
+on input line 269.
+(pdftex.def)             Requested size: 216.81pt x 144.53964pt.
+Package epstopdf Info: Source file: <figuras/NomCarrerTopMeanPie.eps>
+(epstopdf)                    date: 2016-06-26 14:25:02
+(epstopdf)                    size: 103331 bytes
+(epstopdf)             Output file: <figuras/NomCarrerTopMeanPie-eps-converted-
+to.pdf>
+(epstopdf)                    date: 2016-06-26 14:27:17
+(epstopdf)                    size: 6847 bytes
+(epstopdf)             Command: <repstopdf --outfile=figuras/NomCarrerTopMeanPi
+e-eps-converted-to.pdf figuras/NomCarrerTopMeanPie.eps>
+(epstopdf)             \includegraphics on input line 269.
+Package epstopdf Info: Output file is already uptodate.
+File: figuras/NomCarrerTopMeanPie-eps-converted-to.pdf Graphic file (type pdf)
+
+<use figuras/NomCarrerTopMeanPie-eps-converted-to.pdf>
+Package pdftex.def Info: figuras/NomCarrerTopMeanPie-eps-converted-to.pdf used 
+on input line 269.
+(pdftex.def)             Requested size: 216.81pt x 144.53964pt.
+
+Overfull \hbox (43.62003pt too wide) in paragraph at lines 267--270
+ [][][] 
+ []
+
+[8 <./figuras/NomBarriTopTotalsBar-eps-converted-to.pdf> <./figuras/NomBarriTop
+MeanPie-eps-converted-to.pdf> <./figuras/NomCarrerTopTotalsBar-eps-converted-to
+.pdf> <./figuras/NomCarrerTopMeanPie-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <figuras/NomMesTotalsBar.eps>
+(epstopdf)                    date: 2016-06-26 14:25:19
+(epstopdf)                    size: 109433 bytes
+(epstopdf)             Output file: <figuras/NomMesTotalsBar-eps-converted-to.p
+df>
+(epstopdf)                    date: 2016-06-26 14:27:18
+(epstopdf)                    size: 8439 bytes
+(epstopdf)             Command: <repstopdf --outfile=figuras/NomMesTotalsBar-ep
+s-converted-to.pdf figuras/NomMesTotalsBar.eps>
+(epstopdf)             \includegraphics on input line 281.
+Package epstopdf Info: Output file is already uptodate.
+
+<figuras/NomMesTotalsBar-eps-converted-to.pdf, id=91, 433.62pt x 289.08pt>
+File: figuras/NomMesTotalsBar-eps-converted-to.pdf Graphic file (type pdf)
+
+<use figuras/NomMesTotalsBar-eps-converted-to.pdf>
+Package pdftex.def Info: figuras/NomMesTotalsBar-eps-converted-to.pdf used on i
+nput line 281.
+(pdftex.def)             Requested size: 216.81pt x 144.53964pt.
+Package epstopdf Info: Source file: <figuras/NomMesTotalsBar.eps>
+(epstopdf)                    date: 2016-06-26 14:25:19
+(epstopdf)                    size: 109433 bytes
+(epstopdf)             Output file: <figuras/NomMesTotalsBar-eps-converted-to.p
+df>
+(epstopdf)                    date: 2016-06-26 14:27:18
+(epstopdf)                    size: 8439 bytes
+(epstopdf)             Command: <repstopdf --outfile=figuras/NomMesTotalsBar-ep
+s-converted-to.pdf figuras/NomMesTotalsBar.eps>
+(epstopdf)             \includegraphics on input line 281.
+Package epstopdf Info: Output file is already uptodate.
+File: figuras/NomMesTotalsBar-eps-converted-to.pdf Graphic file (type pdf)
+
+<use figuras/NomMesTotalsBar-eps-converted-to.pdf>
+Package pdftex.def Info: figuras/NomMesTotalsBar-eps-converted-to.pdf used on i
+nput line 281.
+(pdftex.def)             Requested size: 216.81pt x 144.53964pt.
+Package epstopdf Info: Source file: <figuras/NomMesMeanPie.eps>
+(epstopdf)                    date: 2016-06-26 14:25:21
+(epstopdf)                    size: 103735 bytes
+(epstopdf)             Output file: <figuras/NomMesMeanPie-eps-converted-to.pdf
+>
+(epstopdf)                    date: 2016-06-26 14:27:19
+(epstopdf)                    size: 6844 bytes
+(epstopdf)             Command: <repstopdf --outfile=figuras/NomMesMeanPie-eps-
+converted-to.pdf figuras/NomMesMeanPie.eps>
+(epstopdf)             \includegraphics on input line 283.
+Package epstopdf Info: Output file is already uptodate.
+
+<figuras/NomMesMeanPie-eps-converted-to.pdf, id=92, 433.62pt x 289.08pt>
+File: figuras/NomMesMeanPie-eps-converted-to.pdf Graphic file (type pdf)
+
+<use figuras/NomMesMeanPie-eps-converted-to.pdf>
+Package pdftex.def Info: figuras/NomMesMeanPie-eps-converted-to.pdf used on inp
+ut line 283.
+(pdftex.def)             Requested size: 216.81pt x 144.53964pt.
+Package epstopdf Info: Source file: <figuras/NomMesMeanPie.eps>
+(epstopdf)                    date: 2016-06-26 14:25:21
+(epstopdf)                    size: 103735 bytes
+(epstopdf)             Output file: <figuras/NomMesMeanPie-eps-converted-to.pdf
+>
+(epstopdf)                    date: 2016-06-26 14:27:19
+(epstopdf)                    size: 6844 bytes
+(epstopdf)             Command: <repstopdf --outfile=figuras/NomMesMeanPie-eps-
+converted-to.pdf figuras/NomMesMeanPie.eps>
+(epstopdf)             \includegraphics on input line 283.
+Package epstopdf Info: Output file is already uptodate.
+File: figuras/NomMesMeanPie-eps-converted-to.pdf Graphic file (type pdf)
+
+<use figuras/NomMesMeanPie-eps-converted-to.pdf>
+Package pdftex.def Info: figuras/NomMesMeanPie-eps-converted-to.pdf used on inp
+ut line 283.
+(pdftex.def)             Requested size: 216.81pt x 144.53964pt.
+
+Overfull \hbox (43.62003pt too wide) in paragraph at lines 281--284
+ [][][] 
+ []
+
+Package epstopdf Info: Source file: <figuras/DescripcioDiaSetmanaTotalsBar.eps>
+
+(epstopdf)                    date: 2016-06-26 14:25:34
+(epstopdf)                    size: 106469 bytes
+(epstopdf)             Output file: <figuras/DescripcioDiaSetmanaTotalsBar-eps-
+converted-to.pdf>
+(epstopdf)                    date: 2016-06-26 14:27:21
+(epstopdf)                    size: 7198 bytes
+(epstopdf)             Command: <repstopdf --outfile=figuras/DescripcioDiaSetma
+naTotalsBar-eps-converted-to.pdf figuras/DescripcioDiaSetmanaTotalsBar.eps>
+(epstopdf)             \includegraphics on input line 295.
+Package epstopdf Info: Output file is already uptodate.
+
+<figuras/DescripcioDiaSetmanaTotalsBar-eps-converted-to.pdf, id=93, 433.62pt x 
+289.08pt>
+File: figuras/DescripcioDiaSetmanaTotalsBar-eps-converted-to.pdf Graphic file (
+type pdf)
+ <use figuras/DescripcioDiaSetmanaTotalsBar-eps-converted-to.pdf>
+Package pdftex.def Info: figuras/DescripcioDiaSetmanaTotalsBar-eps-converted-to
+.pdf used on input line 295.
+(pdftex.def)             Requested size: 216.81pt x 144.53964pt.
+Package epstopdf Info: Source file: <figuras/DescripcioDiaSetmanaTotalsBar.eps>
+
+(epstopdf)                    date: 2016-06-26 14:25:34
+(epstopdf)                    size: 106469 bytes
+(epstopdf)             Output file: <figuras/DescripcioDiaSetmanaTotalsBar-eps-
+converted-to.pdf>
+(epstopdf)                    date: 2016-06-26 14:27:21
+(epstopdf)                    size: 7198 bytes
+(epstopdf)             Command: <repstopdf --outfile=figuras/DescripcioDiaSetma
+naTotalsBar-eps-converted-to.pdf figuras/DescripcioDiaSetmanaTotalsBar.eps>
+(epstopdf)             \includegraphics on input line 295.
+Package epstopdf Info: Output file is already uptodate.
+File: figuras/DescripcioDiaSetmanaTotalsBar-eps-converted-to.pdf Graphic file (
+type pdf)
+
+<use figuras/DescripcioDiaSetmanaTotalsBar-eps-converted-to.pdf>
+Package pdftex.def Info: figuras/DescripcioDiaSetmanaTotalsBar-eps-converted-to
+.pdf used on input line 295.
+(pdftex.def)             Requested size: 216.81pt x 144.53964pt.
+Package epstopdf Info: Source file: <figuras/DescripcioDiaSetmanaMeanPie.eps>
+(epstopdf)                    date: 2016-06-26 14:25:35
+(epstopdf)                    size: 100824 bytes
+(epstopdf)             Output file: <figuras/DescripcioDiaSetmanaMeanPie-eps-co
+nverted-to.pdf>
+(epstopdf)                    date: 2016-06-26 14:27:22
+(epstopdf)                    size: 5616 bytes
+(epstopdf)             Command: <repstopdf --outfile=figuras/DescripcioDiaSetma
+naMeanPie-eps-converted-to.pdf figuras/DescripcioDiaSetmanaMeanPie.eps>
+(epstopdf)             \includegraphics on input line 297.
+Package epstopdf Info: Output file is already uptodate.
+
+<figuras/DescripcioDiaSetmanaMeanPie-eps-converted-to.pdf, id=94, 433.62pt x 28
+9.08pt>
+File: figuras/DescripcioDiaSetmanaMeanPie-eps-converted-to.pdf Graphic file (ty
+pe pdf)
+ <use figuras/DescripcioDiaSetmanaMeanPie-eps-converted-to.pdf>
+Package pdftex.def Info: figuras/DescripcioDiaSetmanaMeanPie-eps-converted-to.p
+df used on input line 297.
+(pdftex.def)             Requested size: 216.81pt x 144.53964pt.
+Package epstopdf Info: Source file: <figuras/DescripcioDiaSetmanaMeanPie.eps>
+(epstopdf)                    date: 2016-06-26 14:25:35
+(epstopdf)                    size: 100824 bytes
+(epstopdf)             Output file: <figuras/DescripcioDiaSetmanaMeanPie-eps-co
+nverted-to.pdf>
+(epstopdf)                    date: 2016-06-26 14:27:22
+(epstopdf)                    size: 5616 bytes
+(epstopdf)             Command: <repstopdf --outfile=figuras/DescripcioDiaSetma
+naMeanPie-eps-converted-to.pdf figuras/DescripcioDiaSetmanaMeanPie.eps>
+(epstopdf)             \includegraphics on input line 297.
+Package epstopdf Info: Output file is already uptodate.
+File: figuras/DescripcioDiaSetmanaMeanPie-eps-converted-to.pdf Graphic file (ty
+pe pdf)
+
+<use figuras/DescripcioDiaSetmanaMeanPie-eps-converted-to.pdf>
+Package pdftex.def Info: figuras/DescripcioDiaSetmanaMeanPie-eps-converted-to.p
+df used on input line 297.
+(pdftex.def)             Requested size: 216.81pt x 144.53964pt.
+
+Overfull \hbox (43.62003pt too wide) in paragraph at lines 295--298
+ [][][] 
+ []
+
+[9 <./figuras/NomMesTotalsBar-eps-converted-to.pdf> <./figuras/NomMesMeanPie-ep
+s-converted-to.pdf>] [10 <./figuras/DescripcioDiaSetmanaTotalsBar-eps-converted
+-to.pdf> <./figuras/DescripcioDiaSetmanaMeanPie-eps-converted-to.pdf>] [11]
+[12] [13] <mapesImg/heatmap2010.png, id=131, 1168.365pt x 602.25pt>
+File: mapesImg/heatmap2010.png Graphic file (type png)
+
+<use mapesImg/heatmap2010.png>
+Package pdftex.def Info: mapesImg/heatmap2010.png used on input line 340.
+(pdftex.def)             Requested size: 548.50766pt x 282.7359pt.
+
+<mapesImg/heatmap2011.png, id=132, 1064.97874pt x 595.22375pt>
+File: mapesImg/heatmap2011.png Graphic file (type png)
+
+<use mapesImg/heatmap2011.png>
+Package pdftex.def Info: mapesImg/heatmap2011.png used on input line 345.
+(pdftex.def)             Requested size: 548.5108pt x 306.56636pt.
+
+<mapesImg/heatmap2012.png, id=133, 1066.98625pt x 623.32875pt>
+File: mapesImg/heatmap2012.png Graphic file (type png)
+
+<use mapesImg/heatmap2012.png>
+Package pdftex.def Info: mapesImg/heatmap2012.png used on input line 351.
+(pdftex.def)             Requested size: 548.51907pt x 320.44246pt.
+
+<mapesImg/heatmap2013.png, id=134, 1122.1925pt x 632.3625pt>
+File: mapesImg/heatmap2013.png Graphic file (type png)
+
+<use mapesImg/heatmap2013.png>
+Package pdftex.def Info: mapesImg/heatmap2013.png used on input line 357.
+(pdftex.def)             Requested size: 548.49216pt x 309.07877pt.
+
+<mapesImg/heatmap2014.png, id=135, 942.52126pt x 612.2875pt>
+File: mapesImg/heatmap2014.png Graphic file (type png)
+
+<use mapesImg/heatmap2014.png>
+Package pdftex.def Info: mapesImg/heatmap2014.png used on input line 363.
+(pdftex.def)             Requested size: 548.50357pt x 356.32288pt.
+
+<mapesImg/heatmap2015.png, id=136, 968.61874pt x 611.28375pt>
+File: mapesImg/heatmap2015.png Graphic file (type png)
+
+<use mapesImg/heatmap2015.png>
+Package pdftex.def Info: mapesImg/heatmap2015.png used on input line 368.
+(pdftex.def)             Requested size: 548.5269pt x 346.1688pt.
+ [14]
+Package epstopdf Info: Source file: <figuras/NomDistricte2010.eps>
+(epstopdf)                    date: 2016-06-26 14:24:13
+(epstopdf)                    size: 109985 bytes
+(epstopdf)             Output file: <figuras/NomDistricte2010-eps-converted-to.
+pdf>
+(epstopdf)                    date: 2016-06-26 14:27:23
+(epstopdf)                    size: 8772 bytes
+(epstopdf)             Command: <repstopdf --outfile=figuras/NomDistricte2010-e
+ps-converted-to.pdf figuras/NomDistricte2010.eps>
+(epstopdf)             \includegraphics on input line 379.
+Package epstopdf Info: Output file is already uptodate.
+
+<figuras/NomDistricte2010-eps-converted-to.pdf, id=140, 433.62pt x 289.08pt>
+File: figuras/NomDistricte2010-eps-converted-to.pdf Graphic file (type pdf)
+
+<use figuras/NomDistricte2010-eps-converted-to.pdf>
+Package pdftex.def Info: figuras/NomDistricte2010-eps-converted-to.pdf used on 
+input line 379.
+(pdftex.def)             Requested size: 216.81pt x 144.53964pt.
+Package epstopdf Info: Source file: <figuras/NomDistricte2011.eps>
+(epstopdf)                    date: 2016-06-26 14:24:15
+(epstopdf)                    size: 110000 bytes
+(epstopdf)             Output file: <figuras/NomDistricte2011-eps-converted-to.
+pdf>
+(epstopdf)                    date: 2016-06-26 14:27:24
+(epstopdf)                    size: 8777 bytes
+(epstopdf)             Command: <repstopdf --outfile=figuras/NomDistricte2011-e
+ps-converted-to.pdf figuras/NomDistricte2011.eps>
+(epstopdf)             \includegraphics on input line 380.
+Package epstopdf Info: Output file is already uptodate.
+
+<figuras/NomDistricte2011-eps-converted-to.pdf, id=141, 433.62pt x 289.08pt>
+File: figuras/NomDistricte2011-eps-converted-to.pdf Graphic file (type pdf)
+
+<use figuras/NomDistricte2011-eps-converted-to.pdf>
+Package pdftex.def Info: figuras/NomDistricte2011-eps-converted-to.pdf used on 
+input line 380.
+(pdftex.def)             Requested size: 216.81pt x 144.53964pt.
+Package epstopdf Info: Source file: <figuras/NomDistricte2012.eps>
+(epstopdf)                    date: 2016-06-26 14:24:18
+(epstopdf)                    size: 110489 bytes
+(epstopdf)             Output file: <figuras/NomDistricte2012-eps-converted-to.
+pdf>
+(epstopdf)                    date: 2016-06-26 14:27:25
+(epstopdf)                    size: 8977 bytes
+(epstopdf)             Command: <repstopdf --outfile=figuras/NomDistricte2012-e
+ps-converted-to.pdf figuras/NomDistricte2012.eps>
+(epstopdf)             \includegraphics on input line 381.
+Package epstopdf Info: Output file is already uptodate.
+
+<figuras/NomDistricte2012-eps-converted-to.pdf, id=142, 433.62pt x 289.08pt>
+File: figuras/NomDistricte2012-eps-converted-to.pdf Graphic file (type pdf)
+
+<use figuras/NomDistricte2012-eps-converted-to.pdf>
+Package pdftex.def Info: figuras/NomDistricte2012-eps-converted-to.pdf used on 
+input line 381.
+(pdftex.def)             Requested size: 216.81pt x 144.53964pt.
+Package epstopdf Info: Source file: <figuras/NomDistricte2013.eps>
+(epstopdf)                    date: 2016-06-26 14:24:20
+(epstopdf)                    size: 110486 bytes
+(epstopdf)             Output file: <figuras/NomDistricte2013-eps-converted-to.
+pdf>
+(epstopdf)                    date: 2016-06-26 14:27:26
+(epstopdf)                    size: 8977 bytes
+(epstopdf)             Command: <repstopdf --outfile=figuras/NomDistricte2013-e
+ps-converted-to.pdf figuras/NomDistricte2013.eps>
+(epstopdf)             \includegraphics on input line 382.
+Package epstopdf Info: Output file is already uptodate.
+
+<figuras/NomDistricte2013-eps-converted-to.pdf, id=143, 433.62pt x 289.08pt>
+File: figuras/NomDistricte2013-eps-converted-to.pdf Graphic file (type pdf)
+
+<use figuras/NomDistricte2013-eps-converted-to.pdf>
+Package pdftex.def Info: figuras/NomDistricte2013-eps-converted-to.pdf used on 
+input line 382.
+(pdftex.def)             Requested size: 216.81pt x 144.53964pt.
+Package epstopdf Info: Source file: <figuras/NomDistricte2014.eps>
+(epstopdf)                    date: 2016-06-26 14:24:23
+(epstopdf)                    size: 110478 bytes
+(epstopdf)             Output file: <figuras/NomDistricte2014-eps-converted-to.
+pdf>
+(epstopdf)                    date: 2016-06-26 14:27:27
+(epstopdf)                    size: 8976 bytes
+(epstopdf)             Command: <repstopdf --outfile=figuras/NomDistricte2014-e
+ps-converted-to.pdf figuras/NomDistricte2014.eps>
+(epstopdf)             \includegraphics on input line 383.
+Package epstopdf Info: Output file is already uptodate.
+
+<figuras/NomDistricte2014-eps-converted-to.pdf, id=144, 433.62pt x 289.08pt>
+File: figuras/NomDistricte2014-eps-converted-to.pdf Graphic file (type pdf)
+
+<use figuras/NomDistricte2014-eps-converted-to.pdf>
+Package pdftex.def Info: figuras/NomDistricte2014-eps-converted-to.pdf used on 
+input line 383.
+(pdftex.def)             Requested size: 216.81pt x 144.53964pt.
+Package epstopdf Info: Source file: <figuras/NomDistricte2015.eps>
+(epstopdf)                    date: 2016-06-26 14:24:25
+(epstopdf)                    size: 110554 bytes
+(epstopdf)             Output file: <figuras/NomDistricte2015-eps-converted-to.
+pdf>
+(epstopdf)                    date: 2016-06-26 14:27:29
+(epstopdf)                    size: 9010 bytes
+(epstopdf)             Command: <repstopdf --outfile=figuras/NomDistricte2015-e
+ps-converted-to.pdf figuras/NomDistricte2015.eps>
+(epstopdf)             \includegraphics on input line 384.
+Package epstopdf Info: Output file is already uptodate.
+
+<figuras/NomDistricte2015-eps-converted-to.pdf, id=145, 433.62pt x 289.08pt>
+File: figuras/NomDistricte2015-eps-converted-to.pdf Graphic file (type pdf)
+
+<use figuras/NomDistricte2015-eps-converted-to.pdf>
+Package pdftex.def Info: figuras/NomDistricte2015-eps-converted-to.pdf used on 
+input line 384.
+(pdftex.def)             Requested size: 216.81pt x 144.53964pt.
+
+Overfull \hbox (75.45325pt too wide) in paragraph at lines 378--386
+[][] 
+ []
+
+Package epstopdf Info: Source file: <figuras/NomBarriTop2010.eps>
+(epstopdf)                    date: 2016-06-26 14:24:32
+(epstopdf)                    size: 111195 bytes
+(epstopdf)             Output file: <figuras/NomBarriTop2010-eps-converted-to.p
+df>
+(epstopdf)                    date: 2016-06-26 14:27:30
+(epstopdf)                    size: 9232 bytes
+(epstopdf)             Command: <repstopdf --outfile=figuras/NomBarriTop2010-ep
+s-converted-to.pdf figuras/NomBarriTop2010.eps>
+(epstopdf)             \includegraphics on input line 393.
+Package epstopdf Info: Output file is already uptodate.
+<figuras/NomBarriTop2010-eps-converted-to.pdf, id=146, 433.62pt x 289.08pt>
+File: figuras/NomBarriTop2010-eps-converted-to.pdf Graphic file (type pdf)
+
+<use figuras/NomBarriTop2010-eps-converted-to.pdf>
+Package pdftex.def Info: figuras/NomBarriTop2010-eps-converted-to.pdf used on i
+nput line 393.
+(pdftex.def)             Requested size: 216.81pt x 144.53964pt.
+Package epstopdf Info: Source file: <figuras/NomBarriTop2011.eps>
+(epstopdf)                    date: 2016-06-26 14:24:34
+(epstopdf)                    size: 110767 bytes
+(epstopdf)             Output file: <figuras/NomBarriTop2011-eps-converted-to.p
+df>
+(epstopdf)                    date: 2016-06-26 14:27:31
+(epstopdf)                    size: 9059 bytes
+(epstopdf)             Command: <repstopdf --outfile=figuras/NomBarriTop2011-ep
+s-converted-to.pdf figuras/NomBarriTop2011.eps>
+(epstopdf)             \includegraphics on input line 394.
+Package epstopdf Info: Output file is already uptodate.
+
+<figuras/NomBarriTop2011-eps-converted-to.pdf, id=147, 433.62pt x 289.08pt>
+File: figuras/NomBarriTop2011-eps-converted-to.pdf Graphic file (type pdf)
+
+<use figuras/NomBarriTop2011-eps-converted-to.pdf>
+Package pdftex.def Info: figuras/NomBarriTop2011-eps-converted-to.pdf used on i
+nput line 394.
+(pdftex.def)             Requested size: 216.81pt x 144.53964pt.
+Package epstopdf Info: Source file: <figuras/NomBarriTop2012.eps>
+(epstopdf)                    date: 2016-06-26 14:24:37
+(epstopdf)                    size: 110850 bytes
+(epstopdf)             Output file: <figuras/NomBarriTop2012-eps-converted-to.p
+df>
+(epstopdf)                    date: 2016-06-26 14:27:32
+(epstopdf)                    size: 9092 bytes
+(epstopdf)             Command: <repstopdf --outfile=figuras/NomBarriTop2012-ep
+s-converted-to.pdf figuras/NomBarriTop2012.eps>
+(epstopdf)             \includegraphics on input line 395.
+Package epstopdf Info: Output file is already uptodate.
+
+<figuras/NomBarriTop2012-eps-converted-to.pdf, id=148, 433.62pt x 289.08pt>
+File: figuras/NomBarriTop2012-eps-converted-to.pdf Graphic file (type pdf)
+
+<use figuras/NomBarriTop2012-eps-converted-to.pdf>
+Package pdftex.def Info: figuras/NomBarriTop2012-eps-converted-to.pdf used on i
+nput line 395.
+(pdftex.def)             Requested size: 216.81pt x 144.53964pt.
+Package epstopdf Info: Source file: <figuras/NomBarriTop2013.eps>
+(epstopdf)                    date: 2016-06-26 14:24:39
+(epstopdf)                    size: 110884 bytes
+(epstopdf)             Output file: <figuras/NomBarriTop2013-eps-converted-to.p
+df>
+(epstopdf)                    date: 2016-06-26 14:27:33
+(epstopdf)                    size: 9111 bytes
+(epstopdf)             Command: <repstopdf --outfile=figuras/NomBarriTop2013-ep
+s-converted-to.pdf figuras/NomBarriTop2013.eps>
+(epstopdf)             \includegraphics on input line 396.
+Package epstopdf Info: Output file is already uptodate.
+
+<figuras/NomBarriTop2013-eps-converted-to.pdf, id=149, 433.62pt x 289.08pt>
+File: figuras/NomBarriTop2013-eps-converted-to.pdf Graphic file (type pdf)
+
+<use figuras/NomBarriTop2013-eps-converted-to.pdf>
+Package pdftex.def Info: figuras/NomBarriTop2013-eps-converted-to.pdf used on i
+nput line 396.
+(pdftex.def)             Requested size: 216.81pt x 144.53964pt.
+Package epstopdf Info: Source file: <figuras/NomBarriTop2014.eps>
+(epstopdf)                    date: 2016-06-26 14:24:41
+(epstopdf)                    size: 110855 bytes
+(epstopdf)             Output file: <figuras/NomBarriTop2014-eps-converted-to.p
+df>
+(epstopdf)                    date: 2016-06-26 14:27:34
+(epstopdf)                    size: 9096 bytes
+(epstopdf)             Command: <repstopdf --outfile=figuras/NomBarriTop2014-ep
+s-converted-to.pdf figuras/NomBarriTop2014.eps>
+(epstopdf)             \includegraphics on input line 397.
+Package epstopdf Info: Output file is already uptodate.
+
+<figuras/NomBarriTop2014-eps-converted-to.pdf, id=150, 433.62pt x 289.08pt>
+File: figuras/NomBarriTop2014-eps-converted-to.pdf Graphic file (type pdf)
+
+<use figuras/NomBarriTop2014-eps-converted-to.pdf>
+Package pdftex.def Info: figuras/NomBarriTop2014-eps-converted-to.pdf used on i
+nput line 397.
+(pdftex.def)             Requested size: 216.81pt x 144.53964pt.
+Package epstopdf Info: Source file: <figuras/NomBarriTop2015.eps>
+(epstopdf)                    date: 2016-06-26 14:24:43
+(epstopdf)                    size: 110867 bytes
+(epstopdf)             Output file: <figuras/NomBarriTop2015-eps-converted-to.p
+df>
+(epstopdf)                    date: 2016-06-26 14:27:35
+(epstopdf)                    size: 9094 bytes
+(epstopdf)             Command: <repstopdf --outfile=figuras/NomBarriTop2015-ep
+s-converted-to.pdf figuras/NomBarriTop2015.eps>
+(epstopdf)             \includegraphics on input line 398.
+Package epstopdf Info: Output file is already uptodate.
+
+<figuras/NomBarriTop2015-eps-converted-to.pdf, id=151, 433.62pt x 289.08pt>
+File: figuras/NomBarriTop2015-eps-converted-to.pdf Graphic file (type pdf)
+
+<use figuras/NomBarriTop2015-eps-converted-to.pdf>
+Package pdftex.def Info: figuras/NomBarriTop2015-eps-converted-to.pdf used on i
+nput line 398.
+(pdftex.def)             Requested size: 216.81pt x 144.53964pt.
+
+Overfull \hbox (75.45325pt too wide) in paragraph at lines 392--400
+[][] 
+ []
+
+Package epstopdf Info: Source file: <figuras/NomCarrerTop2010.eps>
+(epstopdf)                    date: 2016-06-26 14:24:49
+(epstopdf)                    size: 108987 bytes
+(epstopdf)             Output file: <figuras/NomCarrerTop2010-eps-converted-to.
+pdf>
+(epstopdf)                    date: 2016-06-26 14:27:37
+(epstopdf)                    size: 8426 bytes
+(epstopdf)             Command: <repstopdf --outfile=figuras/NomCarrerTop2010-e
+ps-converted-to.pdf figuras/NomCarrerTop2010.eps>
+(epstopdf)             \includegraphics on input line 406.
+Package epstopdf Info: Output file is already uptodate.
+<figuras/NomCarrerTop2010-eps-converted-to.pdf, id=152, 433.62pt x 289.08pt>
+File: figuras/NomCarrerTop2010-eps-converted-to.pdf Graphic file (type pdf)
+
+<use figuras/NomCarrerTop2010-eps-converted-to.pdf>
+Package pdftex.def Info: figuras/NomCarrerTop2010-eps-converted-to.pdf used on 
+input line 406.
+(pdftex.def)             Requested size: 216.81pt x 144.53964pt.
+Package epstopdf Info: Source file: <figuras/NomCarrerTop2011.eps>
+(epstopdf)                    date: 2016-06-26 14:24:51
+(epstopdf)                    size: 109289 bytes
+(epstopdf)             Output file: <figuras/NomCarrerTop2011-eps-converted-to.
+pdf>
+(epstopdf)                    date: 2016-06-26 14:27:38
+(epstopdf)                    size: 8520 bytes
+(epstopdf)             Command: <repstopdf --outfile=figuras/NomCarrerTop2011-e
+ps-converted-to.pdf figuras/NomCarrerTop2011.eps>
+(epstopdf)             \includegraphics on input line 407.
+Package epstopdf Info: Output file is already uptodate.
+
+<figuras/NomCarrerTop2011-eps-converted-to.pdf, id=153, 433.62pt x 289.08pt>
+File: figuras/NomCarrerTop2011-eps-converted-to.pdf Graphic file (type pdf)
+
+<use figuras/NomCarrerTop2011-eps-converted-to.pdf>
+Package pdftex.def Info: figuras/NomCarrerTop2011-eps-converted-to.pdf used on 
+input line 407.
+(pdftex.def)             Requested size: 216.81pt x 144.53964pt.
+Package epstopdf Info: Source file: <figuras/NomCarrerTop2012.eps>
+(epstopdf)                    date: 2016-06-26 14:24:53
+(epstopdf)                    size: 108977 bytes
+(epstopdf)             Output file: <figuras/NomCarrerTop2012-eps-converted-to.
+pdf>
+(epstopdf)                    date: 2016-06-26 14:27:39
+(epstopdf)                    size: 8422 bytes
+(epstopdf)             Command: <repstopdf --outfile=figuras/NomCarrerTop2012-e
+ps-converted-to.pdf figuras/NomCarrerTop2012.eps>
+(epstopdf)             \includegraphics on input line 408.
+Package epstopdf Info: Output file is already uptodate.
+
+<figuras/NomCarrerTop2012-eps-converted-to.pdf, id=154, 433.62pt x 289.08pt>
+File: figuras/NomCarrerTop2012-eps-converted-to.pdf Graphic file (type pdf)
+
+<use figuras/NomCarrerTop2012-eps-converted-to.pdf>
+Package pdftex.def Info: figuras/NomCarrerTop2012-eps-converted-to.pdf used on 
+input line 408.
+(pdftex.def)             Requested size: 216.81pt x 144.53964pt.
+Package epstopdf Info: Source file: <figuras/NomCarrerTop2013.eps>
+(epstopdf)                    date: 2016-06-26 14:24:55
+(epstopdf)                    size: 108908 bytes
+(epstopdf)             Output file: <figuras/NomCarrerTop2013-eps-converted-to.
+pdf>
+(epstopdf)                    date: 2016-06-26 14:27:40
+(epstopdf)                    size: 8400 bytes
+(epstopdf)             Command: <repstopdf --outfile=figuras/NomCarrerTop2013-e
+ps-converted-to.pdf figuras/NomCarrerTop2013.eps>
+(epstopdf)             \includegraphics on input line 409.
+Package epstopdf Info: Output file is already uptodate.
+
+<figuras/NomCarrerTop2013-eps-converted-to.pdf, id=155, 433.62pt x 289.08pt>
+File: figuras/NomCarrerTop2013-eps-converted-to.pdf Graphic file (type pdf)
+
+<use figuras/NomCarrerTop2013-eps-converted-to.pdf>
+Package pdftex.def Info: figuras/NomCarrerTop2013-eps-converted-to.pdf used on 
+input line 409.
+(pdftex.def)             Requested size: 216.81pt x 144.53964pt.
+Package epstopdf Info: Source file: <figuras/NomCarrerTop2014.eps>
+(epstopdf)                    date: 2016-06-26 14:24:57
+(epstopdf)                    size: 109118 bytes
+(epstopdf)             Output file: <figuras/NomCarrerTop2014-eps-converted-to.
+pdf>
+(epstopdf)                    date: 2016-06-26 14:27:41
+(epstopdf)                    size: 8515 bytes
+(epstopdf)             Command: <repstopdf --outfile=figuras/NomCarrerTop2014-e
+ps-converted-to.pdf figuras/NomCarrerTop2014.eps>
+(epstopdf)             \includegraphics on input line 410.
+Package epstopdf Info: Output file is already uptodate.
+
+<figuras/NomCarrerTop2014-eps-converted-to.pdf, id=156, 433.62pt x 289.08pt>
+File: figuras/NomCarrerTop2014-eps-converted-to.pdf Graphic file (type pdf)
+
+<use figuras/NomCarrerTop2014-eps-converted-to.pdf>
+Package pdftex.def Info: figuras/NomCarrerTop2014-eps-converted-to.pdf used on 
+input line 410.
+(pdftex.def)             Requested size: 216.81pt x 144.53964pt.
+Package epstopdf Info: Source file: <figuras/NomCarrerTop2015.eps>
+(epstopdf)                    date: 2016-06-26 14:24:59
+(epstopdf)                    size: 108901 bytes
+(epstopdf)             Output file: <figuras/NomCarrerTop2015-eps-converted-to.
+pdf>
+(epstopdf)                    date: 2016-06-26 14:27:42
+(epstopdf)                    size: 8387 bytes
+(epstopdf)             Command: <repstopdf --outfile=figuras/NomCarrerTop2015-e
+ps-converted-to.pdf figuras/NomCarrerTop2015.eps>
+(epstopdf)             \includegraphics on input line 411.
+Package epstopdf Info: Output file is already uptodate.
+
+<figuras/NomCarrerTop2015-eps-converted-to.pdf, id=157, 433.62pt x 289.08pt>
+File: figuras/NomCarrerTop2015-eps-converted-to.pdf Graphic file (type pdf)
+
+<use figuras/NomCarrerTop2015-eps-converted-to.pdf>
+Package pdftex.def Info: figuras/NomCarrerTop2015-eps-converted-to.pdf used on 
+input line 411.
+(pdftex.def)             Requested size: 216.81pt x 144.53964pt.
+
+Overfull \hbox (75.45325pt too wide) in paragraph at lines 405--413
+[][] 
+ []
+
+Package epstopdf Info: Source file: <figuras/NomMes2010.eps>
+(epstopdf)                    date: 2016-06-26 14:25:05
+(epstopdf)                    size: 110721 bytes
+(epstopdf)             Output file: <figuras/NomMes2010-eps-converted-to.pdf>
+(epstopdf)                    date: 2016-06-26 14:27:44
+(epstopdf)                    size: 8906 bytes
+(epstopdf)             Command: <repstopdf --outfile=figuras/NomMes2010-eps-con
+verted-to.pdf figuras/NomMes2010.eps>
+(epstopdf)             \includegraphics on input line 419.
+Package epstopdf Info: Output file is already uptodate.
+<figuras/NomMes2010-eps-converted-to.pdf, id=158, 433.62pt x 289.08pt>
+File: figuras/NomMes2010-eps-converted-to.pdf Graphic file (type pdf)
+
+<use figuras/NomMes2010-eps-converted-to.pdf>
+Package pdftex.def Info: figuras/NomMes2010-eps-converted-to.pdf used on input 
+line 419.
+(pdftex.def)             Requested size: 216.81pt x 144.53964pt.
+Package epstopdf Info: Source file: <figuras/NomMes2011.eps>
+(epstopdf)                    date: 2016-06-26 14:25:07
+(epstopdf)                    size: 110691 bytes
+(epstopdf)             Output file: <figuras/NomMes2011-eps-converted-to.pdf>
+(epstopdf)                    date: 2016-06-26 14:27:45
+(epstopdf)                    size: 8908 bytes
+(epstopdf)             Command: <repstopdf --outfile=figuras/NomMes2011-eps-con
+verted-to.pdf figuras/NomMes2011.eps>
+(epstopdf)             \includegraphics on input line 420.
+Package epstopdf Info: Output file is already uptodate.
+
+<figuras/NomMes2011-eps-converted-to.pdf, id=159, 433.62pt x 289.08pt>
+File: figuras/NomMes2011-eps-converted-to.pdf Graphic file (type pdf)
+
+<use figuras/NomMes2011-eps-converted-to.pdf>
+Package pdftex.def Info: figuras/NomMes2011-eps-converted-to.pdf used on input 
+line 420.
+(pdftex.def)             Requested size: 216.81pt x 144.53964pt.
+Package epstopdf Info: Source file: <figuras/NomMes2012.eps>
+(epstopdf)                    date: 2016-06-26 14:25:10
+(epstopdf)                    size: 110684 bytes
+(epstopdf)             Output file: <figuras/NomMes2012-eps-converted-to.pdf>
+(epstopdf)                    date: 2016-06-26 14:27:46
+(epstopdf)                    size: 8910 bytes
+(epstopdf)             Command: <repstopdf --outfile=figuras/NomMes2012-eps-con
+verted-to.pdf figuras/NomMes2012.eps>
+(epstopdf)             \includegraphics on input line 421.
+Package epstopdf Info: Output file is already uptodate.
+
+<figuras/NomMes2012-eps-converted-to.pdf, id=160, 433.62pt x 289.08pt>
+File: figuras/NomMes2012-eps-converted-to.pdf Graphic file (type pdf)
+
+<use figuras/NomMes2012-eps-converted-to.pdf>
+Package pdftex.def Info: figuras/NomMes2012-eps-converted-to.pdf used on input 
+line 421.
+(pdftex.def)             Requested size: 216.81pt x 144.53964pt.
+Package epstopdf Info: Source file: <figuras/NomMes2013.eps>
+(epstopdf)                    date: 2016-06-26 14:25:12
+(epstopdf)                    size: 110683 bytes
+(epstopdf)             Output file: <figuras/NomMes2013-eps-converted-to.pdf>
+(epstopdf)                    date: 2016-06-26 14:27:47
+(epstopdf)                    size: 8905 bytes
+(epstopdf)             Command: <repstopdf --outfile=figuras/NomMes2013-eps-con
+verted-to.pdf figuras/NomMes2013.eps>
+(epstopdf)             \includegraphics on input line 422.
+Package epstopdf Info: Output file is already uptodate.
+
+<figuras/NomMes2013-eps-converted-to.pdf, id=161, 433.62pt x 289.08pt>
+File: figuras/NomMes2013-eps-converted-to.pdf Graphic file (type pdf)
+
+<use figuras/NomMes2013-eps-converted-to.pdf>
+Package pdftex.def Info: figuras/NomMes2013-eps-converted-to.pdf used on input 
+line 422.
+(pdftex.def)             Requested size: 216.81pt x 144.53964pt.
+Package epstopdf Info: Source file: <figuras/NomMes2014.eps>
+(epstopdf)                    date: 2016-06-26 14:25:15
+(epstopdf)                    size: 108900 bytes
+(epstopdf)             Output file: <figuras/NomMes2014-eps-converted-to.pdf>
+(epstopdf)                    date: 2016-06-26 14:27:49
+(epstopdf)                    size: 8232 bytes
+(epstopdf)             Command: <repstopdf --outfile=figuras/NomMes2014-eps-con
+verted-to.pdf figuras/NomMes2014.eps>
+(epstopdf)             \includegraphics on input line 423.
+Package epstopdf Info: Output file is already uptodate.
+
+<figuras/NomMes2014-eps-converted-to.pdf, id=162, 433.62pt x 289.08pt>
+File: figuras/NomMes2014-eps-converted-to.pdf Graphic file (type pdf)
+
+<use figuras/NomMes2014-eps-converted-to.pdf>
+Package pdftex.def Info: figuras/NomMes2014-eps-converted-to.pdf used on input 
+line 423.
+(pdftex.def)             Requested size: 216.81pt x 144.53964pt.
+Package epstopdf Info: Source file: <figuras/NomMes2015.eps>
+(epstopdf)                    date: 2016-06-26 14:25:17
+(epstopdf)                    size: 108885 bytes
+(epstopdf)             Output file: <figuras/NomMes2015-eps-converted-to.pdf>
+(epstopdf)                    date: 2016-06-26 14:27:50
+(epstopdf)                    size: 8229 bytes
+(epstopdf)             Command: <repstopdf --outfile=figuras/NomMes2015-eps-con
+verted-to.pdf figuras/NomMes2015.eps>
+(epstopdf)             \includegraphics on input line 424.
+Package epstopdf Info: Output file is already uptodate.
+
+<figuras/NomMes2015-eps-converted-to.pdf, id=163, 433.62pt x 289.08pt>
+File: figuras/NomMes2015-eps-converted-to.pdf Graphic file (type pdf)
+
+<use figuras/NomMes2015-eps-converted-to.pdf>
+Package pdftex.def Info: figuras/NomMes2015-eps-converted-to.pdf used on input 
+line 424.
+(pdftex.def)             Requested size: 216.81pt x 144.53964pt.
+
+Overfull \hbox (75.45325pt too wide) in paragraph at lines 418--426
+[][] 
+ []
+
+Package epstopdf Info: Source file: <figuras/DescripcioDiaSetmana2010.eps>
+(epstopdf)                    date: 2016-06-26 14:25:23
+(epstopdf)                    size: 106670 bytes
+(epstopdf)             Output file: <figuras/DescripcioDiaSetmana2010-eps-conve
+rted-to.pdf>
+(epstopdf)                    date: 2016-06-26 14:27:53
+(epstopdf)                    size: 7277 bytes
+(epstopdf)             Command: <repstopdf --outfile=figuras/DescripcioDiaSetma
+na2010-eps-converted-to.pdf figuras/DescripcioDiaSetmana2010.eps>
+(epstopdf)             \includegraphics on input line 432.
+Package epstopdf Info: Output file is already uptodate.
+
+<figuras/DescripcioDiaSetmana2010-eps-converted-to.pdf, id=164, 433.62pt x 289.
+08pt>
+File: figuras/DescripcioDiaSetmana2010-eps-converted-to.pdf Graphic file (type 
+pdf)
+ <use figuras/DescripcioDiaSetmana2010-eps-converted-to.pdf>
+Package pdftex.def Info: figuras/DescripcioDiaSetmana2010-eps-converted-to.pdf 
+used on input line 432.
+(pdftex.def)             Requested size: 216.81pt x 144.53964pt.
+Package epstopdf Info: Source file: <figuras/DescripcioDiaSetmana2011.eps>
+(epstopdf)                    date: 2016-06-26 14:25:25
+(epstopdf)                    size: 106655 bytes
+(epstopdf)             Output file: <figuras/DescripcioDiaSetmana2011-eps-conve
+rted-to.pdf>
+(epstopdf)                    date: 2016-06-26 14:27:54
+(epstopdf)                    size: 7271 bytes
+(epstopdf)             Command: <repstopdf --outfile=figuras/DescripcioDiaSetma
+na2011-eps-converted-to.pdf figuras/DescripcioDiaSetmana2011.eps>
+(epstopdf)             \includegraphics on input line 433.
+Package epstopdf Info: Output file is already uptodate.
+
+<figuras/DescripcioDiaSetmana2011-eps-converted-to.pdf, id=165, 433.62pt x 289.
+08pt>
+File: figuras/DescripcioDiaSetmana2011-eps-converted-to.pdf Graphic file (type 
+pdf)
+ <use figuras/DescripcioDiaSetmana2011-eps-converted-to.pdf>
+Package pdftex.def Info: figuras/DescripcioDiaSetmana2011-eps-converted-to.pdf 
+used on input line 433.
+(pdftex.def)             Requested size: 216.81pt x 144.53964pt.
+Package epstopdf Info: Source file: <figuras/DescripcioDiaSetmana2012.eps>
+(epstopdf)                    date: 2016-06-26 14:25:27
+(epstopdf)                    size: 106758 bytes
+(epstopdf)             Output file: <figuras/DescripcioDiaSetmana2012-eps-conve
+rted-to.pdf>
+(epstopdf)                    date: 2016-06-26 14:27:55
+(epstopdf)                    size: 7296 bytes
+(epstopdf)             Command: <repstopdf --outfile=figuras/DescripcioDiaSetma
+na2012-eps-converted-to.pdf figuras/DescripcioDiaSetmana2012.eps>
+(epstopdf)             \includegraphics on input line 434.
+Package epstopdf Info: Output file is already uptodate.
+
+<figuras/DescripcioDiaSetmana2012-eps-converted-to.pdf, id=166, 433.62pt x 289.
+08pt>
+File: figuras/DescripcioDiaSetmana2012-eps-converted-to.pdf Graphic file (type 
+pdf)
+ <use figuras/DescripcioDiaSetmana2012-eps-converted-to.pdf>
+Package pdftex.def Info: figuras/DescripcioDiaSetmana2012-eps-converted-to.pdf 
+used on input line 434.
+(pdftex.def)             Requested size: 216.81pt x 144.53964pt.
+Package epstopdf Info: Source file: <figuras/DescripcioDiaSetmana2013.eps>
+(epstopdf)                    date: 2016-06-26 14:25:28
+(epstopdf)                    size: 106758 bytes
+(epstopdf)             Output file: <figuras/DescripcioDiaSetmana2013-eps-conve
+rted-to.pdf>
+(epstopdf)                    date: 2016-06-26 14:27:57
+(epstopdf)                    size: 7298 bytes
+(epstopdf)             Command: <repstopdf --outfile=figuras/DescripcioDiaSetma
+na2013-eps-converted-to.pdf figuras/DescripcioDiaSetmana2013.eps>
+(epstopdf)             \includegraphics on input line 435.
+Package epstopdf Info: Output file is already uptodate.
+
+<figuras/DescripcioDiaSetmana2013-eps-converted-to.pdf, id=167, 433.62pt x 289.
+08pt>
+File: figuras/DescripcioDiaSetmana2013-eps-converted-to.pdf Graphic file (type 
+pdf)
+ <use figuras/DescripcioDiaSetmana2013-eps-converted-to.pdf>
+Package pdftex.def Info: figuras/DescripcioDiaSetmana2013-eps-converted-to.pdf 
+used on input line 435.
+(pdftex.def)             Requested size: 216.81pt x 144.53964pt.
+Package epstopdf Info: Source file: <figuras/DescripcioDiaSetmana2014.eps>
+(epstopdf)                    date: 2016-06-26 14:25:30
+(epstopdf)                    size: 106744 bytes
+(epstopdf)             Output file: <figuras/DescripcioDiaSetmana2014-eps-conve
+rted-to.pdf>
+(epstopdf)                    date: 2016-06-26 14:27:59
+(epstopdf)                    size: 7299 bytes
+(epstopdf)             Command: <repstopdf --outfile=figuras/DescripcioDiaSetma
+na2014-eps-converted-to.pdf figuras/DescripcioDiaSetmana2014.eps>
+(epstopdf)             \includegraphics on input line 436.
+Package epstopdf Info: Output file is already uptodate.
+
+<figuras/DescripcioDiaSetmana2014-eps-converted-to.pdf, id=168, 433.62pt x 289.
+08pt>
+File: figuras/DescripcioDiaSetmana2014-eps-converted-to.pdf Graphic file (type 
+pdf)
+ <use figuras/DescripcioDiaSetmana2014-eps-converted-to.pdf>
+Package pdftex.def Info: figuras/DescripcioDiaSetmana2014-eps-converted-to.pdf 
+used on input line 436.
+(pdftex.def)             Requested size: 216.81pt x 144.53964pt.
+Package epstopdf Info: Source file: <figuras/DescripcioDiaSetmana2015.eps>
+(epstopdf)                    date: 2016-06-26 14:25:32
+(epstopdf)                    size: 106770 bytes
+(epstopdf)             Output file: <figuras/DescripcioDiaSetmana2015-eps-conve
+rted-to.pdf>
+(epstopdf)                    date: 2016-06-26 14:28:00
+(epstopdf)                    size: 7298 bytes
+(epstopdf)             Command: <repstopdf --outfile=figuras/DescripcioDiaSetma
+na2015-eps-converted-to.pdf figuras/DescripcioDiaSetmana2015.eps>
+(epstopdf)             \includegraphics on input line 437.
+Package epstopdf Info: Output file is already uptodate.
+
+<figuras/DescripcioDiaSetmana2015-eps-converted-to.pdf, id=169, 433.62pt x 289.
+08pt>
+File: figuras/DescripcioDiaSetmana2015-eps-converted-to.pdf Graphic file (type 
+pdf)
+ <use figuras/DescripcioDiaSetmana2015-eps-converted-to.pdf>
+Package pdftex.def Info: figuras/DescripcioDiaSetmana2015-eps-converted-to.pdf 
+used on input line 437.
+(pdftex.def)             Requested size: 216.81pt x 144.53964pt.
+
+Overfull \hbox (75.45325pt too wide) in paragraph at lines 431--439
+[][] 
+ []
+
+[15] [16 <./mapesImg/heatmap2010.png>] [17 <./mapesImg/heatmap2011.png>]
+[18 <./mapesImg/heatmap2012.png>] [19 <./mapesImg/heatmap2013.png>] [20 <./mape
+sImg/heatmap2014.png>] [21 <./mapesImg/heatmap2015.png>] [22 <./figuras/NomDist
+ricte2010-eps-converted-to.pdf> <./figuras/NomDistricte2011-eps-converted-to.pd
+f> <./figuras/NomDistricte2012-eps-converted-to.pdf> <./figuras/NomDistricte201
+3-eps-converted-to.pdf> <./figuras/NomDistricte2014-eps-converted-to.pdf> <./fi
+guras/NomDistricte2015-eps-converted-to.pdf>] [23 <./figuras/NomBarriTop2010-ep
+s-converted-to.pdf> <./figuras/NomBarriTop2011-eps-converted-to.pdf> <./figuras
+/NomBarriTop2012-eps-converted-to.pdf> <./figuras/NomBarriTop2013-eps-converted
+-to.pdf> <./figuras/NomBarriTop2014-eps-converted-to.pdf> <./figuras/NomBarriTo
+p2015-eps-converted-to.pdf>] [24 <./figuras/NomCarrerTop2010-eps-converted-to.p
+df> <./figuras/NomCarrerTop2011-eps-converted-to.pdf> <./figuras/NomCarrerTop20
+12-eps-converted-to.pdf> <./figuras/NomCarrerTop2013-eps-converted-to.pdf> <./f
+iguras/NomCarrerTop2014-eps-converted-to.pdf> <./figuras/NomCarrerTop2015-eps-c
+onverted-to.pdf>] [25 <./figuras/NomMes2010-eps-converted-to.pdf> <./figuras/No
+mMes2011-eps-converted-to.pdf> <./figuras/NomMes2012-eps-converted-to.pdf> <./f
+iguras/NomMes2013-eps-converted-to.pdf> <./figuras/NomMes2014-eps-converted-to.
+pdf> <./figuras/NomMes2015-eps-converted-to.pdf>] [26 <./figuras/DescripcioDiaS
+etmana2010-eps-converted-to.pdf> <./figuras/DescripcioDiaSetmana2011-eps-conver
+ted-to.pdf> <./figuras/DescripcioDiaSetmana2012-eps-converted-to.pdf> <./figura
+s/DescripcioDiaSetmana2013-eps-converted-to.pdf> <./figuras/DescripcioDiaSetman
+a2014-eps-converted-to.pdf> <./figuras/DescripcioDiaSetmana2015-eps-converted-t
+o.pdf>] (./Memoria.aux
 LaTeX Info: Redefining \. on input line 6.
 LaTeX Info: Redefining \% on input line 6.
 ) ) 
 Here is how much of TeX's memory you used:
- 2763 strings out of 493304
- 36971 string characters out of 6139872
- 105610 words of memory out of 5000000
- 6176 multiletter control sequences out of 15000+600000
+ 4777 strings out of 493304
+ 75691 string characters out of 6139872
+ 150594 words of memory out of 5000000
+ 8111 multiletter control sequences out of 15000+600000
  9750 words of font info for 34 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
- 42i,7n,26p,301b,296s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 44i,16n,47p,810b,439s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></u
 sr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/sh
-are/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/tex
-live/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on Memoria.pdf (8 pages, 73926 bytes).
+are/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/tex
+live/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/te
+xmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-di
+st/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/share/texlive/texmf-dist/fon
+ts/type1/urw/helvetic/uhvr8a.pfb>
+Output written on Memoria.pdf (29 pages, 5168515 bytes).
 PDF statistics:
- 48 PDF objects out of 1000 (max. 8388607)
- 32 compressed objects within 1 object stream
+ 412 PDF objects out of 1000 (max. 8388607)
+ 322 compressed objects within 4 object streams
  0 named destinations out of 1000 (max. 500000)
- 6 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 241 words of extra memory for PDF output out of 10000 (max. 10000000)
 

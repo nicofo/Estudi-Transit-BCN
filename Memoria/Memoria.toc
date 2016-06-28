@@ -1,17 +1,20 @@
 \select@language {spanish}
-\contentsline {section}{\numberline {1}Introducci\IeC {\'o}}{2}
-\contentsline {section}{\numberline {2}Exploraci\IeC {\'o} de les dades}{3}
-\contentsline {subsection}{\numberline {2.1}Presentaci\IeC {\'o} dels DataSets}{3}
-\contentsline {subsection}{\numberline {2.2}Neteja de les dades}{3}
-\contentsline {subsection}{\numberline {2.3}An\IeC {\`a}lisis inicials de les dades}{3}
-\contentsline {subsection}{\numberline {2.4}Conclusi\IeC {\'o} de l'exploraci\IeC {\'o}}{3}
-\contentsline {section}{\numberline {3}An\IeC {\`a}lisi exhaustiu}{4}
-\contentsline {subsection}{\numberline {3.1}Plantejament de les hipotesis}{4}
-\contentsline {subsection}{\numberline {3.2}Enrequiment de lesdDades}{4}
-\contentsline {subsection}{\numberline {3.3}An\IeC {\`a}lisis}{4}
-\contentsline {subsection}{\numberline {3.4}Presentaci\IeC {\'o} de resultats}{4}
-\contentsline {section}{\numberline {4}Conclusi\IeC {\'o} i treball futur}{5}
-\contentsline {subsection}{\numberline {4.1}Conclusi\IeC {\'o}}{5}
-\contentsline {subsection}{\numberline {4.2}Treball futur}{5}
-\contentsline {section}{\numberline {5}Bibliografia}{6}
-\contentsline {section}{\numberline {6}Anexos}{7}
+\contentsline {section}{\numberline {1}Introducci\IeC {\'o}}{1}
+\contentsline {section}{\numberline {2}Com ens ho plantejarm}{2}
+\contentsline {subsection}{\numberline {2.1}Metodologies}{2}
+\contentsline {subsection}{\numberline {2.2}Software}{2}
+\contentsline {section}{\numberline {3}Exploraci\IeC {\'o} de les dades}{3}
+\contentsline {subsection}{\numberline {3.1}Presentaci\IeC {\'o} dels DataSets}{3}
+\contentsline {subsection}{\numberline {3.2}Neteja de les dades}{4}
+\contentsline {subsection}{\numberline {3.3}An\IeC {\`a}lisis inicials de les dades}{5}
+\contentsline {subsection}{\numberline {3.4}Conclusi\IeC {\'o} de l'exploraci\IeC {\'o}}{10}
+\contentsline {section}{\numberline {4}An\IeC {\`a}lisi exhaustiu}{11}
+\contentsline {subsection}{\numberline {4.1}Plantejament de les hipotesis}{11}
+\contentsline {subsection}{\numberline {4.2}Enrequiment de lesdDades}{11}
+\contentsline {subsection}{\numberline {4.3}An\IeC {\`a}lisis}{11}
+\contentsline {subsection}{\numberline {4.4}Presentaci\IeC {\'o} de resultats}{11}
+\contentsline {section}{\numberline {5}Conclusi\IeC {\'o} i treball futur}{12}
+\contentsline {subsection}{\numberline {5.1}Conclusi\IeC {\'o}}{12}
+\contentsline {subsection}{\numberline {5.2}Treball futur}{12}
+\contentsline {section}{\numberline {6}Bibliografia}{13}
+\contentsline {section}{\numberline {7}Anexos}{14}
